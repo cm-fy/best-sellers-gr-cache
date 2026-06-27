@@ -1,0 +1,112 @@
+{
+  "fetched_at": "2026-06-27T23:25:41.098856Z",
+  "year": 2026,
+  "month": 6,
+  "lists": [
+    {
+      "slug": "most_read",
+      "label": "Most Read",
+      "url": "https://www.goodreads.com/book/most_read",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "best_books_ever",
+      "label": "Best Books Ever",
+      "url": "https://www.goodreads.com/list/show/1.Best_Books_Ever",
+      "book_count": 100,
+      "status": "ok"
+    },
+    {
+      "slug": "hugo_award",
+      "label": "Hugo Award",
+      "url": "https://www.goodreads.com/award/show/9-hugo-award",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "popular_month",
+      "label": "Popular This Month",
+      "url": "https://www.goodreads.com/book/popular_by_date/2026/6",
+      "book_count": 15,
+      "status": "ok"
+    },
+    {
+      "slug": "popular_year",
+      "label": "Popular This Year",
+      "url": "https://www.goodreads.com/book/popular_by_date/2026/",
+      "book_count": 15,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_adventure",
+      "label": "Adventure",
+      "url": "https://www.goodreads.com/shelf/show/adventure",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_fantasy",
+      "label": "Fantasy",
+      "url": "https://www.goodreads.com/shelf/show/fantasy",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_science-fiction",
+      "label": "Science Fiction",
+      "url": "https://www.goodreads.com/shelf/show/science-fiction",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_historical-fiction",
+      "label": "Historical Fiction",
+      "url": "https://www.goodreads.com/shelf/show/historical-fiction",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_romance",
+      "label": "Romance",
+      "url": "https://www.goodreads.com/shelf/show/romance",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_thriller",
+      "label": "Thriller",
+      "url": "https://www.goodreads.com/shelf/show/thriller",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_horror",
+      "label": "Horror",
+      "url": "https://www.goodreads.com/shelf/show/horror",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_young-adult",
+      "label": "Young Adult",
+      "url": "https://www.goodreads.com/shelf/show/young-adult",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_non-fiction",
+      "label": "Non Fiction",
+      "url": "https://www.goodreads.com/shelf/show/non-fiction",
+      "book_count": 50,
+      "status": "ok"
+    },
+    {
+      "slug": "shelf_currently-reading",
+      "label": "Currently Reading",
+      "url": "https://www.goodreads.com/shelf/show/currently-reading",
+      "book_count": 50,
+      "status": "ok"
+    }
+  ]
+}

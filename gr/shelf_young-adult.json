@@ -1,0 +1,352 @@
+[
+  {
+    "rank": "1",
+    "title": "The Hunger Games",
+    "authors": "Suzanne Collins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+  },
+  {
+    "rank": "2",
+    "title": "Catching Fire",
+    "authors": "Suzanne Collins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941l/6148028._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6148028-catching-fire"
+  },
+  {
+    "rank": "3",
+    "title": "Mockingjay",
+    "authors": "Suzanne Collins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722918l/7260188._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7260188-mockingjay"
+  },
+  {
+    "rank": "4",
+    "title": "The Fault in Our Stars",
+    "authors": "John  Green",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436142804l/25856606._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars"
+  },
+  {
+    "rank": "5",
+    "title": "Divergent",
+    "authors": "Veronica Roth",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890l/13335037._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13335037-divergent"
+  },
+  {
+    "rank": "6",
+    "title": "Twilight",
+    "authors": "Stephenie Meyer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700522826l/41865._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/41865.Twilight"
+  },
+  {
+    "rank": "7",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone"
+  },
+  {
+    "rank": "8",
+    "title": "Harry Potter and the Goblet of Fire",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627044952l/58613424._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire"
+  },
+  {
+    "rank": "9",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630547330l/5._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban"
+  },
+  {
+    "rank": "10",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets"
+  },
+  {
+    "rank": "11",
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627042661l/58613224._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613224-harry-potter-and-the-deathly-hallows"
+  },
+  {
+    "rank": "12",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627045351l/58613451._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix"
+  },
+  {
+    "rank": "13",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627043894l/58613345._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613345-harry-potter-and-the-half-blood-prince"
+  },
+  {
+    "rank": "14",
+    "title": "New Moon",
+    "authors": "Stephenie Meyer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630592760l/49041._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/49041.New_Moon"
+  },
+  {
+    "rank": "15",
+    "title": "Insurgent",
+    "authors": "Veronica Roth",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618525340l/11735983._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11735983-insurgent"
+  },
+  {
+    "rank": "16",
+    "title": "Eclipse",
+    "authors": "Stephenie Meyer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361038355l/428263._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/428263.Eclipse"
+  },
+  {
+    "rank": "17",
+    "title": "City of Bones",
+    "authors": "Cassandra Clare",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/256683.City_of_Bones"
+  },
+  {
+    "rank": "18",
+    "title": "Breaking Dawn",
+    "authors": "Stephenie Meyer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039438l/1162543._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1162543.Breaking_Dawn"
+  },
+  {
+    "rank": "19",
+    "title": "The Perks of Being a Wallflower",
+    "authors": "Stephen Chbosky",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650033115l/22628._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower"
+  },
+  {
+    "rank": "20",
+    "title": "Looking for Alaska",
+    "authors": "John  Green",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652042180l/99561._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/99561.Looking_for_Alaska"
+  },
+  {
+    "rank": "21",
+    "title": "Eleanor & Park",
+    "authors": "Rainbow Rowell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952742l/15745753._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15745753-eleanor-park"
+  },
+  {
+    "rank": "22",
+    "title": "The Giver",
+    "authors": "Lois Lowry",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368l/3636._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/3636.The_Giver"
+  },
+  {
+    "rank": "23",
+    "title": "Cinder",
+    "authors": "Marissa Meyer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507557775l/36381037._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36381037-cinder"
+  },
+  {
+    "rank": "24",
+    "title": "The Lightning Thief",
+    "authors": "Rick Riordan",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684776677l/123675190._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/123675190-the-lightning-thief"
+  },
+  {
+    "rank": "25",
+    "title": "Allegiant",
+    "authors": "Veronica Roth",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395582745l/18710190._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18710190-allegiant"
+  },
+  {
+    "rank": "26",
+    "title": "The Maze Runner",
+    "authors": "James Dashner",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375596592l/6186357._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6186357-the-maze-runner"
+  },
+  {
+    "rank": "27",
+    "title": "Paper Towns",
+    "authors": "John  Green",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349013610l/6442769._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6442769-paper-towns"
+  },
+  {
+    "rank": "28",
+    "title": "The Book Thief",
+    "authors": "Markus Zusak",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/19063.The_Book_Thief"
+  },
+  {
+    "rank": "29",
+    "title": "Shadow and Bone",
+    "authors": "Leigh Bardugo",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519072763l/37834723._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/37834723-shadow-and-bone"
+  },
+  {
+    "rank": "30",
+    "title": "Six of Crows",
+    "authors": "Leigh Bardugo",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651710803l/23437156._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/23437156-six-of-crows"
+  },
+  {
+    "rank": "31",
+    "title": "The Hate U Give",
+    "authors": "Angie Thomas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636851138l/58651625._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58651625-the-hate-u-give"
+  },
+  {
+    "rank": "32",
+    "title": "City of Ashes",
+    "authors": "Cassandra Clare",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730356l/1582996._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1582996.City_of_Ashes"
+  },
+  {
+    "rank": "33",
+    "title": "Thirteen Reasons Why",
+    "authors": "Jay Asher",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555345043l/29844228._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/29844228-thirteen-reasons-why"
+  },
+  {
+    "rank": "34",
+    "title": "The Selection",
+    "authors": "Kiera Cass",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322103400l/10507293._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10507293-the-selection"
+  },
+  {
+    "rank": "35",
+    "title": "Miss Peregrine's Home for Peculiar Children",
+    "authors": "Ransom Riggs",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623449170l/9460487._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children"
+  },
+  {
+    "rank": "36",
+    "title": "Fangirl",
+    "authors": "Rainbow Rowell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355886270l/16068905._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/16068905-fangirl"
+  },
+  {
+    "rank": "37",
+    "title": "Throne of Glass",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566495l/76703559._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/76703559-throne-of-glass"
+  },
+  {
+    "rank": "38",
+    "title": "We Were Liars",
+    "authors": "E. Lockhart",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402749479l/16143347._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/16143347-we-were-liars"
+  },
+  {
+    "rank": "39",
+    "title": "City of Glass",
+    "authors": "Cassandra Clare",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369452339l/3777732._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/3777732-city-of-glass"
+  },
+  {
+    "rank": "40",
+    "title": "The Cruel Prince",
+    "authors": "Holly Black",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574535986l/26032825._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/26032825-the-cruel-prince"
+  },
+  {
+    "rank": "41",
+    "title": "Red Queen",
+    "authors": "Victoria Aveyard",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449778912l/22328546._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22328546-red-queen"
+  },
+  {
+    "rank": "42",
+    "title": "Speak",
+    "authors": "Laurie Halse Anderson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529044298l/39280444._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/39280444-speak"
+  },
+  {
+    "rank": "43",
+    "title": "The Outsiders",
+    "authors": "S.E. Hinton",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689626520l/192566704._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/192566704-the-outsiders"
+  },
+  {
+    "rank": "44",
+    "title": "If I Stay",
+    "authors": "Gayle Forman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630573973l/4374400._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4374400-if-i-stay"
+  },
+  {
+    "rank": "45",
+    "title": "Clockwork Angel",
+    "authors": "Cassandra Clare",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693490271l/7171637._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7171637-clockwork-angel"
+  },
+  {
+    "rank": "46",
+    "title": "Aristotle and Dante Discover the Secrets of the Universe",
+    "authors": "Benjamin Alire Sáenz",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328320260l/12000020._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe"
+  },
+  {
+    "rank": "47",
+    "title": "The Raven Boys",
+    "authors": "Maggie Stiefvater",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573508485l/17675462._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17675462-the-raven-boys"
+  },
+  {
+    "rank": "48",
+    "title": "Uglies",
+    "authors": "Scott Westerfeld",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654202671l/24770._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/24770.Uglies"
+  },
+  {
+    "rank": "49",
+    "title": "The Golden Compass",
+    "authors": "Philip Pullman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/119322.The_Golden_Compass"
+  },
+  {
+    "rank": "50",
+    "title": "Matched",
+    "authors": "Ally Condie",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367706191l/7735333._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7735333-matched"
+  }
+]

@@ -1,0 +1,702 @@
+[
+  {
+    "rank": "1",
+    "title": "The Hunger Games",
+    "authors": "Suzanne Collins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975i/2767052._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+  },
+  {
+    "rank": "2",
+    "title": "Pride and Prejudice",
+    "authors": "Jane Austen",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320399351i/1885._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1885.Pride_and_Prejudice"
+  },
+  {
+    "rank": "3",
+    "title": "To Kill a Mockingbird",
+    "authors": "Harper Lee",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1553383690i/2657._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2657.To_Kill_a_Mockingbird"
+  },
+  {
+    "rank": "4",
+    "title": "The Book Thief",
+    "authors": "Markus Zusak",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426i/19063._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/19063.The_Book_Thief"
+  },
+  {
+    "rank": "5",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546910265i/2._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2.Harry_Potter_and_the_Order_of_the_Phoenix"
+  },
+  {
+    "rank": "6",
+    "title": "Twilight",
+    "authors": "Stephenie Meyer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700522826i/41865._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/41865.Twilight"
+  },
+  {
+    "rank": "7",
+    "title": "Animal Farm",
+    "authors": "George Orwell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1325861570i/170448._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/170448.Animal_Farm"
+  },
+  {
+    "rank": "8",
+    "title": "J.R.R. Tolkien 4-Book Boxed Set: The Hobbit and The Lord of the Rings",
+    "authors": "J.R.R. Tolkien",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656625315i/30._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/30.J_R_R_Tolkien_4_Book_Boxed_Set"
+  },
+  {
+    "rank": "9",
+    "title": "The Chronicles of Narnia",
+    "authors": "C.S. Lewis",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661032875i/11127._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11127.The_Chronicles_of_Narnia"
+  },
+  {
+    "rank": "10",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627045351i/58613451._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix"
+  },
+  {
+    "rank": "11",
+    "title": "The Fault in Our Stars",
+    "authors": "John  Green",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660273739i/11870085._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11870085-the-fault-in-our-stars"
+  },
+  {
+    "rank": "12",
+    "title": "The Picture of Dorian Gray",
+    "authors": "Oscar Wilde",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546103428i/5297._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5297.The_Picture_of_Dorian_Gray"
+  },
+  {
+    "rank": "13",
+    "title": "The Lightning Thief",
+    "authors": "Rick Riordan",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1400602609i/28187._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/28187.The_Lightning_Thief"
+  },
+  {
+    "rank": "14",
+    "title": "Wuthering Heights",
+    "authors": "Emily Brontë",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388212715i/6185._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6185.Wuthering_Heights"
+  },
+  {
+    "rank": "15",
+    "title": "The Giving Tree",
+    "authors": "Shel Silverstein",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1769901237i/370493._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/370493.The_Giving_Tree"
+  },
+  {
+    "rank": "16",
+    "title": "The Perks of Being a Wallflower",
+    "authors": "Stephen Chbosky",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650033115i/22628._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower"
+  },
+  {
+    "rank": "17",
+    "title": "The Little Prince",
+    "authors": "Antoine de Saint-Exupéry",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367545443i/157993._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/157993.The_Little_Prince"
+  },
+  {
+    "rank": "18",
+    "title": "Gone with the Wind",
+    "authors": "Margaret Mitchell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551144577i/18405._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18405.Gone_with_the_Wind"
+  },
+  {
+    "rank": "19",
+    "title": "Jane Eyre",
+    "authors": "Charlotte Brontë",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1557343311i/10210._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10210.Jane_Eyre"
+  },
+  {
+    "rank": "20",
+    "title": "The Great Gatsby",
+    "authors": "F. Scott Fitzgerald",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738790966i/4671._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4671.The_Great_Gatsby"
+  },
+  {
+    "rank": "21",
+    "title": "Crime and Punishment",
+    "authors": "Fyodor Dostoevsky",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449i/7144._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment"
+  },
+  {
+    "rank": "22",
+    "title": "The Da Vinci Code",
+    "authors": "Dan    Brown",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720313229i/968._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/968.The_Da_Vinci_Code"
+  },
+  {
+    "rank": "23",
+    "title": "Alice’s Adventures in Wonderland / Through the Looking-Glass",
+    "authors": "Lewis Carroll",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630487234i/24213._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/24213.Alice_s_Adventures_in_Wonderland_Through_the_Looking_Glass"
+  },
+  {
+    "rank": "24",
+    "title": "Divergent",
+    "authors": "Veronica Roth",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890i/13335037._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13335037-divergent"
+  },
+  {
+    "rank": "25",
+    "title": "Les Misérables",
+    "authors": "Victor Hugo",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411852091i/24280._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/24280.Les_Mis_rables"
+  },
+  {
+    "rank": "26",
+    "title": "Anne of Green Gables",
+    "authors": "L.M. Montgomery",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1615094578i/8127._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/8127.Anne_of_Green_Gables"
+  },
+  {
+    "rank": "27",
+    "title": "Memoirs of a Geisha",
+    "authors": "Arthur Golden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409595968i/929._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha"
+  },
+  {
+    "rank": "28",
+    "title": "The Alchemist",
+    "authors": "Paulo Coelho",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1483412266i/865._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/865.The_Alchemist"
+  },
+  {
+    "rank": "29",
+    "title": "Lord of the Flies",
+    "authors": "William Golding",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327869409i/7624._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7624.Lord_of_the_Flies"
+  },
+  {
+    "rank": "30",
+    "title": "Romeo and Juliet",
+    "authors": "William Shakespeare",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629680008i/18135._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18135.Romeo_and_Juliet"
+  },
+  {
+    "rank": "31",
+    "title": "Brave New World",
+    "authors": "Aldous Huxley",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280i/5129._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+  },
+  {
+    "rank": "32",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "authors": "Douglas Adams",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848i/11._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy"
+  },
+  {
+    "rank": "33",
+    "title": "City of Bones",
+    "authors": "Cassandra Clare",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315i/256683._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/256683.City_of_Bones"
+  },
+  {
+    "rank": "34",
+    "title": "1984",
+    "authors": "George Orwell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1532714506i/40961427._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40961427-1984"
+  },
+  {
+    "rank": "35",
+    "title": "Dracula",
+    "authors": "Bram Stoker",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694i/17245._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17245.Dracula"
+  },
+  {
+    "rank": "36",
+    "title": "Fahrenheit 451",
+    "authors": "Ray Bradbury",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290i/13079982._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13079982-fahrenheit-451"
+  },
+  {
+    "rank": "37",
+    "title": "The Help",
+    "authors": "Kathryn Stockett",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622355533i/4667024._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4667024-the-help"
+  },
+  {
+    "rank": "38",
+    "title": "Charlotte’s Web",
+    "authors": "E.B. White",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628267712i/24178._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/24178.Charlotte_s_Web"
+  },
+  {
+    "rank": "39",
+    "title": "Of Mice and Men",
+    "authors": "John Steinbeck",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1511302904i/890._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/890.Of_Mice_and_Men"
+  },
+  {
+    "rank": "40",
+    "title": "Ender’s Game",
+    "authors": "Orson Scott Card",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130i/375802._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/375802.Ender_s_Game"
+  },
+  {
+    "rank": "41",
+    "title": "The Catcher in the Rye",
+    "authors": "J.D. Salinger",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1398034300i/5107._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5107.The_Catcher_in_the_Rye"
+  },
+  {
+    "rank": "42",
+    "title": "Little Women",
+    "authors": "Louisa May Alcott",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562690475i/1934._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1934.Little_Women"
+  },
+  {
+    "rank": "43",
+    "title": "The Outsiders",
+    "authors": "S.E. Hinton",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442129426i/231804._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/231804.The_Outsiders"
+  },
+  {
+    "rank": "44",
+    "title": "One Hundred Years of Solitude",
+    "authors": "Gabriel García Márquez",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327881361i/320._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/320.One_Hundred_Years_of_Solitude"
+  },
+  {
+    "rank": "45",
+    "title": "A Thousand Splendid Suns",
+    "authors": "Khaled Hosseini",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655336738i/128029._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns"
+  },
+  {
+    "rank": "46",
+    "title": "The Secret Garden",
+    "authors": "Frances Hodgson Burnett",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873635i/2998._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2998.The_Secret_Garden"
+  },
+  {
+    "rank": "47",
+    "title": "A Game of Thrones",
+    "authors": "George R.R. Martin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234i/13496._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones"
+  },
+  {
+    "rank": "48",
+    "title": "The Princess Bride",
+    "authors": "William Goldman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327903636i/21787._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/21787.The_Princess_Bride"
+  },
+  {
+    "rank": "49",
+    "title": "The Time Traveler's Wife",
+    "authors": "Audrey Niffenegger",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733519901i/18619684._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18619684-the-time-traveler-s-wife"
+  },
+  {
+    "rank": "50",
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663805647i/136251._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/136251.Harry_Potter_and_the_Deathly_Hallows"
+  },
+  {
+    "rank": "51",
+    "title": "Frankenstein: The 1818 Text",
+    "authors": "Mary Wollstonecraft Shelley",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473i/35031085._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/35031085-frankenstein"
+  },
+  {
+    "rank": "52",
+    "title": "The Odyssey",
+    "authors": "Homer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711957706i/1381._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1381.The_Odyssey"
+  },
+  {
+    "rank": "53",
+    "title": "The Girl With the Dragon Tattoo",
+    "authors": "Stieg Larsson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684638853i/2429135._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2429135.The_Girl_With_the_Dragon_Tattoo"
+  },
+  {
+    "rank": "54",
+    "title": "The Handmaid’s Tale",
+    "authors": "Margaret Atwood",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1578028274i/38447._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/38447.The_Handmaid_s_Tale"
+  },
+  {
+    "rank": "55",
+    "title": "The Giver",
+    "authors": "Lois Lowry",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368i/3636._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/3636.The_Giver"
+  },
+  {
+    "rank": "56",
+    "title": "The Kite Runner",
+    "authors": "Khaled Hosseini",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1579036753i/77203._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/77203.The_Kite_Runner"
+  },
+  {
+    "rank": "57",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630547330i/5._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban"
+  },
+  {
+    "rank": "58",
+    "title": "A Wrinkle in Time",
+    "authors": "Madeleine L&#39;Engle",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312i/33574273._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time"
+  },
+  {
+    "rank": "59",
+    "title": "Dune",
+    "authors": "Frank Herbert",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414i/44767458._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/44767458-dune"
+  },
+  {
+    "rank": "60",
+    "title": "Where the Wild Things Are",
+    "authors": "Maurice Sendak",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1384434560i/19543._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/19543.Where_the_Wild_Things_Are"
+  },
+  {
+    "rank": "61",
+    "title": "Green Eggs and Ham",
+    "authors": "Dr. Seuss",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673212751i/23772._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/23772.Green_Eggs_and_Ham"
+  },
+  {
+    "rank": "62",
+    "title": "The Lovely Bones",
+    "authors": "Alice Sebold",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1457810586i/12232938._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/12232938-the-lovely-bones"
+  },
+  {
+    "rank": "63",
+    "title": "The Adventures of Huckleberry Finn",
+    "authors": "Mark Twain",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546096879i/2956._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2956.The_Adventures_of_Huckleberry_Finn"
+  },
+  {
+    "rank": "64",
+    "title": "Life of Pi",
+    "authors": "Yann Martel",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631251689i/4214._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4214.Life_of_Pi"
+  },
+  {
+    "rank": "65",
+    "title": "Lolita",
+    "authors": "Vladimir Nabokov",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1377756377i/7604._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7604.Lolita"
+  },
+  {
+    "rank": "66",
+    "title": "A Tale of Two Cities",
+    "authors": "Charles Dickens",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344922523i/1953._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1953.A_Tale_of_Two_Cities"
+  },
+  {
+    "rank": "67",
+    "title": "Slaughterhouse-Five",
+    "authors": "Kurt Vonnegut Jr.",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389i/4981._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
+  },
+  {
+    "rank": "68",
+    "title": "The Bell Jar",
+    "authors": "Sylvia Plath",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554582218i/6514._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6514.The_Bell_Jar"
+  },
+  {
+    "rank": "69",
+    "title": "Matilda",
+    "authors": "Roald Dahl",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388793265i/39988._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/39988.Matilda"
+  },
+  {
+    "rank": "70",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299i/42844155._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone"
+  },
+  {
+    "rank": "71",
+    "title": "Water for Elephants",
+    "authors": "Sara Gruen",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667708346i/43641._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/43641.Water_for_Elephants"
+  },
+  {
+    "rank": "72",
+    "title": "The Stand",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1213131305i/149267._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/149267.The_Stand"
+  },
+  {
+    "rank": "73",
+    "title": "Catch-22",
+    "authors": "Joseph Heller",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1463157317i/168668._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/168668.Catch_22"
+  },
+  {
+    "rank": "74",
+    "title": "The Adventures of Sherlock Holmes",
+    "authors": "Arthur Conan Doyle",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1164045516i/3590._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/3590.The_Adventures_of_Sherlock_Holmes"
+  },
+  {
+    "rank": "75",
+    "title": "A Clockwork Orange",
+    "authors": "Anthony Burgess",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549260060i/41817486._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/41817486-a-clockwork-orange"
+  },
+  {
+    "rank": "76",
+    "title": "The Pillars of the Earth",
+    "authors": "Ken Follett",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100i/5043._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth"
+  },
+  {
+    "rank": "77",
+    "title": "Rebecca",
+    "authors": "Daphne du Maurier",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1386605169i/17899948._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17899948-rebecca"
+  },
+  {
+    "rank": "78",
+    "title": "Watership Down",
+    "authors": "Richard  Adams",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405136931i/76620._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/76620.Watership_Down"
+  },
+  {
+    "rank": "79",
+    "title": "The Color Purple",
+    "authors": "Alice Walker",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703084419i/52892857._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/52892857-the-color-purple"
+  },
+  {
+    "rank": "80",
+    "title": "Great Expectations",
+    "authors": "Charles Dickens",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631687432i/2623._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2623.Great_Expectations"
+  },
+  {
+    "rank": "81",
+    "title": "Outlander",
+    "authors": "Diana Gabaldon",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659086907i/10964._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10964.Outlander"
+  },
+  {
+    "rank": "82",
+    "title": "The Fellowship of the Ring",
+    "authors": "J.R.R. Tolkien",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925i/61215351._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring"
+  },
+  {
+    "rank": "83",
+    "title": "The Elephant Tree",
+    "authors": "R.D. Ronald",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327248026i/9293020._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/9293020-the-elephant-tree"
+  },
+  {
+    "rank": "84",
+    "title": "Anna Karenina",
+    "authors": "Leo Tolstoy",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617i/15823480._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15823480-anna-karenina"
+  },
+  {
+    "rank": "85",
+    "title": "One Flew Over the Cuckoo’s Nest",
+    "authors": "Ken Kesey",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1516211014i/332613._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/332613.One_Flew_Over_the_Cuckoo_s_Nest"
+  },
+  {
+    "rank": "86",
+    "title": "The Brothers Karamazov",
+    "authors": "Fyodor Dostoevsky",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1427728126i/4934._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4934.The_Brothers_Karamazov"
+  },
+  {
+    "rank": "87",
+    "title": "My Sister's Keeper",
+    "authors": "Jodi Picoult",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369504683i/10917._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10917.My_Sister_s_Keeper"
+  },
+  {
+    "rank": "88",
+    "title": "The Zombie Room",
+    "authors": "R.D. Ronald",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1460547041i/29908754._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/29908754-the-zombie-room"
+  },
+  {
+    "rank": "89",
+    "title": "To Kill a Mockingbird",
+    "authors": "Harper Lee",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554368352i/2654._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2654.To_Kill_a_Mockingbird"
+  },
+  {
+    "rank": "90",
+    "title": "A Tree Grows in Brooklyn",
+    "authors": "Betty  Smith",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327883484i/14891._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/14891.A_Tree_Grows_in_Brooklyn"
+  },
+  {
+    "rank": "91",
+    "title": "The Road",
+    "authors": "Cormac McCarthy",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1600241424i/6288._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6288.The_Road"
+  },
+  {
+    "rank": "92",
+    "title": "Harry Potter and the Goblet of Fire",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627044952i/58613424._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire"
+  },
+  {
+    "rank": "93",
+    "title": "Gone Girl",
+    "authors": "Gillian Flynn",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139i/19288043._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/19288043-gone-girl"
+  },
+  {
+    "rank": "94",
+    "title": "The Golden Compass",
+    "authors": "Philip Pullman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203i/119322._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/119322.The_Golden_Compass"
+  },
+  {
+    "rank": "95",
+    "title": "And Then There Were None",
+    "authors": "Agatha Christie",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638425885i/16299._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/16299.And_Then_There_Were_None"
+  },
+  {
+    "rank": "96",
+    "title": "Siddhartha",
+    "authors": "Hermann Hesse",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629378189i/52036._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/52036.Siddhartha"
+  },
+  {
+    "rank": "97",
+    "title": "Vampire Academy",
+    "authors": "Richelle Mead",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361098973i/345627._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/345627.Vampire_Academy"
+  },
+  {
+    "rank": "98",
+    "title": "Don Quixote",
+    "authors": "Miguel de Cervantes Saavedra",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546112331i/3836._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/3836.Don_Quixote"
+  },
+  {
+    "rank": "99",
+    "title": "The Old Man and the Sea",
+    "authors": "Ernest Hemingway",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1329189714i/2165._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2165.The_Old_Man_and_the_Sea"
+  },
+  {
+    "rank": "100",
+    "title": "Angela's Ashes",
+    "authors": "Frank McCourt",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1348317139i/252577._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/252577.Angela_s_Ashes"
+  }
+]

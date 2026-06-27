@@ -1,0 +1,352 @@
+[
+  {
+    "rank": "1",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone"
+  },
+  {
+    "rank": "2",
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "authors": "James Clear",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40121378-atomic-habits"
+  },
+  {
+    "rank": "3",
+    "title": "Pride and Prejudice",
+    "authors": "Jane Austen",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681804503l/129915654._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/129915654-pride-and-prejudice"
+  },
+  {
+    "rank": "4",
+    "title": "1984",
+    "authors": "George Orwell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61439040-1984"
+  },
+  {
+    "rank": "5",
+    "title": "Fourth Wing",
+    "authors": "Rebecca Yarros",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761312598l/61431922._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61431922-fourth-wing"
+  },
+  {
+    "rank": "6",
+    "title": "The Housemaid",
+    "authors": "Freida McFadden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646534743l/60556912._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/60556912-the-housemaid"
+  },
+  {
+    "rank": "7",
+    "title": "Iron Flame",
+    "authors": "Rebecca Yarros",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706724269l/90202302._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/90202302-iron-flame"
+  },
+  {
+    "rank": "8",
+    "title": "Onyx Storm",
+    "authors": "Rebecca Yarros",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1766329694l/209439446._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/209439446-onyx-storm"
+  },
+  {
+    "rank": "9",
+    "title": "A Court of Thorns and Roses",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620324329l/50659467._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses"
+  },
+  {
+    "rank": "10",
+    "title": "Sapiens: A Brief History of Humankind",
+    "authors": "Yuval Noah Harari",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703329310l/23692271._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/23692271-sapiens"
+  },
+  {
+    "rank": "11",
+    "title": "The Handmaid's Tale",
+    "authors": "Margaret Atwood",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488552336l/34454589._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale"
+  },
+  {
+    "rank": "12",
+    "title": "Wuthering Heights",
+    "authors": "Emily Brontë",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1478641029l/32929156._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/32929156-wuthering-heights"
+  },
+  {
+    "rank": "13",
+    "title": "The Silent Patient",
+    "authors": "Alex Michaelides",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668782119l/40097951._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40097951-the-silent-patient"
+  },
+  {
+    "rank": "14",
+    "title": "A Little Life",
+    "authors": "Hanya Yanagihara",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446469353l/22822858._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22822858-a-little-life"
+  },
+  {
+    "rank": "15",
+    "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+    "authors": "Mark Manson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck"
+  },
+  {
+    "rank": "16",
+    "title": "Where the Crawdads Sing",
+    "authors": "Delia Owens",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582135294l/36809135._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing"
+  },
+  {
+    "rank": "17",
+    "title": "The Housemaid's Secret",
+    "authors": "Freida McFadden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664729357l/62848145._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/62848145-the-housemaid-s-secret"
+  },
+  {
+    "rank": "18",
+    "title": "The 7 Habits of Highly Effective People: Powerful Lessons in Personal Change",
+    "authors": "Stephen R. Covey",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1421842784l/36072._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36072.The_7_Habits_of_Highly_Effective_People"
+  },
+  {
+    "rank": "19",
+    "title": "Project Hail Mary",
+    "authors": "Andy Weir",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
+  },
+  {
+    "rank": "20",
+    "title": "A Court of Mist and Fury",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620325671l/50659468._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50659468-a-court-of-mist-and-fury"
+  },
+  {
+    "rank": "21",
+    "title": "Dune",
+    "authors": "Frank Herbert",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/44767458-dune"
+  },
+  {
+    "rank": "22",
+    "title": "A Court of Wings and Ruin",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585623092l/50659472._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50659472-a-court-of-wings-and-ruin"
+  },
+  {
+    "rank": "23",
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "authors": "Taylor Jenkins Reid",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664458703l/32620332._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo"
+  },
+  {
+    "rank": "24",
+    "title": "Kindle Paperwhite User’s Guide",
+    "authors": "Amazon",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1590608186l/53497963._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/53497963-kindle-paperwhite-user-s-guide"
+  },
+  {
+    "rank": "25",
+    "title": "Crime and Punishment",
+    "authors": "Fyodor Dostoevsky",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1382846449l/7144._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7144.Crime_and_Punishment"
+  },
+  {
+    "rank": "26",
+    "title": "The Song of Achilles",
+    "authors": "Madeline Miller",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357177533l/13623848._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13623848-the-song-of-achilles"
+  },
+  {
+    "rank": "27",
+    "title": "Thinking, Fast and Slow",
+    "authors": "Daniel Kahneman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
+  },
+  {
+    "rank": "28",
+    "title": "Haunting Adeline",
+    "authors": "H.D. Carlton",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628900532l/58763686._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58763686-haunting-adeline"
+  },
+  {
+    "rank": "29",
+    "title": "A Game of Thrones",
+    "authors": "George R.R. Martin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones"
+  },
+  {
+    "rank": "30",
+    "title": "The Nightingale",
+    "authors": "Kristin Hannah",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681839850l/21853621._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/21853621-the-nightingale"
+  },
+  {
+    "rank": "31",
+    "title": "The Invisible Life of Addie LaRue",
+    "authors": "V.E. Schwab",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432l/50623864._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue"
+  },
+  {
+    "rank": "32",
+    "title": "If You Tell: A True Story of Murder, Family Secrets, and the Unbreakable Bond of Sisterhood",
+    "authors": "Gregg Olsen",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556171767l/45299992._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/45299992-if-you-tell"
+  },
+  {
+    "rank": "33",
+    "title": "The Let Them Theory",
+    "authors": "Mel Robbins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1735589383l/216351768._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/216351768-the-let-them-theory"
+  },
+  {
+    "rank": "34",
+    "title": "The Picture of Dorian Gray",
+    "authors": "Oscar Wilde",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454087681l/489732._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/489732.The_Picture_of_Dorian_Gray"
+  },
+  {
+    "rank": "35",
+    "title": "Verity",
+    "authors": "Colleen Hoover",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634158558l/59344312._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/59344312-verity"
+  },
+  {
+    "rank": "36",
+    "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+    "authors": "Bessel van der Kolk",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594559067l/18693771._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score"
+  },
+  {
+    "rank": "37",
+    "title": "It Ends with Us",
+    "authors": "Colleen Hoover",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1670795825l/62627512._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/62627512-it-ends-with-us"
+  },
+  {
+    "rank": "38",
+    "title": "The Midnight Library",
+    "authors": "Matt Haig",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1602190253l/52578297._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/52578297-the-midnight-library"
+  },
+  {
+    "rank": "39",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets"
+  },
+  {
+    "rank": "40",
+    "title": "Meditations",
+    "authors": "Marcus Aurelius",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1750554861l/233411514._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/233411514-meditations"
+  },
+  {
+    "rank": "41",
+    "title": "All the Light We Cannot See",
+    "authors": "Anthony Doerr",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445646l/18143977._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see"
+  },
+  {
+    "rank": "42",
+    "title": "Little Women",
+    "authors": "Louisa May Alcott",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562690475l/1934._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1934.Little_Women"
+  },
+  {
+    "rank": "43",
+    "title": "Quicksilver",
+    "authors": "Callie Hart",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1725958672l/217536270._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/217536270-quicksilver"
+  },
+  {
+    "rank": "44",
+    "title": "The Hobbit, or There and Back Again",
+    "authors": "J.R.R. Tolkien",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again"
+  },
+  {
+    "rank": "45",
+    "title": "The Alchemist",
+    "authors": "Paulo Coelho",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654371463l/18144590._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18144590-the-alchemist"
+  },
+  {
+    "rank": "46",
+    "title": "Things We Never Got Over",
+    "authors": "Lucy Score",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1641629293l/60060431._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/60060431-things-we-never-got-over"
+  },
+  {
+    "rank": "47",
+    "title": "The Hunger Games",
+    "authors": "Suzanne Collins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+  },
+  {
+    "rank": "48",
+    "title": "The Count of Monte Cristo",
+    "authors": "Alexandre Dumas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1724863997l/7126._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7126.The_Count_of_Monte_Cristo"
+  },
+  {
+    "rank": "49",
+    "title": "The Fellowship of the Ring",
+    "authors": "J.R.R. Tolkien",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925l/61215351._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring"
+  },
+  {
+    "rank": "50",
+    "title": "Anna Karenina",
+    "authors": "Leo Tolstoy",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546091617l/15823480._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15823480-anna-karenina"
+  }
+]

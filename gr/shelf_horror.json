@@ -1,0 +1,352 @@
+[
+  {
+    "rank": "1",
+    "title": "The Shining",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730l/11588._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11588.The_Shining"
+  },
+  {
+    "rank": "2",
+    "title": "It",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1334416842l/830502._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/830502.It"
+  },
+  {
+    "rank": "3",
+    "title": "Dracula",
+    "authors": "Bram Stoker",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387151694l/17245._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17245.Dracula"
+  },
+  {
+    "rank": "4",
+    "title": "The Haunting of Hill House",
+    "authors": "Shirley Jackson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327871336l/89717._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/89717.The_Haunting_of_Hill_House"
+  },
+  {
+    "rank": "5",
+    "title": "Frankenstein: The 1818 Text",
+    "authors": "Mary Wollstonecraft Shelley",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473l/35031085._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/35031085-frankenstein"
+  },
+  {
+    "rank": "6",
+    "title": "Carrie",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1771367607l/10592._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10592.Carrie"
+  },
+  {
+    "rank": "7",
+    "title": "Pet Sematary",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1480069533l/33124137._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/33124137-pet-sematary"
+  },
+  {
+    "rank": "8",
+    "title": "’Salem’s Lot",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1738025067l/11590._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11590._Salem_s_Lot"
+  },
+  {
+    "rank": "9",
+    "title": "Misery",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746142586l/10614._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10614.Misery"
+  },
+  {
+    "rank": "10",
+    "title": "The Stand",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1674820514l/87591651._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/87591651-the-stand"
+  },
+  {
+    "rank": "11",
+    "title": "Mexican Gothic",
+    "authors": "Silvia Moreno-Garcia",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1607462569l/53152636._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/53152636-mexican-gothic"
+  },
+  {
+    "rank": "12",
+    "title": "House of Leaves",
+    "authors": "Mark Z. Danielewski",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403889034l/24800._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/24800.House_of_Leaves"
+  },
+  {
+    "rank": "13",
+    "title": "We Have Always Lived in the Castle",
+    "authors": "Shirley Jackson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746532708l/89724._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/89724.We_Have_Always_Lived_in_the_Castle"
+  },
+  {
+    "rank": "14",
+    "title": "Tender Is the Flesh",
+    "authors": "Agustina Bazterrica",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1755191335l/240139608._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/240139608-tender-is-the-flesh"
+  },
+  {
+    "rank": "15",
+    "title": "Interview with the Vampire",
+    "authors": "Anne Rice",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1380631642l/43763._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/43763.Interview_with_the_Vampire"
+  },
+  {
+    "rank": "16",
+    "title": "The Southern Book Club's Guide to Slaying Vampires",
+    "authors": "Grady Hendrix",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584222716l/44074800._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/44074800-the-southern-book-club-s-guide-to-slaying-vampires"
+  },
+  {
+    "rank": "17",
+    "title": "The Only Good Indians",
+    "authors": "Stephen Graham Jones",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601545259l/52180399._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/52180399-the-only-good-indians"
+  },
+  {
+    "rank": "18",
+    "title": "Doctor Sleep",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1510335480l/16130549._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/16130549-doctor-sleep"
+  },
+  {
+    "rank": "19",
+    "title": "The Exorcist",
+    "authors": "William Peter Blatty",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1731395907l/179780._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/179780.The_Exorcist"
+  },
+  {
+    "rank": "20",
+    "title": "World War Z: An Oral History of the Zombie War",
+    "authors": "Max Brooks",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528312647l/8908._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/8908.World_War_Z"
+  },
+  {
+    "rank": "21",
+    "title": "Coraline",
+    "authors": "Neil Gaiman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493497435l/17061._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17061.Coraline"
+  },
+  {
+    "rank": "22",
+    "title": "Cujo",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394208144l/10603._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10603.Cujo"
+  },
+  {
+    "rank": "23",
+    "title": "What Moves the Dead",
+    "authors": "T. Kingfisher",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632936332l/58724626._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58724626-what-moves-the-dead"
+  },
+  {
+    "rank": "24",
+    "title": "Carmilla",
+    "authors": "J. Sheridan Le Fanu",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657795822l/48037._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/48037.Carmilla"
+  },
+  {
+    "rank": "25",
+    "title": "NOS4A2",
+    "authors": "Joe  Hill",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369591617l/15729539._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15729539-nos4a2"
+  },
+  {
+    "rank": "26",
+    "title": "Dr. Jekyll and Mr. Hyde",
+    "authors": "Robert Louis Stevenson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1318116526l/51496._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/51496.Dr_Jekyll_and_Mr_Hyde"
+  },
+  {
+    "rank": "27",
+    "title": "The Troop",
+    "authors": "Nick Cutter",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1397768496l/17571466._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17571466-the-troop"
+  },
+  {
+    "rank": "28",
+    "title": "Horrorstör",
+    "authors": "Grady Hendrix",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1414314217l/13129925._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13129925-horrorst-r"
+  },
+  {
+    "rank": "29",
+    "title": "My Best Friend's Exorcism",
+    "authors": "Grady Hendrix",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1533059241l/41015038._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/41015038-my-best-friend-s-exorcism"
+  },
+  {
+    "rank": "30",
+    "title": "Bunny",
+    "authors": "Mona Awad",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588043687l/53285047._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/53285047-bunny"
+  },
+  {
+    "rank": "31",
+    "title": "Heart-Shaped Box",
+    "authors": "Joe  Hill",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328043955l/153025._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/153025.Heart_Shaped_Box"
+  },
+  {
+    "rank": "32",
+    "title": "Bird Box",
+    "authors": "Josh Malerman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1570393096l/44646576._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/44646576-bird-box"
+  },
+  {
+    "rank": "33",
+    "title": "The Outsider",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1524596540l/36124936._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36124936-the-outsider"
+  },
+  {
+    "rank": "34",
+    "title": "Needful Things",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1315767817l/107291._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/107291.Needful_Things"
+  },
+  {
+    "rank": "35",
+    "title": "The Final Girl Support Group",
+    "authors": "Grady Hendrix",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614275199l/55829194._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/55829194-the-final-girl-support-group"
+  },
+  {
+    "rank": "36",
+    "title": "A Head Full of Ghosts",
+    "authors": "Paul Tremblay",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415678368l/23019294._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/23019294-a-head-full-of-ghosts"
+  },
+  {
+    "rank": "37",
+    "title": "How to Sell a Haunted House",
+    "authors": "Grady Hendrix",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650818993l/59414094._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/59414094-how-to-sell-a-haunted-house"
+  },
+  {
+    "rank": "38",
+    "title": "Christine",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1663053062l/10629._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10629.Christine"
+  },
+  {
+    "rank": "39",
+    "title": "Let the Right One In",
+    "authors": "John Ajvide Lindqvist",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327893384l/943402._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/943402.Let_the_Right_One_In"
+  },
+  {
+    "rank": "40",
+    "title": "Rosemary’s Baby",
+    "authors": "Ira Levin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711563977l/228296._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/228296.Rosemary_s_Baby"
+  },
+  {
+    "rank": "41",
+    "title": "The Picture of Dorian Gray",
+    "authors": "Oscar Wilde",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1454087681l/489732._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/489732.The_Picture_of_Dorian_Gray"
+  },
+  {
+    "rank": "42",
+    "title": "Night Shift",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1660820449l/10628._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10628.Night_Shift"
+  },
+  {
+    "rank": "43",
+    "title": "The Turn of the Screw",
+    "authors": "Henry James",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567172392l/12948._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/12948.The_Turn_of_the_Screw"
+  },
+  {
+    "rank": "44",
+    "title": "We Used to Live Here",
+    "authors": "Marcus Kliewer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697756012l/199798006._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/199798006-we-used-to-live-here"
+  },
+  {
+    "rank": "45",
+    "title": "Something Wicked This Way Comes",
+    "authors": "Ray Bradbury",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409596011l/248596._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/248596.Something_Wicked_This_Way_Comes"
+  },
+  {
+    "rank": "46",
+    "title": "The Silence of the Lambs",
+    "authors": "Thomas  Harris",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647930822l/23807._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs"
+  },
+  {
+    "rank": "47",
+    "title": "The Institute",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549241208l/43798285._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/43798285-the-institute"
+  },
+  {
+    "rank": "48",
+    "title": "The Dead Zone",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1283509622l/11573._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11573.The_Dead_Zone"
+  },
+  {
+    "rank": "49",
+    "title": "Firestarter",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1592553161l/233667._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/233667.Firestarter"
+  },
+  {
+    "rank": "50",
+    "title": "The Girl with All the Gifts",
+    "authors": "M.R. Carey",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403033579l/17235026._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17235026-the-girl-with-all-the-gifts"
+  }
+]

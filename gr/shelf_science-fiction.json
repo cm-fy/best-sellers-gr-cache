@@ -1,0 +1,352 @@
+[
+  {
+    "rank": "1",
+    "title": "Dune",
+    "authors": "Frank Herbert",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/44767458-dune"
+  },
+  {
+    "rank": "2",
+    "title": "The Hitchhiker's Guide to the Galaxy",
+    "authors": "Douglas Adams",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848l/11._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy"
+  },
+  {
+    "rank": "3",
+    "title": "Ender’s Game",
+    "authors": "Orson Scott Card",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/375802.Ender_s_Game"
+  },
+  {
+    "rank": "4",
+    "title": "The Martian",
+    "authors": "Andy Weir",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18007564-the-martian"
+  },
+  {
+    "rank": "5",
+    "title": "Project Hail Mary",
+    "authors": "Andy Weir",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
+  },
+  {
+    "rank": "6",
+    "title": "Fahrenheit 451",
+    "authors": "Ray Bradbury",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13079982-fahrenheit-451"
+  },
+  {
+    "rank": "7",
+    "title": "1984",
+    "authors": "George Orwell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61439040-1984"
+  },
+  {
+    "rank": "8",
+    "title": "Ready Player One",
+    "authors": "Ernest Cline",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/9969571-ready-player-one"
+  },
+  {
+    "rank": "9",
+    "title": "The Hunger Games",
+    "authors": "Suzanne Collins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+  },
+  {
+    "rank": "10",
+    "title": "Brave New World",
+    "authors": "Aldous Huxley",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+  },
+  {
+    "rank": "11",
+    "title": "Foundation",
+    "authors": "Isaac Asimov",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/29579.Foundation"
+  },
+  {
+    "rank": "12",
+    "title": "Do Androids Dream of Electric Sheep?",
+    "authors": "Philip K. Dick",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep"
+  },
+  {
+    "rank": "13",
+    "title": "The Three-Body Problem",
+    "authors": "Liu Cixin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/20518872-the-three-body-problem"
+  },
+  {
+    "rank": "14",
+    "title": "All Systems Red",
+    "authors": "Martha Wells",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/32758901-all-systems-red"
+  },
+  {
+    "rank": "15",
+    "title": "Catching Fire",
+    "authors": "Suzanne Collins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941l/6148028._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6148028-catching-fire"
+  },
+  {
+    "rank": "16",
+    "title": "Mockingjay",
+    "authors": "Suzanne Collins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722918l/7260188._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7260188-mockingjay"
+  },
+  {
+    "rank": "17",
+    "title": "Neuromancer",
+    "authors": "William Gibson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752514552l/6088007._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6088007-neuromancer"
+  },
+  {
+    "rank": "18",
+    "title": "Leviathan Wakes",
+    "authors": "James S.A. Corey",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411013134l/8855321._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/8855321-leviathan-wakes"
+  },
+  {
+    "rank": "19",
+    "title": "The Time Machine",
+    "authors": "H.G. Wells",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2493.The_Time_Machine"
+  },
+  {
+    "rank": "20",
+    "title": "Red Rising",
+    "authors": "Pierce Brown",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15839976-red-rising"
+  },
+  {
+    "rank": "21",
+    "title": "Dark Matter",
+    "authors": "Blake Crouch",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/27833670-dark-matter"
+  },
+  {
+    "rank": "22",
+    "title": "I, Robot",
+    "authors": "Isaac Asimov",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271l/41804._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/41804.I_Robot"
+  },
+  {
+    "rank": "23",
+    "title": "The Left Hand of Darkness",
+    "authors": "Ursula K. Le Guin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness"
+  },
+  {
+    "rank": "24",
+    "title": "Dune Messiah",
+    "authors": "Frank Herbert",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577043824l/44492285._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/44492285-dune-messiah"
+  },
+  {
+    "rank": "25",
+    "title": "Jurassic Park",
+    "authors": "Michael Crichton",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529604411l/40604658._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40604658-jurassic-park"
+  },
+  {
+    "rank": "26",
+    "title": "Hyperion",
+    "authors": "Dan Simmons",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746983261l/77566._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/77566.Hyperion"
+  },
+  {
+    "rank": "27",
+    "title": "Frankenstein: The 1818 Text",
+    "authors": "Mary Wollstonecraft Shelley",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473l/35031085._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/35031085-frankenstein"
+  },
+  {
+    "rank": "28",
+    "title": "The War of the Worlds",
+    "authors": "H.G. Wells",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320391644l/8909._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds"
+  },
+  {
+    "rank": "29",
+    "title": "2001: A Space Odyssey",
+    "authors": "Arthur C. Clarke",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432468943l/70535._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/70535.2001"
+  },
+  {
+    "rank": "30",
+    "title": "The Handmaid's Tale",
+    "authors": "Margaret Atwood",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488552336l/34454589._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale"
+  },
+  {
+    "rank": "31",
+    "title": "Divergent",
+    "authors": "Veronica Roth",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890l/13335037._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13335037-divergent"
+  },
+  {
+    "rank": "32",
+    "title": "The Restaurant at the End of the Universe",
+    "authors": "Douglas Adams",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe"
+  },
+  {
+    "rank": "33",
+    "title": "Stranger in a Strange Land",
+    "authors": "Robert A. Heinlein",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land"
+  },
+  {
+    "rank": "34",
+    "title": "The Martian Chronicles",
+    "authors": "Ray Bradbury",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661016554l/76778._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles"
+  },
+  {
+    "rank": "35",
+    "title": "Slaughterhouse-Five",
+    "authors": "Kurt Vonnegut Jr.",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389l/4981._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
+  },
+  {
+    "rank": "36",
+    "title": "The Long Way to a Small, Angry Planet",
+    "authors": "Becky Chambers",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet"
+  },
+  {
+    "rank": "37",
+    "title": "Cinder",
+    "authors": "Marissa Meyer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507557775l/36381037._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36381037-cinder"
+  },
+  {
+    "rank": "38",
+    "title": "Old Man's War",
+    "authors": "John Scalzi",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509467059l/36510196._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36510196-old-man-s-war"
+  },
+  {
+    "rank": "39",
+    "title": "Snow Crash",
+    "authors": "Neal Stephenson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61240297-snow-crash"
+  },
+  {
+    "rank": "40",
+    "title": "Annihilation",
+    "authors": "Jeff Vandermeer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941587l/17934530._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17934530-annihilation"
+  },
+  {
+    "rank": "41",
+    "title": "This Is How You Lose the Time War",
+    "authors": "Amal El-Mohtar",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759084233l/43352954._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war"
+  },
+  {
+    "rank": "42",
+    "title": "Foundation and Empire",
+    "authors": "Isaac Asimov",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454612l/29581._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/29581.Foundation_and_Empire"
+  },
+  {
+    "rank": "43",
+    "title": "The Giver",
+    "authors": "Lois Lowry",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368l/3636._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/3636.The_Giver"
+  },
+  {
+    "rank": "44",
+    "title": "Speaker for the Dead",
+    "authors": "Orson Scott Card",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295660894l/7967._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead"
+  },
+  {
+    "rank": "45",
+    "title": "Artificial Condition",
+    "authors": "Martha Wells",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36223860-artificial-condition"
+  },
+  {
+    "rank": "46",
+    "title": "Artemis",
+    "authors": "Andy Weir",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1776234222l/34928122._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/34928122-artemis"
+  },
+  {
+    "rank": "47",
+    "title": "A Wrinkle in Time",
+    "authors": "Madeleine L'Engle",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312l/33574273._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time"
+  },
+  {
+    "rank": "48",
+    "title": "Children of Dune",
+    "authors": "Frank Herbert",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564783201l/44492286._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/44492286-children-of-dune"
+  },
+  {
+    "rank": "49",
+    "title": "Second Foundation",
+    "authors": "Isaac Asimov",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661015922l/29580._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/29580.Second_Foundation"
+  },
+  {
+    "rank": "50",
+    "title": "Starship Troopers",
+    "authors": "Robert A. Heinlein",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17214.Starship_Troopers"
+  }
+]

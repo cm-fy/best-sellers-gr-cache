@@ -1,0 +1,352 @@
+[
+  {
+    "rank": "1",
+    "title": "Sapiens: A Brief History of Humankind",
+    "authors": "Yuval Noah Harari",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703329310l/23692271._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/23692271-sapiens"
+  },
+  {
+    "rank": "2",
+    "title": "The Diary of a Young Girl",
+    "authors": "Anne Frank",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696989545l/127441416._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/127441416-the-diary-of-a-young-girl"
+  },
+  {
+    "rank": "3",
+    "title": "Educated",
+    "authors": "Tara Westover",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774287363l/35133922._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/35133922-educated"
+  },
+  {
+    "rank": "4",
+    "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
+    "authors": "Susan Cain",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/8520610-quiet"
+  },
+  {
+    "rank": "5",
+    "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
+    "authors": "James Clear",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40121378-atomic-habits"
+  },
+  {
+    "rank": "6",
+    "title": "I'm Glad My Mom Died",
+    "authors": "Jennette McCurdy",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649228846l/59366244._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/59366244-i-m-glad-my-mom-died"
+  },
+  {
+    "rank": "7",
+    "title": "The Immortal Life of Henrietta Lacks",
+    "authors": "Rebecca Skloot",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks"
+  },
+  {
+    "rank": "8",
+    "title": "Outliers: The Story of Success",
+    "authors": "Malcolm Gladwell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/3228917-outliers"
+  },
+  {
+    "rank": "9",
+    "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
+    "authors": "Steven D. Levitt",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827l/1202._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1202.Freakonomics"
+  },
+  {
+    "rank": "10",
+    "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
+    "authors": "Erik Larson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583433024l/397483._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City"
+  },
+  {
+    "rank": "11",
+    "title": "Becoming",
+    "authors": "Michelle Obama",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/38746485-becoming"
+  },
+  {
+    "rank": "12",
+    "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
+    "authors": "Mark Manson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck"
+  },
+  {
+    "rank": "13",
+    "title": "Man's Search for Meaning",
+    "authors": "Viktor E. Frankl",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning"
+  },
+  {
+    "rank": "14",
+    "title": "A Short History of Nearly Everything",
+    "authors": "Bill Bryson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433086293l/21._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything"
+  },
+  {
+    "rank": "15",
+    "title": "We Should All Be Feminists",
+    "authors": "Chimamanda Ngozi Adichie",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430821222l/22738563._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22738563-we-should-all-be-feminists"
+  },
+  {
+    "rank": "16",
+    "title": "Thinking, Fast and Slow",
+    "authors": "Daniel Kahneman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
+  },
+  {
+    "rank": "17",
+    "title": "Born a Crime: Stories from a South African Childhood",
+    "authors": "Trevor Noah",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/29780253-born-a-crime"
+  },
+  {
+    "rank": "18",
+    "title": "Into the Wild",
+    "authors": "Jon Krakauer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650755924l/60869516._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/60869516-into-the-wild"
+  },
+  {
+    "rank": "19",
+    "title": "Night",
+    "authors": "Elie Wiesel",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709507006l/1617._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1617.Night"
+  },
+  {
+    "rank": "20",
+    "title": "When Breath Becomes Air",
+    "authors": "Paul Kalanithi",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492677644l/25899336._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/25899336-when-breath-becomes-air"
+  },
+  {
+    "rank": "21",
+    "title": "Guns, Germs, and Steel: The Fates of Human Societies",
+    "authors": "Jared Diamond",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel"
+  },
+  {
+    "rank": "22",
+    "title": "In Cold Blood",
+    "authors": "Truman Capote",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424931136l/168642._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/168642.In_Cold_Blood"
+  },
+  {
+    "rank": "23",
+    "title": "Invisible Women: Data Bias in a World Designed for Men",
+    "authors": "Caroline Criado Pérez",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617113740l/41104077._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/41104077-invisible-women"
+  },
+  {
+    "rank": "24",
+    "title": "Between the World and Me",
+    "authors": "Ta-Nehisi Coates",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/25489625-between-the-world-and-me"
+  },
+  {
+    "rank": "25",
+    "title": "The Tipping Point: How Little Things Can Make a Big Difference",
+    "authors": "Malcolm Gladwell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2612.The_Tipping_Point"
+  },
+  {
+    "rank": "26",
+    "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
+    "authors": "David Grann",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696884539l/193388249._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/193388249-killers-of-the-flower-moon"
+  },
+  {
+    "rank": "27",
+    "title": "Into Thin Air: A Personal Account of the Mt. Everest Disaster",
+    "authors": "Jon Krakauer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631501298l/1898._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1898.Into_Thin_Air"
+  },
+  {
+    "rank": "28",
+    "title": "Blink: The Power of Thinking Without Thinking",
+    "authors": "Malcolm Gladwell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440763417l/40102._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40102.Blink"
+  },
+  {
+    "rank": "29",
+    "title": "Stiff: The Curious Lives of Human Cadavers",
+    "authors": "Mary Roach",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625851259l/56769575._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/56769575-stiff"
+  },
+  {
+    "rank": "30",
+    "title": "A Brief History of Time",
+    "authors": "Stephen W. Hawking",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time"
+  },
+  {
+    "rank": "31",
+    "title": "The Glass Castle",
+    "authors": "Jeannette Walls",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523542886l/7445._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7445.The_Glass_Castle"
+  },
+  {
+    "rank": "32",
+    "title": "On Writing: A Memoir of the Craft",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436735207l/10569._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10569.On_Writing"
+  },
+  {
+    "rank": "33",
+    "title": "Bossypants",
+    "authors": "Tina Fey",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481509554l/9418327._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/9418327-bossypants"
+  },
+  {
+    "rank": "34",
+    "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
+    "authors": "Marie Kondō",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418767178l/22318578._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up"
+  },
+  {
+    "rank": "35",
+    "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
+    "authors": "Laura Hillenbrand",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327861115l/8664353._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/8664353-unbroken"
+  },
+  {
+    "rank": "36",
+    "title": "Wild: From Lost to Found on the Pacific Crest Trail",
+    "authors": "Cheryl Strayed",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453189881l/12262741._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/12262741-wild"
+  },
+  {
+    "rank": "37",
+    "title": "Crying in H Mart",
+    "authors": "Michelle Zauner",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601937850l/54814676._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/54814676-crying-in-h-mart"
+  },
+  {
+    "rank": "38",
+    "title": "The Power of Habit: Why We Do What We Do in Life and Business",
+    "authors": "Charles Duhigg",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/12609433-the-power-of-habit"
+  },
+  {
+    "rank": "39",
+    "title": "I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer",
+    "authors": "Michelle McNamara",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/35068432-i-ll-be-gone-in-the-dark"
+  },
+  {
+    "rank": "40",
+    "title": "I Am Malala: The Story of the Girl Who Stood Up for Education and Was Shot by the Taliban",
+    "authors": "Malala Yousafzai",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375414895l/17851885._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17851885-i-am-malala"
+  },
+  {
+    "rank": "41",
+    "title": "How to Win Friends & Influence People",
+    "authors": "Dale Carnegie",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_Influence_People"
+  },
+  {
+    "rank": "42",
+    "title": "The Art of War",
+    "authors": "Sun Tzu",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630683326l/10534._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10534.The_Art_of_War"
+  },
+  {
+    "rank": "43",
+    "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
+    "authors": "Bessel van der Kolk",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594559067l/18693771._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score"
+  },
+  {
+    "rank": "44",
+    "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
+    "authors": "Matthew Walker",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556604137l/34466963._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/34466963-why-we-sleep"
+  },
+  {
+    "rank": "45",
+    "title": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
+    "authors": "Bill Bryson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388189974l/9791._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods"
+  },
+  {
+    "rank": "46",
+    "title": "Homo Deus: A History of Tomorrow",
+    "authors": "Yuval Noah Harari",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468760805l/31138556._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/31138556-homo-deus"
+  },
+  {
+    "rank": "47",
+    "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
+    "authors": "Oliver Sacks",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447047702l/63697._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales"
+  },
+  {
+    "rank": "48",
+    "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
+    "authors": "Randall Munroe",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/21413662-what-if"
+  },
+  {
+    "rank": "49",
+    "title": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
+    "authors": "Mitch Albom",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749l/6900._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie"
+  },
+  {
+    "rank": "50",
+    "title": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants",
+    "authors": "Robin Wall Kimmerer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775928l/17465709._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17465709-braiding-sweetgrass"
+  }
+]

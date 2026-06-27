@@ -1,0 +1,352 @@
+[
+  {
+    "rank": "1",
+    "title": "The Silent Patient",
+    "authors": "Alex Michaelides",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668782119l/40097951._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40097951-the-silent-patient"
+  },
+  {
+    "rank": "2",
+    "title": "The Housemaid",
+    "authors": "Freida McFadden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1646534743l/60556912._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/60556912-the-housemaid"
+  },
+  {
+    "rank": "3",
+    "title": "Gone Girl",
+    "authors": "Gillian Flynn",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1554086139l/19288043._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/19288043-gone-girl"
+  },
+  {
+    "rank": "4",
+    "title": "The Girl on the Train",
+    "authors": "Paula Hawkins",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1748242265l/22557272._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22557272-the-girl-on-the-train"
+  },
+  {
+    "rank": "5",
+    "title": "Verity",
+    "authors": "Colleen Hoover",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1634158558l/59344312._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/59344312-verity"
+  },
+  {
+    "rank": "6",
+    "title": "The Girl With the Dragon Tattoo",
+    "authors": "Stieg Larsson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684638853l/2429135._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2429135.The_Girl_With_the_Dragon_Tattoo"
+  },
+  {
+    "rank": "7",
+    "title": "The Da Vinci Code",
+    "authors": "Dan    Brown",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1597798677l/55019161._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/55019161-the-da-vinci-code"
+  },
+  {
+    "rank": "8",
+    "title": "Angels & Demons",
+    "authors": "Dan    Brown",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696691404l/960._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/960.Angels_Demons"
+  },
+  {
+    "rank": "9",
+    "title": "A Good Girl's Guide to Murder",
+    "authors": "Holly  Jackson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545494980l/40916679._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40916679-a-good-girl-s-guide-to-murder"
+  },
+  {
+    "rank": "10",
+    "title": "Sharp Objects",
+    "authors": "Gillian Flynn",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1475695315l/18045891._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18045891-sharp-objects"
+  },
+  {
+    "rank": "11",
+    "title": "The Guest List",
+    "authors": "Lucy Foley",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1591461181l/52656911._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/52656911-the-guest-list"
+  },
+  {
+    "rank": "12",
+    "title": "Never Lie",
+    "authors": "Freida McFadden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661428846l/62080187._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/62080187-never-lie"
+  },
+  {
+    "rank": "13",
+    "title": "None of This Is True",
+    "authors": "Lisa Jewell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1686092508l/62334530._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/62334530-none-of-this-is-true"
+  },
+  {
+    "rank": "14",
+    "title": "The Woman in the Window",
+    "authors": "A.J. Finn",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528225499l/40389527._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40389527-the-woman-in-the-window"
+  },
+  {
+    "rank": "15",
+    "title": "The Housemaid's Secret",
+    "authors": "Freida McFadden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664729357l/62848145._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/62848145-the-housemaid-s-secret"
+  },
+  {
+    "rank": "16",
+    "title": "The Girl Who Played with Fire",
+    "authors": "Stieg Larsson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351778881l/5060378._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5060378-the-girl-who-played-with-fire"
+  },
+  {
+    "rank": "17",
+    "title": "Rock Paper Scissors",
+    "authors": "Alice Feeney",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612020952l/56269064._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/56269064-rock-paper-scissors"
+  },
+  {
+    "rank": "18",
+    "title": "The Only One Left",
+    "authors": "Riley Sager",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1668181003l/62703226._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/62703226-the-only-one-left"
+  },
+  {
+    "rank": "19",
+    "title": "Dark Places",
+    "authors": "Gillian Flynn",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1354988288l/5886881._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5886881-dark-places"
+  },
+  {
+    "rank": "20",
+    "title": "Pretty Girls",
+    "authors": "Karin Slaughter",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432205734l/25574782._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/25574782-pretty-girls"
+  },
+  {
+    "rank": "21",
+    "title": "Dark Matter",
+    "authors": "Blake Crouch",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/27833670-dark-matter"
+  },
+  {
+    "rank": "22",
+    "title": "Then She Was Gone",
+    "authors": "Lisa Jewell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1741291185l/35297426._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/35297426-then-she-was-gone"
+  },
+  {
+    "rank": "23",
+    "title": "Behind Closed Doors",
+    "authors": "B.A. Paris",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1458854462l/29437949._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/29437949-behind-closed-doors"
+  },
+  {
+    "rank": "24",
+    "title": "And Then There Were None",
+    "authors": "Agatha Christie",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1638425885l/16299._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/16299.And_Then_There_Were_None"
+  },
+  {
+    "rank": "25",
+    "title": "The Girl Who Kicked the Hornet’s Nest",
+    "authors": "Stieg Larsson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327708260l/6892870._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6892870-the-girl-who-kicked-the-hornet-s-nest"
+  },
+  {
+    "rank": "26",
+    "title": "The Woman in Cabin 10",
+    "authors": "Ruth Ware",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1754062442l/233770059._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/233770059-the-woman-in-cabin-10"
+  },
+  {
+    "rank": "27",
+    "title": "The Lost Symbol",
+    "authors": "Dan    Brown",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070883l/6411961._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6411961-the-lost-symbol"
+  },
+  {
+    "rank": "28",
+    "title": "Lock Every Door",
+    "authors": "Riley Sager",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1540938359l/41837243._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/41837243-lock-every-door"
+  },
+  {
+    "rank": "29",
+    "title": "A Flicker in the Dark",
+    "authors": "Stacy Willingham",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1621347398l/57693172._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/57693172-a-flicker-in-the-dark"
+  },
+  {
+    "rank": "30",
+    "title": "Inferno",
+    "authors": "Dan    Brown",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1534070896l/17212231._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17212231-inferno"
+  },
+  {
+    "rank": "31",
+    "title": "First Lie Wins",
+    "authors": "Ashley Elston",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704216161l/164444179._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/164444179-first-lie-wins"
+  },
+  {
+    "rank": "32",
+    "title": "The Paris Apartment",
+    "authors": "Lucy Foley",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1645550948l/58468990._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58468990-the-paris-apartment"
+  },
+  {
+    "rank": "33",
+    "title": "One of Us Is Lying",
+    "authors": "Karen M. McManus",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1632078539l/58679358._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58679358-one-of-us-is-lying"
+  },
+  {
+    "rank": "34",
+    "title": "The Inmate",
+    "authors": "Freida McFadden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1653271523l/61149872._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61149872-the-inmate"
+  },
+  {
+    "rank": "35",
+    "title": "Local Woman Missing",
+    "authors": "Mary Kubica",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1629480107l/57361474._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/57361474-local-woman-missing"
+  },
+  {
+    "rank": "36",
+    "title": "Hidden Pictures",
+    "authors": "Jason Rekulak",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635260162l/58724923._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58724923-hidden-pictures"
+  },
+  {
+    "rank": "37",
+    "title": "Final Girls",
+    "authors": "Riley Sager",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1496658340l/32796253._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/32796253-final-girls"
+  },
+  {
+    "rank": "38",
+    "title": "The Family Upstairs",
+    "authors": "Lisa Jewell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564517337l/43822820._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/43822820-the-family-upstairs"
+  },
+  {
+    "rank": "39",
+    "title": "Home Before Dark",
+    "authors": "Riley Sager",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571683410l/50833559._SY200_SY75_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50833559-home-before-dark"
+  },
+  {
+    "rank": "40",
+    "title": "The Couple Next Door",
+    "authors": "Shari Lapena",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1471502242l/28815474._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/28815474-the-couple-next-door"
+  },
+  {
+    "rank": "41",
+    "title": "Good Girl, Bad Blood",
+    "authors": "Holly  Jackson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1588319723l/51335759._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/51335759-good-girl-bad-blood"
+  },
+  {
+    "rank": "42",
+    "title": "Deception Point",
+    "authors": "Dan    Brown",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1551277487l/976._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/976.Deception_Point"
+  },
+  {
+    "rank": "43",
+    "title": "You",
+    "authors": "Caroline Kepnes",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1549463282l/36430011._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36430011-you"
+  },
+  {
+    "rank": "44",
+    "title": "The House Across the Lake",
+    "authors": "Riley Sager",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1639618949l/58909880._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58909880-the-house-across-the-lake"
+  },
+  {
+    "rank": "45",
+    "title": "The Silence of the Lambs",
+    "authors": "Thomas  Harris",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1647930822l/23807._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/23807.The_Silence_of_the_Lambs"
+  },
+  {
+    "rank": "46",
+    "title": "The Maidens",
+    "authors": "Alex Michaelides",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1608557750l/45300567._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/45300567-the-maidens"
+  },
+  {
+    "rank": "47",
+    "title": "Digital Fortress",
+    "authors": "Dan    Brown",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1360095966l/11125._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11125.Digital_Fortress"
+  },
+  {
+    "rank": "48",
+    "title": "The Perfect Marriage",
+    "authors": "Jeneva Rose",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1737023162l/223688351._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/223688351-the-perfect-marriage"
+  },
+  {
+    "rank": "49",
+    "title": "The Teacher",
+    "authors": "Freida McFadden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693401496l/195967140._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/195967140-the-teacher"
+  },
+  {
+    "rank": "50",
+    "title": "The Shining",
+    "authors": "Stephen  King",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1353277730l/11588._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11588.The_Shining"
+  }
+]

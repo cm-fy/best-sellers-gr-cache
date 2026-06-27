@@ -1,0 +1,352 @@
+[
+  {
+    "rank": "1",
+    "title": "Harry Potter and the Philosopher's Stone",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone"
+  },
+  {
+    "rank": "2",
+    "title": "Harry Potter and the Chamber of Secrets",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets"
+  },
+  {
+    "rank": "3",
+    "title": "The Hobbit, or There and Back Again",
+    "authors": "J.R.R. Tolkien",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again"
+  },
+  {
+    "rank": "4",
+    "title": "Harry Potter and the Prisoner of Azkaban",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630547330l/5._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban"
+  },
+  {
+    "rank": "5",
+    "title": "Harry Potter and the Goblet of Fire",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627044952l/58613424._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire"
+  },
+  {
+    "rank": "6",
+    "title": "Harry Potter and the Order of the Phoenix",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627045351l/58613451._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix"
+  },
+  {
+    "rank": "7",
+    "title": "Harry Potter and the Half-Blood Prince",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627043894l/58613345._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613345-harry-potter-and-the-half-blood-prince"
+  },
+  {
+    "rank": "8",
+    "title": "Harry Potter and the Deathly Hallows",
+    "authors": "J.K. Rowling",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627042661l/58613224._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/58613224-harry-potter-and-the-deathly-hallows"
+  },
+  {
+    "rank": "9",
+    "title": "A Game of Thrones",
+    "authors": "George R.R. Martin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones"
+  },
+  {
+    "rank": "10",
+    "title": "The Fellowship of the Ring",
+    "authors": "J.R.R. Tolkien",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925l/61215351._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring"
+  },
+  {
+    "rank": "11",
+    "title": "A Court of Thorns and Roses",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620324329l/50659467._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses"
+  },
+  {
+    "rank": "12",
+    "title": "Fourth Wing",
+    "authors": "Rebecca Yarros",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761312598l/61431922._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61431922-fourth-wing"
+  },
+  {
+    "rank": "13",
+    "title": "Mistborn: The Final Empire",
+    "authors": "Brandon Sanderson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617768316l/68428._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/68428.Mistborn"
+  },
+  {
+    "rank": "14",
+    "title": "Throne of Glass",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566495l/76703559._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/76703559-throne-of-glass"
+  },
+  {
+    "rank": "15",
+    "title": "Six of Crows",
+    "authors": "Leigh Bardugo",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651710803l/23437156._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/23437156-six-of-crows"
+  },
+  {
+    "rank": "16",
+    "title": "A Court of Mist and Fury",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620325671l/50659468._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50659468-a-court-of-mist-and-fury"
+  },
+  {
+    "rank": "17",
+    "title": "The Two Towers",
+    "authors": "J.R.R. Tolkien",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216149l/61215372._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61215372-the-two-towers"
+  },
+  {
+    "rank": "18",
+    "title": "The Name of the Wind",
+    "authors": "Patrick Rothfuss",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704917687l/186074._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind"
+  },
+  {
+    "rank": "19",
+    "title": "The Return of the King",
+    "authors": "J.R.R. Tolkien",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216226l/61215384._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/61215384-the-return-of-the-king"
+  },
+  {
+    "rank": "20",
+    "title": "A Clash of Kings",
+    "authors": "George R.R. Martin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10572.A_Clash_of_Kings"
+  },
+  {
+    "rank": "21",
+    "title": "The Cruel Prince",
+    "authors": "Holly Black",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574535986l/26032825._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/26032825-the-cruel-prince"
+  },
+  {
+    "rank": "22",
+    "title": "The Lightning Thief",
+    "authors": "Rick Riordan",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684776677l/123675190._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/123675190-the-lightning-thief"
+  },
+  {
+    "rank": "23",
+    "title": "A Court of Wings and Ruin",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585623092l/50659472._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50659472-a-court-of-wings-and-ruin"
+  },
+  {
+    "rank": "24",
+    "title": "Shadow and Bone",
+    "authors": "Leigh Bardugo",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519072763l/37834723._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/37834723-shadow-and-bone"
+  },
+  {
+    "rank": "25",
+    "title": "The Lion, the Witch and the Wardrobe",
+    "authors": "C.S. Lewis",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697079942l/132080146._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/132080146-the-lion-the-witch-and-the-wardrobe"
+  },
+  {
+    "rank": "26",
+    "title": "A Storm of Swords",
+    "authors": "George R.R. Martin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786l/62291._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/62291.A_Storm_of_Swords"
+  },
+  {
+    "rank": "27",
+    "title": "A Feast for Crows",
+    "authors": "George R.R. Martin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661026821l/13497._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13497.A_Feast_for_Crows"
+  },
+  {
+    "rank": "28",
+    "title": "Eragon",
+    "authors": "Christopher Paolini",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852l/113436._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/113436.Eragon"
+  },
+  {
+    "rank": "29",
+    "title": "The Golden Compass",
+    "authors": "Philip Pullman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/119322.The_Golden_Compass"
+  },
+  {
+    "rank": "30",
+    "title": "Crown of Midnight",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566594l/76705490._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/76705490-crown-of-midnight"
+  },
+  {
+    "rank": "31",
+    "title": "The Way of Kings",
+    "authors": "Brandon Sanderson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659905828l/7235533._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7235533-the-way-of-kings"
+  },
+  {
+    "rank": "32",
+    "title": "A Dance with Dragons",
+    "authors": "George R.R. Martin",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753059444l/10664113._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10664113-a-dance-with-dragons"
+  },
+  {
+    "rank": "33",
+    "title": "The Night Circus",
+    "authors": "Erin Morgenstern",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387124618l/9361589._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/9361589-the-night-circus"
+  },
+  {
+    "rank": "34",
+    "title": "City of Bones",
+    "authors": "Cassandra Clare",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/256683.City_of_Bones"
+  },
+  {
+    "rank": "35",
+    "title": "The Eye of the World",
+    "authors": "Robert Jordan",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659905815l/228665._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/228665.The_Eye_of_the_World"
+  },
+  {
+    "rank": "36",
+    "title": "Iron Flame",
+    "authors": "Rebecca Yarros",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706724269l/90202302._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/90202302-iron-flame"
+  },
+  {
+    "rank": "37",
+    "title": "Heir of Fire",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566654l/76706470._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/76706470-heir-of-fire"
+  },
+  {
+    "rank": "38",
+    "title": "Crooked Kingdom",
+    "authors": "Leigh Bardugo",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172607l/22299763._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22299763-crooked-kingdom"
+  },
+  {
+    "rank": "39",
+    "title": "Twilight",
+    "authors": "Stephenie Meyer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700522826l/41865._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/41865.Twilight"
+  },
+  {
+    "rank": "40",
+    "title": "American Gods",
+    "authors": "Neil Gaiman",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462924585l/30165203._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/30165203-american-gods"
+  },
+  {
+    "rank": "41",
+    "title": "A Darker Shade of Magic",
+    "authors": "V.E. Schwab",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758833715l/22055262._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/22055262-a-darker-shade-of-magic"
+  },
+  {
+    "rank": "42",
+    "title": "A Court of Frost and Starlight",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585622963l/50659471._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50659471-a-court-of-frost-and-starlight"
+  },
+  {
+    "rank": "43",
+    "title": "A ​Court of Silver Flames",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734440950l/53138095._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/53138095-a-court-of-silver-flames"
+  },
+  {
+    "rank": "44",
+    "title": "The Well of Ascension",
+    "authors": "Brandon Sanderson",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619538925l/68429._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/68429.The_Well_of_Ascension"
+  },
+  {
+    "rank": "45",
+    "title": "Assassin's Apprentice",
+    "authors": "Robin Hobb",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673728072l/77197._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice"
+  },
+  {
+    "rank": "46",
+    "title": "The Poppy War",
+    "authors": "R.F. Kuang",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515691735l/35068705._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/35068705-the-poppy-war"
+  },
+  {
+    "rank": "47",
+    "title": "The Wicked King",
+    "authors": "Holly Black",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520620414l/26032887._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/26032887-the-wicked-king"
+  },
+  {
+    "rank": "48",
+    "title": "The Invisible Life of Addie LaRue",
+    "authors": "V.E. Schwab",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432l/50623864._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue"
+  },
+  {
+    "rank": "49",
+    "title": "Queen of Shadows",
+    "authors": "Sarah J. Maas",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677267561l/123004944._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/123004944-queen-of-shadows"
+  },
+  {
+    "rank": "50",
+    "title": "The Sea of Monsters",
+    "authors": "Rick Riordan",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530819367l/40727118._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40727118-the-sea-of-monsters"
+  }
+]

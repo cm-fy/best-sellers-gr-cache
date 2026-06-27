@@ -1,0 +1,352 @@
+[
+  {
+    "rank": "1",
+    "title": "The Book Thief",
+    "authors": "Markus Zusak",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/19063.The_Book_Thief"
+  },
+  {
+    "rank": "2",
+    "title": "All the Light We Cannot See",
+    "authors": "Anthony Doerr",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451445646l/18143977._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/18143977-all-the-light-we-cannot-see"
+  },
+  {
+    "rank": "3",
+    "title": "The Nightingale",
+    "authors": "Kristin Hannah",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681839850l/21853621._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/21853621-the-nightingale"
+  },
+  {
+    "rank": "4",
+    "title": "Outlander",
+    "authors": "Diana Gabaldon",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659086907l/10964._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/10964.Outlander"
+  },
+  {
+    "rank": "5",
+    "title": "The Help",
+    "authors": "Kathryn Stockett",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1622355533l/4667024._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4667024-the-help"
+  },
+  {
+    "rank": "6",
+    "title": "The Pillars of the Earth",
+    "authors": "Ken Follett",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1576956100l/5043._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5043.The_Pillars_of_the_Earth"
+  },
+  {
+    "rank": "7",
+    "title": "The Seven Husbands of Evelyn Hugo",
+    "authors": "Taylor Jenkins Reid",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1664458703l/32620332._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/32620332-the-seven-husbands-of-evelyn-hugo"
+  },
+  {
+    "rank": "8",
+    "title": "The Song of Achilles",
+    "authors": "Madeline Miller",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1357177533l/13623848._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/13623848-the-song-of-achilles"
+  },
+  {
+    "rank": "9",
+    "title": "The Women",
+    "authors": "Kristin Hannah",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1733493019l/127305853._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/127305853-the-women"
+  },
+  {
+    "rank": "10",
+    "title": "Memoirs of a Geisha",
+    "authors": "Arthur Golden",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1409595968l/929._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/929.Memoirs_of_a_Geisha"
+  },
+  {
+    "rank": "11",
+    "title": "The Guernsey Literary and Potato Peel Pie Society",
+    "authors": "Mary Ann Shaffer",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529026760l/39832183._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/39832183-the-guernsey-literary-and-potato-peel-pie-society"
+  },
+  {
+    "rank": "12",
+    "title": "Pachinko",
+    "authors": "Min Jin Lee",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1766879949l/34051011._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/34051011-pachinko"
+  },
+  {
+    "rank": "13",
+    "title": "A Gentleman in Moscow",
+    "authors": "Amor Towles",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1718915012l/34066798._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/34066798-a-gentleman-in-moscow"
+  },
+  {
+    "rank": "14",
+    "title": "The Alice Network",
+    "authors": "Kate Quinn",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492238040l/32051912._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/32051912-the-alice-network"
+  },
+  {
+    "rank": "15",
+    "title": "The Kite Runner",
+    "authors": "Khaled Hosseini",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1541428344l/17165596._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/17165596-the-kite-runner"
+  },
+  {
+    "rank": "16",
+    "title": "To Kill a Mockingbird",
+    "authors": "Harper Lee",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1612238791l/56916837._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/56916837-to-kill-a-mockingbird"
+  },
+  {
+    "rank": "17",
+    "title": "The Four Winds",
+    "authors": "Kristin Hannah",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594925043l/53138081._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/53138081-the-four-winds"
+  },
+  {
+    "rank": "18",
+    "title": "The Other Boleyn Girl",
+    "authors": "Philippa Gregory",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355932638l/37470._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/37470.The_Other_Boleyn_Girl"
+  },
+  {
+    "rank": "19",
+    "title": "The Tattooist of Auschwitz",
+    "authors": "Heather   Morris",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1525962117l/38359036._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/38359036-the-tattooist-of-auschwitz"
+  },
+  {
+    "rank": "20",
+    "title": "Daisy Jones & The Six",
+    "authors": "Taylor Jenkins Reid",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1580255154l/40597810._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/40597810-daisy-jones-the-six"
+  },
+  {
+    "rank": "21",
+    "title": "Salt to the Sea",
+    "authors": "Ruta Sepetys",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1437084512l/25614492._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/25614492-salt-to-the-sea"
+  },
+  {
+    "rank": "22",
+    "title": "Between Shades of Gray",
+    "authors": "Ruta Sepetys",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327873479l/7824322._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/7824322-between-shades-of-gray"
+  },
+  {
+    "rank": "23",
+    "title": "Wolf Hall",
+    "authors": "Hilary Mantel",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627203575l/6101138._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/6101138-wolf-hall"
+  },
+  {
+    "rank": "24",
+    "title": "The Boy in the Striped Pajamas",
+    "authors": "John Boyne",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366228171l/39999._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/39999.The_Boy_in_the_Striped_Pajamas"
+  },
+  {
+    "rank": "25",
+    "title": "Hamnet",
+    "authors": "Maggie O'Farrell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574943819l/43890641._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/43890641-hamnet"
+  },
+  {
+    "rank": "26",
+    "title": "The Underground Railroad",
+    "authors": "Colson Whitehead",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1493178362l/30555488._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/30555488-the-underground-railroad"
+  },
+  {
+    "rank": "27",
+    "title": "Where the Crawdads Sing",
+    "authors": "Delia Owens",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1582135294l/36809135._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/36809135-where-the-crawdads-sing"
+  },
+  {
+    "rank": "28",
+    "title": "A Thousand Splendid Suns",
+    "authors": "Khaled Hosseini",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655336738l/128029._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/128029.A_Thousand_Splendid_Suns"
+  },
+  {
+    "rank": "29",
+    "title": "Homegoing",
+    "authors": "Yaa Gyasi",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1448108591l/27071490._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/27071490-homegoing"
+  },
+  {
+    "rank": "30",
+    "title": "Gone With the Wind",
+    "authors": "Margaret Mitchell",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635768733l/34689759._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/34689759-gone-with-the-wind"
+  },
+  {
+    "rank": "31",
+    "title": "The Frozen River",
+    "authors": "Ariel Lawhon",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1730395034l/112975658._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/112975658-the-frozen-river"
+  },
+  {
+    "rank": "32",
+    "title": "Girl with a Pearl Earring",
+    "authors": "Tracy Chevalier",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327197580l/2865._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/2865.Girl_with_a_Pearl_Earring"
+  },
+  {
+    "rank": "33",
+    "title": "Number the Stars",
+    "authors": "Lois Lowry",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630542426l/47281._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/47281.Number_the_Stars"
+  },
+  {
+    "rank": "34",
+    "title": "Water for Elephants",
+    "authors": "Sara Gruen",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1667708346l/43641._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/43641.Water_for_Elephants"
+  },
+  {
+    "rank": "35",
+    "title": "Lessons in Chemistry",
+    "authors": "Bonnie Garmus",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759925297l/242528917._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/242528917-lessons-in-chemistry"
+  },
+  {
+    "rank": "36",
+    "title": "Dragonfly in Amber",
+    "authors": "Diana Gabaldon",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456114344l/5364._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/5364.Dragonfly_in_Amber"
+  },
+  {
+    "rank": "37",
+    "title": "Before We Were Yours",
+    "authors": "Lisa Wingate",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1498910914l/32148570._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/32148570-before-we-were-yours"
+  },
+  {
+    "rank": "38",
+    "title": "The Rose Code",
+    "authors": "Kate Quinn",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1596553679l/53914938._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/53914938-the-rose-code"
+  },
+  {
+    "rank": "39",
+    "title": "The Red Tent",
+    "authors": "Anita Diamant",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405739117l/4989._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/4989.The_Red_Tent"
+  },
+  {
+    "rank": "40",
+    "title": "Code Name Verity",
+    "authors": "Elizabeth Wein",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388161911l/11925514._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/11925514-code-name-verity"
+  },
+  {
+    "rank": "41",
+    "title": "Circe",
+    "authors": "Madeline Miller",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1565909496l/35959740._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/35959740-circe"
+  },
+  {
+    "rank": "42",
+    "title": "The Shadow of the Wind",
+    "authors": "Carlos Ruiz Zafón",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1628791882l/1232._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/1232.The_Shadow_of_the_Wind"
+  },
+  {
+    "rank": "43",
+    "title": "The Great Alone",
+    "authors": "Kristin Hannah",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1501852423l/34912895._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/34912895-the-great-alone"
+  },
+  {
+    "rank": "44",
+    "title": "Lilac Girls",
+    "authors": "Martha Hall Kelly",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462850258l/25893693._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/25893693-lilac-girls"
+  },
+  {
+    "rank": "45",
+    "title": "The Invisible Life of Addie LaRue",
+    "authors": "V.E. Schwab",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432l/50623864._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue"
+  },
+  {
+    "rank": "46",
+    "title": "Pride and Prejudice",
+    "authors": "Jane Austen",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1681804503l/129915654._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/129915654-pride-and-prejudice"
+  },
+  {
+    "rank": "47",
+    "title": "The Lost Apothecary",
+    "authors": "Sarah Penner",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1593013000l/53288434._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/53288434-the-lost-apothecary"
+  },
+  {
+    "rank": "48",
+    "title": "Sarah's Key",
+    "authors": "Tatiana de Rosnay",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1438863728l/556602._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/556602.Sarah_s_Key"
+  },
+  {
+    "rank": "49",
+    "title": "Babel",
+    "authors": "R.F. Kuang",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677361825l/57945316._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/57945316-babel"
+  },
+  {
+    "rank": "50",
+    "title": "Orphan Train",
+    "authors": "Christina Baker Kline",
+    "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1362409483l/15818107._SY200_.jpg",
+    "source_url": "https://www.goodreads.com/book/show/15818107-orphan-train"
+  }
+]
