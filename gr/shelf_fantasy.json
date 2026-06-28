@@ -4,349 +4,549 @@
     "title": "Harry Potter and the Philosopher's Stone",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone"
+    "source_url": "https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone",
+    "blurb": "\"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.\" Harr…",
+    "rating": "4.47",
+    "votes": 11671130,
+    "pages": 0
   },
   {
     "rank": "2",
     "title": "Harry Potter and the Chamber of Secrets",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets"
+    "source_url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets",
+    "blurb": "Harry Potter is a wizard. He is in his second year at Hogwarts School of Witchcraft and Wizardry. Little does he know that this year will be just as eventful as the last...",
+    "rating": "4.43",
+    "votes": 4613692,
+    "pages": 0
   },
   {
     "rank": "3",
     "title": "The Hobbit, or There and Back Again",
     "authors": "J.R.R. Tolkien",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1546071216l/5907._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again"
+    "source_url": "https://www.goodreads.com/book/show/5907.The_Hobbit_or_There_and_Back_Again",
+    "blurb": "Get your summary to The Or, There and Back Again by J.R.R. Tolkien to further Help you in your study and appreciation with a Deeper dive into the book that comes with a trivia…",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 96
   },
   {
     "rank": "4",
     "title": "Harry Potter and the Prisoner of Azkaban",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630547330l/5._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban"
+    "source_url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban",
+    "blurb": "The quick student workbooks are designed to get students thinking critically about the text they read and providing a guided study format to facilitate in improved learning an…",
+    "rating": "4.52",
+    "votes": 40,
+    "pages": 98
   },
   {
     "rank": "5",
     "title": "Harry Potter and the Goblet of Fire",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627044952l/58613424._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire"
+    "source_url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire",
+    "blurb": "Short descriptions of events that occur in each chapter. The Harry Potter and the Goblet of Fire Chapter Outlines highlight major plot events and detail the important relation…",
+    "rating": "4.35",
+    "votes": 52,
+    "pages": 17
   },
   {
     "rank": "6",
     "title": "Harry Potter and the Order of the Phoenix",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627045351l/58613451._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix"
+    "source_url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix",
+    "blurb": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Harry Potter and the Order of the Phoenix is a …",
+    "rating": "4.64",
+    "votes": 100,
+    "pages": 168
   },
   {
     "rank": "7",
     "title": "Harry Potter and the Half-Blood Prince",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627043894l/58613345._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58613345-harry-potter-and-the-half-blood-prince"
+    "source_url": "https://www.goodreads.com/book/show/58613345-harry-potter-and-the-half-blood-prince",
+    "blurb": "Harry Potter and the Half-Blood Prince Study Guide consists of approx. 59 pages of summaries and analysis on Harry Potter and the Half-Blood Prince by J.K. Rowling. This study…",
+    "rating": "4.52",
+    "votes": 33,
+    "pages": 50
   },
   {
     "rank": "8",
     "title": "Harry Potter and the Deathly Hallows",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627042661l/58613224._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58613224-harry-potter-and-the-deathly-hallows"
+    "source_url": "https://www.goodreads.com/book/show/58613224-harry-potter-and-the-deathly-hallows",
+    "blurb": "Harry Potter and the Deathly Hallows is the seventh and last in the Harry Potter series. This novel follows Harry Potter and his two closest friends, Ron Weasley and Hermione …",
+    "rating": "4.35",
+    "votes": 487,
+    "pages": 64
   },
   {
     "rank": "9",
     "title": "A Game of Thrones",
     "authors": "George R.R. Martin",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1562726234l/13496._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones"
+    "source_url": "https://www.goodreads.com/book/show/13496.A_Game_of_Thrones",
+    "blurb": "This study guide by BookRags.com, consists of approx. 81 pages of chapter summaries, character analysis, themes, and more – everything you need to sharpen your knowledge of A …",
+    "rating": "4.24",
+    "votes": 34,
+    "pages": 69
   },
   {
     "rank": "10",
     "title": "The Fellowship of the Ring",
     "authors": "J.R.R. Tolkien",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654215925l/61215351._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring"
+    "source_url": "https://www.goodreads.com/book/show/61215351-the-fellowship-of-the-ring",
+    "blurb": "Fellowship of the Ring Study Guide consists of approx. 40 pages of summaries and analysis on The Fellowship of the Ring by J.R.R. Tolkien. This study guide includes the followi…",
+    "rating": "4.71",
+    "votes": 7,
+    "pages": 37
   },
   {
     "rank": "11",
     "title": "A Court of Thorns and Roses",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620324329l/50659467._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses"
+    "source_url": "https://www.goodreads.com/book/show/50659467-a-court-of-thorns-and-roses",
+    "blurb": "Limited Time $3.99 ($4.99) When Feyre's family falls on hard times, she is left with the task of finding food for them. One day, she kills a wolf, and suddenly, a creature appe…",
+    "rating": "4.09",
+    "votes": 156,
+    "pages": 68
   },
   {
     "rank": "12",
     "title": "Fourth Wing",
     "authors": "Rebecca Yarros",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1761312598l/61431922._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/61431922-fourth-wing"
+    "source_url": "https://www.goodreads.com/book/show/61431922-fourth-wing",
+    "blurb": "1",
+    "rating": "4.56",
+    "votes": 3818331,
+    "pages": null
   },
   {
     "rank": "13",
     "title": "Mistborn: The Final Empire",
     "authors": "Brandon Sanderson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617768316l/68428._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/68428.Mistborn"
+    "source_url": "https://www.goodreads.com/book/show/68428.Mistborn",
+    "blurb": "What if the whole world were a dead, blasted wasteland? Mistborn For a thousand years the ash fell and no flowers bloomed. For a thousand years the Skaa slaved in misery and…",
+    "rating": "4.48",
+    "votes": 1045309,
+    "pages": 541
   },
   {
     "rank": "14",
     "title": "Throne of Glass",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566495l/76703559._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/76703559-throne-of-glass"
+    "source_url": "https://www.goodreads.com/book/show/76703559-throne-of-glass",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.10",
+    "votes": 87,
+    "pages": 39
   },
   {
     "rank": "15",
     "title": "Six of Crows",
     "authors": "Leigh Bardugo",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651710803l/23437156._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/23437156-six-of-crows"
+    "source_url": "https://www.goodreads.com/book/show/23437156-six-of-crows",
+    "blurb": "Contains 9781627792127 & 9781627792134 . Six dangerous outcasts. One impossible heist. The gripping Six of Crows and Crooked Kingdom duology, by #1 New York Times -bestselling au…",
+    "rating": "4.64",
+    "votes": 7603,
+    "pages": 1040
   },
   {
     "rank": "16",
     "title": "A Court of Mist and Fury",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620325671l/50659468._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/50659468-a-court-of-mist-and-fury"
+    "source_url": "https://www.goodreads.com/book/show/50659468-a-court-of-mist-and-fury",
+    "blurb": "A Court of Mist and Fury by Sarah J. Maas Take the challenge yourself and share it with friends and family for a time of fun! You may have read the book, but not have liked i…",
+    "rating": "4.24",
+    "votes": 66,
+    "pages": 70
   },
   {
     "rank": "17",
     "title": "The Two Towers",
     "authors": "J.R.R. Tolkien",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216149l/61215372._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/61215372-the-two-towers"
+    "source_url": "https://www.goodreads.com/book/show/61215372-the-two-towers",
+    "blurb": "The Two Towers. Book Two in J.R.R. Tolkien's acclaimed trilogy, a masterpiece of high fantasy. Frodo and his Companions of the Ring have been beset by danger during their ques…",
+    "rating": "4.51",
+    "votes": 1162202,
+    "pages": 0
   },
   {
     "rank": "18",
     "title": "The Name of the Wind",
     "authors": "Patrick Rothfuss",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1704917687l/186074._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind"
+    "source_url": "https://www.goodreads.com/book/show/186074.The_Name_of_the_Wind",
+    "blurb": "SuperSummary, a modern alternative to SparkNotes and CliffsNotes, offers high-quality study guides for challenging works of literature. This 78-page guide for “The Name of the…",
+    "rating": "4.50",
+    "votes": 4,
+    "pages": 92
   },
   {
     "rank": "19",
     "title": "The Return of the King",
     "authors": "J.R.R. Tolkien",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654216226l/61215384._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/61215384-the-return-of-the-king"
+    "source_url": "https://www.goodreads.com/book/show/61215384-the-return-of-the-king",
+    "blurb": "The Return of the King by Tolkien, J.R.R.. . Mariner , 2005 .",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 0
   },
   {
     "rank": "20",
     "title": "A Clash of Kings",
     "authors": "George R.R. Martin",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1567840212l/10572._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/10572.A_Clash_of_Kings"
+    "source_url": "https://www.goodreads.com/book/show/10572.A_Clash_of_Kings",
+    "blurb": "This study guide consists of approx. 146 pages of chapter summaries, quotes, character analysis, themes, and more – everything you need to sharpen your knowledge of A Clash of…",
+    "rating": "4.35",
+    "votes": 46,
+    "pages": 0
   },
   {
     "rank": "21",
     "title": "The Cruel Prince",
     "authors": "Holly Black",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574535986l/26032825._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/26032825-the-cruel-prince"
+    "source_url": "https://www.goodreads.com/book/show/26032825-the-cruel-prince",
+    "blurb": "A high-quality summary of Holly Black´s book The Cruel Prince including chapter details and analysis of the main themes of the original book. About the original When a mystery …",
+    "rating": "4.50",
+    "votes": 2,
+    "pages": 41
   },
   {
     "rank": "22",
     "title": "The Lightning Thief",
     "authors": "Rick Riordan",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684776677l/123675190._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/123675190-the-lightning-thief"
+    "source_url": "https://www.goodreads.com/book/show/123675190-the-lightning-thief",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.60",
+    "votes": 35,
+    "pages": 57
   },
   {
     "rank": "23",
     "title": "A Court of Wings and Ruin",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585623092l/50659472._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/50659472-a-court-of-wings-and-ruin"
+    "source_url": "https://www.goodreads.com/book/show/50659472-a-court-of-wings-and-ruin",
+    "blurb": "In the gripping third installment of Sarah J. Maas' #1 bestselling Court of Thorns and Roses series, Feyre returns to the Spring Court, intent on uncovering Tamlin's actions a…",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": null
   },
   {
     "rank": "24",
     "title": "Shadow and Bone",
     "authors": "Leigh Bardugo",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519072763l/37834723._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/37834723-shadow-and-bone"
+    "source_url": "https://www.goodreads.com/book/show/37834723-shadow-and-bone",
+    "blurb": "In a lavish world where darkness reigns and science collides with superstition, Alina Starkov has the power to save her country…but it comes with a price in The Grisha Trilogy…",
+    "rating": "4.27",
+    "votes": 13729,
+    "pages": 1248
   },
   {
     "rank": "25",
     "title": "The Lion, the Witch and the Wardrobe",
     "authors": "C.S. Lewis",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1697079942l/132080146._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/132080146-the-lion-the-witch-and-the-wardrobe"
+    "source_url": "https://www.goodreads.com/book/show/132080146-the-lion-the-witch-and-the-wardrobe",
+    "blurb": "Unlock the more straightforward side of The Lion, the Witch and the Wardrobe with this concise and insightful summary and analysis! This engaging summary presents an analys…",
+    "rating": "3.69",
+    "votes": 13,
+    "pages": 32
   },
   {
     "rank": "26",
     "title": "A Storm of Swords",
     "authors": "George R.R. Martin",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1571318786l/62291._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/62291.A_Storm_of_Swords"
+    "source_url": "https://www.goodreads.com/book/show/62291.A_Storm_of_Swords",
+    "blurb": "Unlock the more straightforward side of A Storm of Swords with this concise and insightful summary and analysis! This engaging summary presents an analysis of A Storm of Swords…",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 37
   },
   {
     "rank": "27",
     "title": "A Feast for Crows",
     "authors": "George R.R. Martin",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661026821l/13497._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/13497.A_Feast_for_Crows"
+    "source_url": "https://www.goodreads.com/book/show/13497.A_Feast_for_Crows",
+    "blurb": "This book is an unauthorized summary and literary criticism of the plot and characters of George R.R. Martin's novel \"A Feast for Crows\", with a detailed chapter by chapter an…",
+    "rating": "3.00",
+    "votes": 2,
+    "pages": 212
   },
   {
     "rank": "28",
     "title": "Eragon",
     "authors": "Christopher Paolini",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366212852l/113436._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/113436.Eragon"
+    "source_url": "https://www.goodreads.com/book/show/113436.Eragon",
+    "blurb": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Hephaestus Books represents a new publishing pa…",
+    "rating": "4.37",
+    "votes": 79,
+    "pages": 60
   },
   {
     "rank": "29",
     "title": "The Golden Compass",
     "authors": "Philip Pullman",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/119322.The_Golden_Compass"
+    "source_url": "https://www.goodreads.com/book/show/119322.The_Golden_Compass",
+    "blurb": "The Golden Compass, The Subtle Knife, and The Amber Spyglass are available together in one volume perfect for any fan or newcomer to this modern fantasy classic series. These t…",
+    "rating": "4.29",
+    "votes": 169742,
+    "pages": 52
   },
   {
     "rank": "30",
     "title": "Crown of Midnight",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566594l/76705490._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/76705490-crown-of-midnight"
+    "source_url": "https://www.goodreads.com/book/show/76705490-crown-of-midnight",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 56 chapters of Crown of Midnight by Sarah J. Maas. Get more o…",
+    "rating": "5.00",
+    "votes": 2,
+    "pages": 79
   },
   {
     "rank": "31",
     "title": "The Way of Kings",
     "authors": "Brandon Sanderson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659905828l/7235533._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/7235533-the-way-of-kings"
+    "source_url": "https://www.goodreads.com/book/show/7235533-the-way-of-kings",
+    "blurb": "From #1 New York Times bestselling author Brandon Sanderson, The Way of Kings , book one of The Stormlight Archive begins an incredible new saga of epic proportion. Roshar is a …",
+    "rating": "4.66",
+    "votes": 707387,
+    "pages": 1007
   },
   {
     "rank": "32",
     "title": "A Dance with Dragons",
     "authors": "George R.R. Martin",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1753059444l/10664113._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/10664113-a-dance-with-dragons"
+    "source_url": "https://www.goodreads.com/book/show/10664113-a-dance-with-dragons",
+    "blurb": "This book is an unauthorized summary and literary criticism of the plot and characters of George R.R. Martin's novel \"A Dance With Dragons\", with a detailed chapter by chapter…",
+    "rating": "5.00",
+    "votes": 2,
+    "pages": 259
   },
   {
     "rank": "33",
     "title": "The Night Circus",
     "authors": "Erin Morgenstern",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1387124618l/9361589._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/9361589-the-night-circus"
+    "source_url": "https://www.goodreads.com/book/show/9361589-the-night-circus",
+    "blurb": "The circus arrives without warning. No announcements precede it. It is simply there, when yesterday it was not. Within the black-and-white striped canvas tents is an utterly u…",
+    "rating": "4.26",
+    "votes": 61,
+    "pages": 51
   },
   {
     "rank": "34",
     "title": "City of Bones",
     "authors": "Cassandra Clare",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/256683.City_of_Bones"
+    "source_url": "https://www.goodreads.com/book/show/256683.City_of_Bones",
+    "blurb": "When fifteen-year-old Clary Fray heads out to the Pandemonium Club in New York City, she hardly expects to witness a murder—much less a murder committed by three teenagers cov…",
+    "rating": "4.06",
+    "votes": 2200720,
+    "pages": 485
   },
   {
     "rank": "35",
     "title": "The Eye of the World",
     "authors": "Robert Jordan",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1659905815l/228665._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/228665.The_Eye_of_the_World"
+    "source_url": "https://www.goodreads.com/book/show/228665.The_Eye_of_the_World",
+    "blurb": "This study guide consists of approx. 131 pages of chapter summaries, quotes, character analysis, themes, and more – everything you need to sharpen your knowledge of The Eye of…",
+    "rating": "3.91",
+    "votes": 11,
+    "pages": 0
   },
   {
     "rank": "36",
     "title": "Iron Flame",
     "authors": "Rebecca Yarros",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1706724269l/90202302._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/90202302-iron-flame"
+    "source_url": "https://www.goodreads.com/book/show/90202302-iron-flame",
+    "blurb": "Dive back into the perilous halls of Basgiath War College with 'Iron Flame' by Rebecca Yarros, the thrilling sequel in the Empyrean series. This hardcover edition, featuring d…",
+    "rating": "5.00",
+    "votes": 4,
+    "pages": null
   },
   {
     "rank": "37",
     "title": "Heir of Fire",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566654l/76706470._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/76706470-heir-of-fire"
+    "source_url": "https://www.goodreads.com/book/show/76706470-heir-of-fire",
+    "blurb": "Celaena has survived deadly contests and shattering heartbreak-but at an unspeakable cost. Now, she must travel to a new land to confront her darkest truth . . . a truth about…",
+    "rating": "4.45",
+    "votes": 1698365,
+    "pages": 576
   },
   {
     "rank": "38",
     "title": "Crooked Kingdom",
     "authors": "Leigh Bardugo",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172607l/22299763._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/22299763-crooked-kingdom"
+    "source_url": "https://www.goodreads.com/book/show/22299763-crooked-kingdom",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 45 chapters of Crooked Kingdom by Leigh Bardugo. Get more out…",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 76
   },
   {
     "rank": "39",
     "title": "Twilight",
     "authors": "Stephenie Meyer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700522826l/41865._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/41865.Twilight"
+    "source_url": "https://www.goodreads.com/book/show/41865.Twilight",
+    "blurb": "Eclipse (07) by Meyer, Stephenie [Hardcover (2007)]",
+    "rating": "3.74",
+    "votes": 2024282,
+    "pages": 0
   },
   {
     "rank": "40",
     "title": "American Gods",
     "authors": "Neil Gaiman",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1462924585l/30165203._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/30165203-american-gods"
+    "source_url": "https://www.goodreads.com/book/show/30165203-american-gods",
+    "blurb": "American Gods, a fiction fantasy novel by Neil Gaiman, concerns Shadow Moon, who is in prison. The warden tells him his wife Laura died. Shadow is released and takes a plane t…",
+    "rating": "3.92",
+    "votes": 60,
+    "pages": 73
   },
   {
     "rank": "41",
     "title": "A Darker Shade of Magic",
     "authors": "V.E. Schwab",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758833715l/22055262._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/22055262-a-darker-shade-of-magic"
+    "source_url": "https://www.goodreads.com/book/show/22055262-a-darker-shade-of-magic",
+    "blurb": "Vicious Victor and Eli started out as college roommates brilliant, arrogant, lonely boys who recognized the same ambition in each other. A shared interest in adrenaline, near-…",
+    "rating": "4.31",
+    "votes": 331,
+    "pages": 0
   },
   {
     "rank": "42",
     "title": "A Court of Frost and Starlight",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1585622963l/50659471._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/50659471-a-court-of-frost-and-starlight"
+    "source_url": "https://www.goodreads.com/book/show/50659471-a-court-of-frost-and-starlight",
+    "blurb": "A Court of Frost and Starlight by Sarah J. Conversation Starters This 2018, Sarah J. Maas releases A Court of Frost and Starlight, a companion tale to the New York Times bestse…",
+    "rating": "3.99",
+    "votes": 139,
+    "pages": 70
   },
   {
     "rank": "43",
     "title": "A ​Court of Silver Flames",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1734440950l/53138095._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/53138095-a-court-of-silver-flames"
+    "source_url": "https://www.goodreads.com/book/show/53138095-a-court-of-silver-flames",
+    "blurb": "",
+    "rating": "4.08",
+    "votes": 86,
+    "pages": null
   },
   {
     "rank": "44",
     "title": "The Well of Ascension",
     "authors": "Brandon Sanderson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1619538925l/68429._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/68429.The_Well_of_Ascension"
+    "source_url": "https://www.goodreads.com/book/show/68429.The_Well_of_Ascension",
+    "blurb": "",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 69
   },
   {
     "rank": "45",
     "title": "Assassin's Apprentice",
     "authors": "Robin Hobb",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673728072l/77197._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice"
+    "source_url": "https://www.goodreads.com/book/show/77197.Assassin_s_Apprentice",
+    "blurb": "“Fantasy as it ought to be written . . . Robin Hobb’s books are diamonds in a sea of zircons.”—George R. R. Martin Young Fitz is the bastard son of the noble Prince Chivalry,…",
+    "rating": "4.20",
+    "votes": 427225,
+    "pages": 435
   },
   {
     "rank": "46",
     "title": "The Poppy War",
     "authors": "R.F. Kuang",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1515691735l/35068705._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/35068705-the-poppy-war"
+    "source_url": "https://www.goodreads.com/book/show/35068705-the-poppy-war",
+    "blurb": "The individual books included in this listing will be dispatched as per the original UK ISBN and UK edition cover image shown in the image. …",
+    "rating": "4.67",
+    "votes": 3,
+    "pages": 1280
   },
   {
     "rank": "47",
     "title": "The Wicked King",
     "authors": "Holly Black",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1520620414l/26032887._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/26032887-the-wicked-king"
+    "source_url": "https://www.goodreads.com/book/show/26032887-the-wicked-king",
+    "blurb": "The enchanting and bloodthirsty sequel to the New York Times bestselling novel The Cruel Prince. You must be strong enough to strike and strike and strike again without tiring.…",
+    "rating": "4.27",
+    "votes": 1129073,
+    "pages": 336
   },
   {
     "rank": "48",
     "title": "The Invisible Life of Addie LaRue",
     "authors": "V.E. Schwab",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1584633432l/50623864._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue"
+    "source_url": "https://www.goodreads.com/book/show/50623864-the-invisible-life-of-addie-larue",
+    "blurb": "",
+    "rating": "4.18",
+    "votes": 80,
+    "pages": null
   },
   {
     "rank": "49",
     "title": "Queen of Shadows",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1677267561l/123004944._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/123004944-queen-of-shadows"
+    "source_url": "https://www.goodreads.com/book/show/123004944-queen-of-shadows",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 89 chapters of Queen of Shadows by Sarah J. Maas. Get more ou…",
+    "rating": "4.00",
+    "votes": 4,
+    "pages": 66
   },
   {
     "rank": "50",
     "title": "The Sea of Monsters",
     "authors": "Rick Riordan",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1530819367l/40727118._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/40727118-the-sea-of-monsters"
+    "source_url": "https://www.goodreads.com/book/show/40727118-the-sea-of-monsters",
+    "blurb": "After a year spent trying to prevent a catastropic war among the Greek gods, Percy Jackson finds his seventh-grade school year unnervingly quiet. His biggest problem is dealin…",
+    "rating": "4.24",
+    "votes": 1407345,
+    "pages": 279
   }
 ]

@@ -4,349 +4,549 @@
     "title": "Dune",
     "authors": "Frank Herbert",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555447414l/44767458._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/44767458-dune"
+    "source_url": "https://www.goodreads.com/book/show/44767458-dune",
+    "blurb": "Frank Herbert's Dune is widely known as the science fiction equivalent of The Lord of the Rings. Now The Road to Dune is a companion work comparable to The Silmarillion, shedd…",
+    "rating": "3.89",
+    "votes": 6195,
+    "pages": 426
   },
   {
     "rank": "2",
     "title": "The Hitchhiker's Guide to the Galaxy",
     "authors": "Douglas Adams",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1531891848l/11._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy"
+    "source_url": "https://www.goodreads.com/book/show/11.The_Hitchhiker_s_Guide_to_the_Galaxy",
+    "blurb": "On a hot night in August 1995 Douglas Adams gave a barnstorming performance to an invited audience at the Almeida Theatre in London. This compact disc is a record of that rema…",
+    "rating": "4.36",
+    "votes": 390,
+    "pages": 0
   },
   {
     "rank": "3",
     "title": "Ender’s Game",
     "authors": "Orson Scott Card",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1408303130l/375802._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/375802.Ender_s_Game"
+    "source_url": "https://www.goodreads.com/book/show/375802.Ender_s_Game",
+    "blurb": "Warning: This book contains spoilers! Who is Ender Wiggins? What happens in each chapter? What major themes are discussed? In this review of Orson Scott Card's classic you'll …",
+    "rating": "4.50",
+    "votes": 173,
+    "pages": 64
   },
   {
     "rank": "4",
     "title": "The Martian",
     "authors": "Andy Weir",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1413706054l/18007564._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/18007564-the-martian"
+    "source_url": "https://www.goodreads.com/book/show/18007564-the-martian",
+    "blurb": "IMPORTANT Before considering a purchase of *The Martian a Novel by Andy Weir Review Summary *, you should to be aware of two 1. What this publication IS : It’s a 13,782 word Re…",
+    "rating": "4.06",
+    "votes": 51,
+    "pages": 82
   },
   {
     "rank": "5",
     "title": "Project Hail Mary",
     "authors": "Andy Weir",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1764703833l/54493401._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/54493401-project-hail-mary"
+    "source_url": "https://www.goodreads.com/book/show/54493401-project-hail-mary",
+    "blurb": "Is it in your wish to read Project Hail Mary but you do not have much time to read through the large numbers of pages of the original book? then you are a lucky one. Good Read…",
+    "rating": "4.09",
+    "votes": 22,
+    "pages": 79
   },
   {
     "rank": "6",
     "title": "Fahrenheit 451",
     "authors": "Ray Bradbury",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1383718290l/13079982._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/13079982-fahrenheit-451"
+    "source_url": "https://www.goodreads.com/book/show/13079982-fahrenheit-451",
+    "blurb": "",
+    "rating": "3.91",
+    "votes": 167,
+    "pages": 56
   },
   {
     "rank": "7",
     "title": "1984",
     "authors": "George Orwell",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1657781256l/61439040._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/61439040-1984"
+    "source_url": "https://www.goodreads.com/book/show/61439040-1984",
+    "blurb": "SparkNotes Literature Guides: Making the reading experience fun! When a paper is due, and dreaded exams loom, here's the lit-crit help students need to succeed! SparkNote…",
+    "rating": "4.30",
+    "votes": 10140,
+    "pages": 80
   },
   {
     "rank": "8",
     "title": "Ready Player One",
     "authors": "Ernest Cline",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1500930947l/9969571._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/9969571-ready-player-one"
+    "source_url": "https://www.goodreads.com/book/show/9969571-ready-player-one",
+    "blurb": "Warning : This is an independent addition to Ready Player One , meant to enhance your experience of the original book. If you have not yet bought the original copy, make sure …",
+    "rating": "4.26",
+    "votes": 89,
+    "pages": 116
   },
   {
     "rank": "9",
     "title": "The Hunger Games",
     "authors": "Suzanne Collins",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+    "source_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games",
+    "blurb": "This book does not contain any of The Hunger Games or any writing by Suzanne Collins. It consists of public domain articles written about The Hunger Games found on Wikipedia an…",
+    "rating": "4.24",
+    "votes": 212,
+    "pages": 64
   },
   {
     "rank": "10",
     "title": "Brave New World",
     "authors": "Aldous Huxley",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575509280l/5129._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/5129.Brave_New_World"
+    "source_url": "https://www.goodreads.com/book/show/5129.Brave_New_World",
+    "blurb": "",
+    "rating": "4.22",
+    "votes": 40,
+    "pages": null
   },
   {
     "rank": "11",
     "title": "Foundation",
     "authors": "Isaac Asimov",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1417900846l/29579._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/29579.Foundation"
+    "source_url": "https://www.goodreads.com/book/show/29579.Foundation",
+    "blurb": "The first novel in Isaac Asimov's classic science-fiction masterpiece, the Foundation series For twelve thousand years the Galactic Empire has ruled supreme. Now it is dying. …",
+    "rating": "4.17",
+    "votes": 608994,
+    "pages": 244
   },
   {
     "rank": "12",
     "title": "Do Androids Dream of Electric Sheep?",
     "authors": "Philip K. Dick",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507838927l/36402034._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep"
+    "source_url": "https://www.goodreads.com/book/show/36402034-do-androids-dream-of-electric-sheep",
+    "blurb": "Unlock the more straightforward side of Do Androids Dream of Electric Sheep? with this concise and insightful summary and analysis! This engaging summary presents an analysis o…",
+    "rating": "4.00",
+    "votes": 31,
+    "pages": 26
   },
   {
     "rank": "13",
     "title": "The Three-Body Problem",
     "authors": "Liu Cixin",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1415428227l/20518872._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/20518872-the-three-body-problem"
+    "source_url": "https://www.goodreads.com/book/show/20518872-the-three-body-problem",
+    "blurb": "Set against the backdrop of China's Cultural Revolution, a secret military project sends signals into space to establish contact with aliens. An alien civilization on the brin…",
+    "rating": "4.08",
+    "votes": 522184,
+    "pages": 472
   },
   {
     "rank": "14",
     "title": "All Systems Red",
     "authors": "Martha Wells",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631585309l/32758901._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/32758901-all-systems-red"
+    "source_url": "https://www.goodreads.com/book/show/32758901-all-systems-red",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 8 chapters of All Systems Red by Martha Wells. Get more out o…",
+    "rating": "3.00",
+    "votes": 2,
+    "pages": 46
   },
   {
     "rank": "15",
     "title": "Catching Fire",
     "authors": "Suzanne Collins",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941l/6148028._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/6148028-catching-fire"
+    "source_url": "https://www.goodreads.com/book/show/6148028-catching-fire",
+    "blurb": "In \"Catching Fire,\" Katniss Everdeen and Peeta Mellark have survived the Hunger Games, but they now must face stronger challengers as rebellion breaks out across Panem. This i…",
+    "rating": "4.45",
+    "votes": 415,
+    "pages": 40
   },
   {
     "rank": "16",
     "title": "Mockingjay",
     "authors": "Suzanne Collins",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722918l/7260188._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/7260188-mockingjay"
+    "source_url": "https://www.goodreads.com/book/show/7260188-mockingjay",
+    "blurb": "Warning: This is an independent companion to Mockingjay (Hunger Games Trilogy, Book 3) , meant to enhance your experience of the novel. If you have not yet bought Mockingjay , m…",
+    "rating": "3.43",
+    "votes": 271,
+    "pages": 49
   },
   {
     "rank": "17",
     "title": "Neuromancer",
     "authors": "William Gibson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1752514552l/6088007._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/6088007-neuromancer"
+    "source_url": "https://www.goodreads.com/book/show/6088007-neuromancer",
+    "blurb": "Easton Press's 20th Anniversary Edition of Gibson's seminal cyberpunk novel, a genre classic and standout debut. Signed by Gibson on the signature page and the Certificate of …",
+    "rating": "5.00",
+    "votes": 1,
+    "pages": null
   },
   {
     "rank": "18",
     "title": "Leviathan Wakes",
     "authors": "James S.A. Corey",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1411013134l/8855321._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/8855321-leviathan-wakes"
+    "source_url": "https://www.goodreads.com/book/show/8855321-leviathan-wakes",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 55 chapters of Leviathan Wakes by James S. A. Corey. Get more…",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 71
   },
   {
     "rank": "19",
     "title": "The Time Machine",
     "authors": "H.G. Wells",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327942880l/2493._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/2493.The_Time_Machine"
+    "source_url": "https://www.goodreads.com/book/show/2493.The_Time_Machine",
+    "blurb": "“I’ve had a most amazing time....” So begins the Time Traveller’s astonishing firsthand account of his journey 800,000 years beyond his own era—and the story that launched H.G.…",
+    "rating": "3.89",
+    "votes": 575904,
+    "pages": null
   },
   {
     "rank": "20",
     "title": "Red Rising",
     "authors": "Pierce Brown",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1461354651l/15839976._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/15839976-red-rising"
+    "source_url": "https://www.goodreads.com/book/show/15839976-red-rising",
+    "blurb": "Darrow is a Red, a member of the lowest caste in the color-coded society of the future. Like his fellow Reds, he works all day, believing that he and his people are making the…",
+    "rating": "4.27",
+    "votes": 906187,
+    "pages": 382
   },
   {
     "rank": "21",
     "title": "Dark Matter",
     "authors": "Blake Crouch",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1472119680l/27833670._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/27833670-dark-matter"
+    "source_url": "https://www.goodreads.com/book/show/27833670-dark-matter",
+    "blurb": "A mindbending, relentlessly surprising thriller from the author of the bestselling Wayward Pines trilogy. Jason Dessen is walking home through the chilly Chicago streets one n…",
+    "rating": "4.13",
+    "votes": 780247,
+    "pages": 342
   },
   {
     "rank": "22",
     "title": "I, Robot",
     "authors": "Isaac Asimov",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1609035271l/41804._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/41804.I_Robot"
+    "source_url": "https://www.goodreads.com/book/show/41804.I_Robot",
+    "blurb": "Unlock the more straightforward side of I, Robot with this concise and insightful summary and analysis! This engaging summary presents an analysis of I, Robot by Isaac Asimov. …",
+    "rating": "3.75",
+    "votes": 8,
+    "pages": 27
   },
   {
     "rank": "23",
     "title": "The Left Hand of Darkness",
     "authors": "Ursula K. Le Guin",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488213612l/18423._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness"
+    "source_url": "https://www.goodreads.com/book/show/18423.The_Left_Hand_of_Darkness",
+    "blurb": "The Left Hand of Darkness Study Guide consists of approx. 49 pages of summaries and analysis on The Left Hand of Darkness by Ursula K. Le Guin. This study guide includes the fo…",
+    "rating": "3.87",
+    "votes": 52,
+    "pages": 0
   },
   {
     "rank": "24",
     "title": "Dune Messiah",
     "authors": "Frank Herbert",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1577043824l/44492285._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/44492285-dune-messiah"
+    "source_url": "https://www.goodreads.com/book/show/44492285-dune-messiah",
+    "blurb": "Book Two in the Magnificent Dune Chronicles--the Bestselling Science Fiction Adventure of All Time Dune Messiah continues the story of Paul Atreides, better known--and feared--…",
+    "rating": "3.90",
+    "votes": 429852,
+    "pages": 336
   },
   {
     "rank": "25",
     "title": "Jurassic Park",
     "authors": "Michael Crichton",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529604411l/40604658._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/40604658-jurassic-park"
+    "source_url": "https://www.goodreads.com/book/show/40604658-jurassic-park",
+    "blurb": "Jurassic Park Study Guide consists of approx. 65 pages of summaries and analysis on Jurassic Park by Michael Crichton. This study guide includes the following sections: Plot S…",
+    "rating": "4.33",
+    "votes": 6,
+    "pages": 0
   },
   {
     "rank": "26",
     "title": "Hyperion",
     "authors": "Dan Simmons",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1746983261l/77566._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/77566.Hyperion"
+    "source_url": "https://www.goodreads.com/book/show/77566.Hyperion",
+    "blurb": "Together in one volume for the first time, the first two novels of the Hyperion Cantos. HYPERION lt is the 29th century and the universe of the Human Hegemony is under threat. I…",
+    "rating": "4.44",
+    "votes": 4262,
+    "pages": 779
   },
   {
     "rank": "27",
     "title": "Frankenstein: The 1818 Text",
     "authors": "Mary Wollstonecraft Shelley",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631088473l/35031085._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/35031085-frankenstein"
+    "source_url": "https://www.goodreads.com/book/show/35031085-frankenstein",
+    "blurb": "Mary Shelley's seminal novel of the scientist whose creation becomes a monster. This edition is the original 1818 text, which preserves the hard-hitting and politically charge…",
+    "rating": "3.92",
+    "votes": 1967629,
+    "pages": 260
   },
   {
     "rank": "28",
     "title": "The War of the Worlds",
     "authors": "H.G. Wells",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1320391644l/8909._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds"
+    "source_url": "https://www.goodreads.com/book/show/8909.The_War_of_the_Worlds",
+    "blurb": "“This isn't a war,\" said the artilleryman. \"It never was a war, any more than there's war between man and ants.” – H.G. Wells, The War of the Worlds Your ‘ The War of the Wor…",
+    "rating": "3.83",
+    "votes": 357666,
+    "pages": 200
   },
   {
     "rank": "29",
     "title": "2001: A Space Odyssey",
     "authors": "Arthur C. Clarke",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432468943l/70535._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/70535.2001"
+    "source_url": "https://www.goodreads.com/book/show/70535.2001",
+    "blurb": "Blast off into space with this illustrated learning guide to one of the most influential Sci-Fi novels of all time. In this beautiful and vast landscape, a story of great wond…",
+    "rating": "4.08",
+    "votes": 12,
+    "pages": 48
   },
   {
     "rank": "30",
     "title": "The Handmaid's Tale",
     "authors": "Margaret Atwood",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1488552336l/34454589._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale"
+    "source_url": "https://www.goodreads.com/book/show/34454589-the-handmaid-s-tale",
+    "blurb": "",
+    "rating": "3.79",
+    "votes": 97,
+    "pages": 40
   },
   {
     "rank": "31",
     "title": "Divergent",
     "authors": "Veronica Roth",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890l/13335037._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/13335037-divergent"
+    "source_url": "https://www.goodreads.com/book/show/13335037-divergent",
+    "blurb": "The second book in Veronica Roth's Divergent trilogy follows Tris Prior as she copes with a failing society and her own emotional trauma. Insurgent takes place in a futuristic…",
+    "rating": "4.09",
+    "votes": 260,
+    "pages": 42
   },
   {
     "rank": "32",
     "title": "The Restaurant at the End of the Universe",
     "authors": "Douglas Adams",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1521213881l/8695._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe"
+    "source_url": "https://www.goodreads.com/book/show/8695.The_Restaurant_at_the_End_of_the_Universe",
+    "blurb": "Graphic novel",
+    "rating": "4.05",
+    "votes": 43,
+    "pages": 50
   },
   {
     "rank": "33",
     "title": "Stranger in a Strange Land",
     "authors": "Robert A. Heinlein",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1156897088l/350._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land"
+    "source_url": "https://www.goodreads.com/book/show/350.Stranger_in_a_Strange_Land",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 39 chapters of Stranger in a Strange Land by Robert A. Heinle…",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 69
   },
   {
     "rank": "34",
     "title": "The Martian Chronicles",
     "authors": "Ray Bradbury",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661016554l/76778._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles"
+    "source_url": "https://www.goodreads.com/book/show/76778.The_Martian_Chronicles",
+    "blurb": "The Martian Chronicles Study Guide consists of approx. 45 pages of summaries and analysis on The Martian Chronicles by Ray Bradbury. This study guide includes the following sec…",
+    "rating": "4.50",
+    "votes": 6,
+    "pages": 35
   },
   {
     "rank": "35",
     "title": "Slaughterhouse-Five",
     "authors": "Kurt Vonnegut Jr.",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440319389l/4981._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five"
+    "source_url": "https://www.goodreads.com/book/show/4981.Slaughterhouse_Five",
+    "blurb": "",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": null
   },
   {
     "rank": "36",
     "title": "The Long Way to a Small, Angry Planet",
     "authors": "Becky Chambers",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1405532474l/22733729._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet"
+    "source_url": "https://www.goodreads.com/book/show/22733729-the-long-way-to-a-small-angry-planet",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 23 chapters of The Long Way to a Small Angry Planet by Becky …",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 68
   },
   {
     "rank": "37",
     "title": "Cinder",
     "authors": "Marissa Meyer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507557775l/36381037._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/36381037-cinder"
+    "source_url": "https://www.goodreads.com/book/show/36381037-cinder",
+    "blurb": "This study guide includes the following Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "3.87",
+    "votes": 15,
+    "pages": 53
   },
   {
     "rank": "38",
     "title": "Old Man's War",
     "authors": "John Scalzi",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1509467059l/36510196._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/36510196-old-man-s-war"
+    "source_url": "https://www.goodreads.com/book/show/36510196-old-man-s-war",
+    "blurb": "John Perry did two things on his 75th birthday. First he visited his wife's grave. Then he joined the army. The good news is that humanity finally made it into interstellar spa…",
+    "rating": "4.23",
+    "votes": 231062,
+    "pages": 318
   },
   {
     "rank": "39",
     "title": "Snow Crash",
     "authors": "Neal Stephenson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656932283l/61240297._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/61240297-snow-crash"
+    "source_url": "https://www.goodreads.com/book/show/61240297-snow-crash",
+    "blurb": "Snow Crash Study Guide by BookRags.com, consists of approx. 103 pages of summaries and analysis on Snow Crash by Neal Stephenson. This comprehensive study guide includes the f…",
+    "rating": "4.45",
+    "votes": 1257,
+    "pages": 89
   },
   {
     "rank": "40",
     "title": "Annihilation",
     "authors": "Jeff Vandermeer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1403941587l/17934530._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/17934530-annihilation"
+    "source_url": "https://www.goodreads.com/book/show/17934530-annihilation",
+    "blurb": "Area X has been cut off from the rest of the world for decades. Nature has reclaimed the last vestiges of human civilization. The first expedition returned with reports of a p…",
+    "rating": "3.80",
+    "votes": 323305,
+    "pages": 195
   },
   {
     "rank": "41",
     "title": "This Is How You Lose the Time War",
     "authors": "Amal El-Mohtar",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1759084233l/43352954._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war"
+    "source_url": "https://www.goodreads.com/book/show/43352954-this-is-how-you-lose-the-time-war",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 25 chapters of This Is How You Lose the Time War by Amal El-M…",
+    "rating": "2.86",
+    "votes": 7,
+    "pages": 43
   },
   {
     "rank": "42",
     "title": "Foundation and Empire",
     "authors": "Isaac Asimov",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1391454612l/29581._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/29581.Foundation_and_Empire"
+    "source_url": "https://www.goodreads.com/book/show/29581.Foundation_and_Empire",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.12",
+    "votes": 8,
+    "pages": 0
   },
   {
     "rank": "43",
     "title": "The Giver",
     "authors": "Lois Lowry",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368l/3636._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/3636.The_Giver"
+    "source_url": "https://www.goodreads.com/book/show/3636.The_Giver",
+    "blurb": "Ten lessons have students write journals, letters, and persuasive essays; study the novel's emphasis on precise language; participate in cooperative learning activities; and c…",
+    "rating": "3.83",
+    "votes": 96,
+    "pages": 68
   },
   {
     "rank": "44",
     "title": "Speaker for the Dead",
     "authors": "Orson Scott Card",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1295660894l/7967._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead"
+    "source_url": "https://www.goodreads.com/book/show/7967.Speaker_for_the_Dead",
+    "blurb": "This study guide includes the following Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 48
   },
   {
     "rank": "45",
     "title": "Artificial Condition",
     "authors": "Martha Wells",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505590203l/36223860._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/36223860-artificial-condition"
+    "source_url": "https://www.goodreads.com/book/show/36223860-artificial-condition",
+    "blurb": "",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 46
   },
   {
     "rank": "46",
     "title": "Artemis",
     "authors": "Andy Weir",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1776234222l/34928122._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/34928122-artemis"
+    "source_url": "https://www.goodreads.com/book/show/34928122-artemis",
+    "blurb": "A Novel by Andy Weir is the action packed, and long awaited, story of a simple girl named Jazz. All she wants is to move up in the world (or moon as the case may be), and all…",
+    "rating": "3.87",
+    "votes": 15,
+    "pages": 76
   },
   {
     "rank": "47",
     "title": "A Wrinkle in Time",
     "authors": "Madeleine L'Engle",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507963312l/33574273._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time"
+    "source_url": "https://www.goodreads.com/book/show/33574273-a-wrinkle-in-time",
+    "blurb": "Easy-to-use, reproducible lessons on literary terms, comprehension and analysis, critical thinking, related scriptural principles, vocabulary, activities, plus a complete answ…",
+    "rating": "4.07",
+    "votes": 74,
+    "pages": 82
   },
   {
     "rank": "48",
     "title": "Children of Dune",
     "authors": "Frank Herbert",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1564783201l/44492286._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/44492286-children-of-dune"
+    "source_url": "https://www.goodreads.com/book/show/44492286-children-of-dune",
+    "blurb": "Book three in Frank Herbert's magnificent Dune Chronicles--one of the most significant sagas in the history of literary science fiction. The Children of Dune are twin siblings …",
+    "rating": "3.95",
+    "votes": 263343,
+    "pages": 609
   },
   {
     "rank": "49",
     "title": "Second Foundation",
     "authors": "Isaac Asimov",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1661015922l/29580._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/29580.Second_Foundation"
+    "source_url": "https://www.goodreads.com/book/show/29580.Second_Foundation",
+    "blurb": "This study guide by BookRags.com, consists of approx. 44 pages of chapter summaries, character analysis, themes, and more – everything you need to sharpen your knowledge of Se…",
+    "rating": "4.50",
+    "votes": 2,
+    "pages": 38
   },
   {
     "rank": "50",
     "title": "Starship Troopers",
     "authors": "Robert A. Heinlein",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1614054412l/17214._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/17214.Starship_Troopers"
+    "source_url": "https://www.goodreads.com/book/show/17214.Starship_Troopers",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "5.00",
+    "votes": 1,
+    "pages": 63
   }
 ]

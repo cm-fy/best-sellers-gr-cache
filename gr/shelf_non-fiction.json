@@ -4,273 +4,429 @@
     "title": "Sapiens: A Brief History of Humankind",
     "authors": "Yuval Noah Harari",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1703329310l/23692271._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/23692271-sapiens"
+    "source_url": "https://www.goodreads.com/book/show/23692271-sapiens",
+    "blurb": "Notice: This is a SUMMARY of Yuval Noah Harari’s bestseller, Sapiens: A Brief History of Humankind. Sapiens became a #1 international bestseller and a New York Times bes…",
+    "rating": "4.21",
+    "votes": 190,
+    "pages": 92
   },
   {
     "rank": "2",
     "title": "The Diary of a Young Girl",
     "authors": "Anne Frank",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696989545l/127441416._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/127441416-the-diary-of-a-young-girl"
+    "source_url": "https://www.goodreads.com/book/show/127441416-the-diary-of-a-young-girl",
+    "blurb": "Delve into the poignant reflections of Anne Frank as she navigates the challenges of life during a tumultuous era. The Diary of a Young Girl by Anne Enter the world of World W…",
+    "rating": "4.20",
+    "votes": 4283234,
+    "pages": 321
   },
   {
     "rank": "3",
     "title": "Educated",
     "authors": "Tara Westover",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1774287363l/35133922._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/35133922-educated"
+    "source_url": "https://www.goodreads.com/book/show/35133922-educated",
+    "blurb": "Please Note That The Following Individual Books As Per Original ISBN and Cover Image In this Listing shall be Dispatched Educated By Tara Westover, Hillbilly A Memoir of a Fam…",
+    "rating": "4.06",
+    "votes": 213,
+    "pages": 656
   },
   {
     "rank": "4",
     "title": "Quiet: The Power of Introverts in a World That Can't Stop Talking",
     "authors": "Susan Cain",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328562861l/8520610._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/8520610-quiet"
+    "source_url": "https://www.goodreads.com/book/show/8520610-quiet",
+    "blurb": "Quiet Power & Quiet The Power of Introverts Quiet Power & Quiet The Power of Introverts By Susan Cain 2 Books Collection Quiet Susan Cain sparked a worldwide conversation when…",
+    "rating": "4.14",
+    "votes": 110,
+    "pages": 0
   },
   {
     "rank": "5",
     "title": "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     "authors": "James Clear",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1655988385l/40121378._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/40121378-atomic-habits"
+    "source_url": "https://www.goodreads.com/book/show/40121378-atomic-habits",
+    "blurb": "Go BOOKS offers an in-depth look into the popular book by James Clear, Atomic Habits. This summary book breaks down all the big ideas, key points and facts in\"Atomic Habits\" s…",
+    "rating": "4.08",
+    "votes": 40,
+    "pages": 74
   },
   {
     "rank": "6",
     "title": "I'm Glad My Mom Died",
     "authors": "Jennette McCurdy",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1649228846l/59366244._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/59366244-i-m-glad-my-mom-died"
+    "source_url": "https://www.goodreads.com/book/show/59366244-i-m-glad-my-mom-died",
+    "blurb": "",
+    "rating": "4.00",
+    "votes": 49,
+    "pages": null
   },
   {
     "rank": "7",
     "title": "The Immortal Life of Henrietta Lacks",
     "authors": "Rebecca Skloot",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks"
+    "source_url": "https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks",
+    "blurb": "This literature study guide is a helpful companion to the book The Immortal Life of Henrietta Lacks by Rebecca Skloot. It includes a list of important people and important ter…",
+    "rating": "4.16",
+    "votes": 138,
+    "pages": 28
   },
   {
     "rank": "8",
     "title": "Outliers: The Story of Success",
     "authors": "Malcolm Gladwell",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1344266315l/3228917._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/3228917-outliers"
+    "source_url": "https://www.goodreads.com/book/show/3228917-outliers",
+    "blurb": "This literature study guide is a helpful companion to the book Outliers: The Story of Success by Malcolm Gladwell. It includes a list of important people and important terms, …",
+    "rating": "4.10",
+    "votes": 31,
+    "pages": 24
   },
   {
     "rank": "9",
     "title": "Freakonomics: A Rogue Economist Explores the Hidden Side of Everything",
     "authors": "Steven D. Levitt",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1550917827l/1202._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/1202.Freakonomics"
+    "source_url": "https://www.goodreads.com/book/show/1202.Freakonomics",
+    "blurb": "A Rogue Economists Explores the Hidden Side of Everything Study Guide consists of approx. 34 pages of summaries and analysis on A Rogue Economists Explores the Hidden Side of…",
+    "rating": "4.08",
+    "votes": 26,
+    "pages": 45
   },
   {
     "rank": "10",
     "title": "The Devil in the White City: Murder, Magic, and Madness at the Fair That Changed America",
     "authors": "Erik Larson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1583433024l/397483._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City"
+    "source_url": "https://www.goodreads.com/book/show/397483.The_Devil_in_the_White_City",
+    "blurb": "Author Erik Larson imbues the incredible events surrounding the 1893 Chicago World's Fair with such drama that readers may find themselves checking the book's categorization t…",
+    "rating": "4.00",
+    "votes": 774944,
+    "pages": 464
   },
   {
     "rank": "11",
     "title": "Becoming",
     "authors": "Michelle Obama",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1528206996l/38746485._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/38746485-becoming"
+    "source_url": "https://www.goodreads.com/book/show/38746485-becoming",
+    "blurb": "Becoming is the story of how Michelle Obama ended up excelling at school and meeting an up-and-coming lawyer named Barack Obama, who would become her partner in an incredible …",
+    "rating": "4.34",
+    "votes": 181,
+    "pages": 0
   },
   {
     "rank": "12",
     "title": "The Subtle Art of Not Giving a F*ck: A Counterintuitive Approach to Living a Good Life",
     "authors": "Mark Manson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1465761302l/28257707._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck"
+    "source_url": "https://www.goodreads.com/book/show/28257707-the-subtle-art-of-not-giving-a-f-ck",
+    "blurb": "Save 12 Hours of Note-Taking and a Lifetime of Forgetting What You ReadHave you ever spent 10, 20, 30 hours reading a book, only to forget what you learned from it? Do you avoi…",
+    "rating": "3.84",
+    "votes": 688,
+    "pages": 36
   },
   {
     "rank": "13",
     "title": "Man's Search for Meaning",
     "authors": "Viktor E. Frankl",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1535419394l/4069._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning"
+    "source_url": "https://www.goodreads.com/book/show/4069.Man_s_Search_for_Meaning",
+    "blurb": "This is a FlashNotes BOOK SUMMARY on Man's Search For Meaning by Viktor Frankl Man's Search for Meaning by Viktor E. Frankl : Book Summary AMAZON BOOK DESCRIPTION: Publicatio…",
+    "rating": "4.08",
+    "votes": 53,
+    "pages": 13
   },
   {
     "rank": "14",
     "title": "A Short History of Nearly Everything",
     "authors": "Bill Bryson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1433086293l/21._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything"
+    "source_url": "https://www.goodreads.com/book/show/21.A_Short_History_of_Nearly_Everything",
+    "blurb": "This study guide includes the following Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.14",
+    "votes": 65,
+    "pages": 82
   },
   {
     "rank": "15",
     "title": "We Should All Be Feminists",
     "authors": "Chimamanda Ngozi Adichie",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1430821222l/22738563._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/22738563-we-should-all-be-feminists"
+    "source_url": "https://www.goodreads.com/book/show/22738563-we-should-all-be-feminists",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers a comprehensive summary and thoughtful analysis of “We Should All Be Feminists” by Chimama…",
+    "rating": "4.50",
+    "votes": 8,
+    "pages": 28
   },
   {
     "rank": "16",
     "title": "Thinking, Fast and Slow",
     "authors": "Daniel Kahneman",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1317793965l/11468377._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow"
+    "source_url": "https://www.goodreads.com/book/show/11468377-thinking-fast-and-slow",
+    "blurb": "Decisions: You make hundreds every day, but do you really know how they are made? When can you trust fast, intuitive judgment, and when is it biased? How can you transform you…",
+    "rating": "3.89",
+    "votes": 340,
+    "pages": 40
   },
   {
     "rank": "17",
     "title": "Born a Crime: Stories from a South African Childhood",
     "authors": "Trevor Noah",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473867911l/29780253._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/29780253-born-a-crime"
+    "source_url": "https://www.goodreads.com/book/show/29780253-born-a-crime",
+    "blurb": "Summary and Analysis of Born a Stories from a South African Childhood by Trevor Noah Trevor Noah, a mixed-race South African boy, weaves the story of his life and upbringing th…",
+    "rating": "3.70",
+    "votes": 27,
+    "pages": 37
   },
   {
     "rank": "18",
     "title": "Into the Wild",
     "authors": "Jon Krakauer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650755924l/60869516._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/60869516-into-the-wild"
+    "source_url": "https://www.goodreads.com/book/show/60869516-into-the-wild",
+    "blurb": "Into the Wild Study Guide consists of approx. 43 pages of summaries and analysis on Into the Wild by Jon Krakauer. This study guide includes the following sections: Plot Summar…",
+    "rating": "4.22",
+    "votes": 94,
+    "pages": 32
   },
   {
     "rank": "19",
     "title": "Night",
     "authors": "Elie Wiesel",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1709507006l/1617._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/1617.Night"
+    "source_url": "https://www.goodreads.com/book/show/1617.Night",
+    "blurb": "Presents activities to accompany the reading of Night by Elie Wiesel. For grades 8-12. Featured book is about a searing personal memoir of a boy who lived through the horrors o…",
+    "rating": "4.41",
+    "votes": 927,
+    "pages": 0
   },
   {
     "rank": "20",
     "title": "When Breath Becomes Air",
     "authors": "Paul Kalanithi",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1492677644l/25899336._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/25899336-when-breath-becomes-air"
+    "source_url": "https://www.goodreads.com/book/show/25899336-when-breath-becomes-air",
+    "blurb": "When Breath Becomes Air: by Paul Kalanithi; Foreword by Abraham Verghese A 15-Minute Summary & Analysis Preview: When Breath Becomes Air is the auto-biography of author, Pau…",
+    "rating": "4.29",
+    "votes": 347,
+    "pages": 28
   },
   {
     "rank": "21",
     "title": "Guns, Germs, and Steel: The Fates of Human Societies",
     "authors": "Jared Diamond",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453215833l/1842._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel"
+    "source_url": "https://www.goodreads.com/book/show/1842.Guns_Germs_and_Steel",
+    "blurb": "Seminar paper from the year 2004 in the subject Economy - Environment economics, grade: 1,0 (A), University of Hamburg (Centre for Sea and Climate Research), course: Seminar C…",
+    "rating": "4.27",
+    "votes": 26,
+    "pages": 17
   },
   {
     "rank": "22",
     "title": "In Cold Blood",
     "authors": "Truman Capote",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1424931136l/168642._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/168642.In_Cold_Blood"
+    "source_url": "https://www.goodreads.com/book/show/168642.In_Cold_Blood",
+    "blurb": "1965, 343 pages, made into a thriller movie. 5 3/4 By 8 1/2\"",
+    "rating": "4.09",
+    "votes": 747254,
+    "pages": 0
   },
   {
     "rank": "23",
     "title": "Invisible Women: Data Bias in a World Designed for Men",
     "authors": "Caroline Criado Pérez",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1617113740l/41104077._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/41104077-invisible-women"
+    "source_url": "https://www.goodreads.com/book/show/41104077-invisible-women",
+    "blurb": "IMPORTANT This is a Summary Of Invisible Exposing Data Bias in a World Designed for Men by Caroline Criado Perezand not the original book. Get the hard facts on gender equality…",
+    "rating": "3.50",
+    "votes": 10,
+    "pages": 21
   },
   {
     "rank": "24",
     "title": "Between the World and Me",
     "authors": "Ta-Nehisi Coates",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451435027l/25489625._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/25489625-between-the-world-and-me"
+    "source_url": "https://www.goodreads.com/book/show/25489625-between-the-world-and-me",
+    "blurb": "Limited Time $2.99 Regularly $3.99 In recent years there has been a huge wave of publicity surrounding the deaths of black men in America. Many people have called for a change i…",
+    "rating": "3.70",
+    "votes": 23,
+    "pages": 15
   },
   {
     "rank": "25",
     "title": "The Tipping Point: How Little Things Can Make a Big Difference",
     "authors": "Malcolm Gladwell",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1473396980l/2612._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/2612.The_Tipping_Point"
+    "source_url": "https://www.goodreads.com/book/show/2612.The_Tipping_Point",
+    "blurb": "Our goal is to summarize every book as concisely as possible, while making it easy and enjoyable to read. \"The 5 Minute Summary\" gives you the big ideas in just a few pages. As …",
+    "rating": "3.87",
+    "votes": 15,
+    "pages": 4
   },
   {
     "rank": "26",
     "title": "Killers of the Flower Moon: The Osage Murders and the Birth of the FBI",
     "authors": "David Grann",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1696884539l/193388249._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/193388249-killers-of-the-flower-moon"
+    "source_url": "https://www.goodreads.com/book/show/193388249-killers-of-the-flower-moon",
+    "blurb": "David Grann’s Killers of the Flower Moon is a New York Times bestseller and National Book Award, Finalist. This is a chapter-by-chapter summary and study guide. It includes St…",
+    "rating": "4.20",
+    "votes": 41,
+    "pages": 49
   },
   {
     "rank": "27",
     "title": "Into Thin Air: A Personal Account of the Mt. Everest Disaster",
     "authors": "Jon Krakauer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1631501298l/1898._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/1898.Into_Thin_Air"
+    "source_url": "https://www.goodreads.com/book/show/1898.Into_Thin_Air",
+    "blurb": "When Jon Krakauer reached the summit of Mt. Everest in the early afternoon of May 10, 1996, he hadn't slept in fifty-seven hours and was reeling from the brain-altering effect…",
+    "rating": "4.26",
+    "votes": 582984,
+    "pages": 368
   },
   {
     "rank": "28",
     "title": "Blink: The Power of Thinking Without Thinking",
     "authors": "Malcolm Gladwell",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1440763417l/40102._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/40102.Blink"
+    "source_url": "https://www.goodreads.com/book/show/40102.Blink",
+    "blurb": "Our goal is to summarize every book as concisely as possible, while making it easy and enjoyable to read. \"The 5 Minute Summary\" gives you the big ideas in just a few pages. As …",
+    "rating": "4.28",
+    "votes": 36,
+    "pages": 4
   },
   {
     "rank": "29",
     "title": "Stiff: The Curious Lives of Human Cadavers",
     "authors": "Mary Roach",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1625851259l/56769575._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/56769575-stiff"
+    "source_url": "https://www.goodreads.com/book/show/56769575-stiff",
+    "blurb": "SuperSummary, a modern alternative to SparkNotes and CliffsNotes, offers high-quality study guides for challenging works of literature. This 40-page guide for “Stiff: The Curi…",
+    "rating": "4.50",
+    "votes": 6,
+    "pages": 49
   },
   {
     "rank": "30",
     "title": "A Brief History of Time",
     "authors": "Stephen W. Hawking",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1333578746l/3869._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time"
+    "source_url": "https://www.goodreads.com/book/show/3869.A_Brief_History_of_Time",
+    "blurb": "Stephen Hawking's worldwide bestseller, A Brief History of Time, has been a landmark volume in scientific writing. Its author's engaging voice is one reason, and the compellin…",
+    "rating": "4.26",
+    "votes": 43725,
+    "pages": null
   },
   {
     "rank": "31",
     "title": "The Glass Castle",
     "authors": "Jeannette Walls",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1523542886l/7445._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/7445.The_Glass_Castle"
+    "source_url": "https://www.goodreads.com/book/show/7445.The_Glass_Castle",
+    "blurb": "The Glass Castle Study Guide consists of approx. 55 pages of summaries and analysis on The Glass Castle by Jeannette Walls. This study guide includes the following Plot Summary…",
+    "rating": "4.05",
+    "votes": 63,
+    "pages": 46
   },
   {
     "rank": "32",
     "title": "On Writing: A Memoir of the Craft",
     "authors": "Stephen  King",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436735207l/10569._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/10569.On_Writing"
+    "source_url": "https://www.goodreads.com/book/show/10569.On_Writing",
+    "blurb": "On Writing is part biography and part how-to. Stephen King writes about his childhood and young adulthood, relating stories that made him the writer he has become. Stephen Kin…",
+    "rating": "4.40",
+    "votes": 357,
+    "pages": 33
   },
   {
     "rank": "33",
     "title": "Bossypants",
     "authors": "Tina Fey",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1481509554l/9418327._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/9418327-bossypants"
+    "source_url": "https://www.goodreads.com/book/show/9418327-bossypants",
+    "blurb": "Book",
+    "rating": "3.00",
+    "votes": 2,
+    "pages": null
   },
   {
     "rank": "34",
     "title": "The Life-Changing Magic of Tidying Up: The Japanese Art of Decluttering and Organizing",
     "authors": "Marie Kondō",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1418767178l/22318578._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up"
+    "source_url": "https://www.goodreads.com/book/show/22318578-the-life-changing-magic-of-tidying-up",
+    "blurb": "SPECIAL DISCOUNT (Regularly $3.99 $2.99.) After Reading this Book You Are going to Know how You can Keep your Home and Your Life in Order. Not Just on a Short Term Basis but for…",
+    "rating": "3.59",
+    "votes": 195,
+    "pages": 27
   },
   {
     "rank": "35",
     "title": "Unbroken: A World War II Story of Survival, Resilience and Redemption",
     "authors": "Laura Hillenbrand",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327861115l/8664353._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/8664353-unbroken"
+    "source_url": "https://www.goodreads.com/book/show/8664353-unbroken",
+    "blurb": "Unbroken by Lauren Hillenbrand; Tara Waller This is not the actual book, Unbroken by Lauren Hillenbrand. This is A Brief Read of Unbroken by Lauren Hillenbrand, as summarized …",
+    "rating": "4.40",
+    "votes": 40,
+    "pages": 141
   },
   {
     "rank": "36",
     "title": "Wild: From Lost to Found on the Pacific Crest Trail",
     "authors": "Cheryl Strayed",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1453189881l/12262741._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/12262741-wild"
+    "source_url": "https://www.goodreads.com/book/show/12262741-wild",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "3.97",
+    "votes": 34,
+    "pages": 38
   },
   {
     "rank": "37",
     "title": "Crying in H Mart",
     "authors": "Michelle Zauner",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1601937850l/54814676._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/54814676-crying-in-h-mart"
+    "source_url": "https://www.goodreads.com/book/show/54814676-crying-in-h-mart",
+    "blurb": "Crying in H Mart - SUMMARY DISCLAIMER THIS SHORT AND VALUABLE PUBLICATION IS AN INDEPENDENT WORK OF Rhonda Thomas. ABOUT THE ORIGINAL BOOK In this exquisite story of family, food…",
+    "rating": "3.86",
+    "votes": 28,
+    "pages": 17
   },
   {
     "rank": "38",
     "title": "The Power of Habit: Why We Do What We Do in Life and Business",
     "authors": "Charles Duhigg",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1545854312l/12609433._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/12609433-the-power-of-habit"
+    "source_url": "https://www.goodreads.com/book/show/12609433-the-power-of-habit",
+    "blurb": "The Power of Habit is highlighting an important a role of habits and their necessity in our lives. Some of these habits you are already aware of, such brushing our teeth, smok…",
+    "rating": "3.96",
+    "votes": 114,
+    "pages": 0
   },
   {
     "rank": "39",
     "title": "I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer",
     "authors": "Michelle McNamara",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1499131009l/35068432._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/35068432-i-ll-be-gone-in-the-dark"
+    "source_url": "https://www.goodreads.com/book/show/35068432-i-ll-be-gone-in-the-dark",
+    "blurb": "I'll Be Gone in the Dark: One Woman's Obsessive Search for the Golden State Killer by Michelle McNamara For more than a decade, a violent predator has mysteriously committed fi…",
+    "rating": "4.67",
+    "votes": 3,
+    "pages": null
   },
   {
     "rank": "40",
@@ -284,69 +440,109 @@
     "title": "How to Win Friends & Influence People",
     "authors": "Dale Carnegie",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1442726934l/4865._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_Influence_People"
+    "source_url": "https://www.goodreads.com/book/show/4865.How_to_Win_Friends_Influence_People",
+    "blurb": "Librarian's Note: An alternate cover for this ISBN can be found here This grandfather of all people-skills books was first published in 1937. It was an overnight hit, eventuall…",
+    "rating": "4.21",
+    "votes": 1178819,
+    "pages": 234
   },
   {
     "rank": "42",
     "title": "The Art of War",
     "authors": "Sun Tzu",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630683326l/10534._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/10534.The_Art_of_War"
+    "source_url": "https://www.goodreads.com/book/show/10534.The_Art_of_War",
+    "blurb": "Forget everything you think you know about strength, strategy and success. This brilliant adaptation of the ancient masterpiece The Art of War shows women how to use Sun Tzu’s…",
+    "rating": "3.65",
+    "votes": 1608,
+    "pages": 224
   },
   {
     "rank": "43",
     "title": "The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma",
     "authors": "Bessel van der Kolk",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1594559067l/18693771._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score"
+    "source_url": "https://www.goodreads.com/book/show/18693771-the-body-keeps-the-score",
+    "blurb": "An Easy to Digest Summary Guide... ★☆BONUS MATERIAL AVAILABLE INSIDE★☆ The Mindset Warrior Summary Guides, provides you with a unique summarized version of the core informati…",
+    "rating": "3.96",
+    "votes": 28,
+    "pages": 84
   },
   {
     "rank": "44",
     "title": "Why We Sleep: Unlocking the Power of Sleep and Dreams",
     "authors": "Matthew Walker",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1556604137l/34466963._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/34466963-why-we-sleep"
+    "source_url": "https://www.goodreads.com/book/show/34466963-why-we-sleep",
+    "blurb": "Why We Unlocking The Power of Sleep and Dreams Book Summary What would you do if someone were to tell you that sleep is one of the single most important thing you can do in th…",
+    "rating": "3.86",
+    "votes": 50,
+    "pages": null
   },
   {
     "rank": "45",
     "title": "A Walk in the Woods: Rediscovering America on the Appalachian Trail",
     "authors": "Bill Bryson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388189974l/9791._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods"
+    "source_url": "https://www.goodreads.com/book/show/9791.A_Walk_in_the_Woods",
+    "blurb": "",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": null
   },
   {
     "rank": "46",
     "title": "Homo Deus: A History of Tomorrow",
     "authors": "Yuval Noah Harari",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1468760805l/31138556._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/31138556-homo-deus"
+    "source_url": "https://www.goodreads.com/book/show/31138556-homo-deus",
+    "blurb": "Hоmо Dеuѕ explains how we саmе to bе thе рlаnеt’ѕ dominant ѕресіеѕ and unсоvеrѕ a рrеdісtіоn fоr thе future оf humаnіtу. It еxаmіnеѕ оur рrеѕеnt humаnіѕt state, thе nоtіоn оf …",
+    "rating": "4.35",
+    "votes": 1635,
+    "pages": 28
   },
   {
     "rank": "47",
     "title": "The Man Who Mistook His Wife for a Hat and Other Clinical Tales",
     "authors": "Oliver Sacks",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1447047702l/63697._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales"
+    "source_url": "https://www.goodreads.com/book/show/63697.The_Man_Who_Mistook_His_Wife_for_a_Hat_and_Other_Clinical_Tales",
+    "blurb": "Oliver Sacks is a professor of clinical neurology who has spent years seeing patients. He has compiled some of his more interesting, more personal stories into one volume to s…",
+    "rating": "3.73",
+    "votes": 45,
+    "pages": 50
   },
   {
     "rank": "48",
     "title": "What If?: Serious Scientific Answers to Absurd Hypothetical Questions",
     "authors": "Randall Munroe",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1451351509l/21413662._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/21413662-what-if"
+    "source_url": "https://www.goodreads.com/book/show/21413662-what-if",
+    "blurb": "Where do the world’s smartest people get their ideas? From great books!This Summary is perfect for the time-crunched reader, the last-minute studier, or anyone who wants a sol…",
+    "rating": "3.88",
+    "votes": 51,
+    "pages": 17
   },
   {
     "rank": "49",
     "title": "Tuesdays with Morrie: An Old Man, a Young Man, and Life's Greatest Lesson",
     "authors": "Mitch Albom",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1423763749l/6900._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie"
+    "source_url": "https://www.goodreads.com/book/show/6900.Tuesdays_with_Morrie",
+    "blurb": "Maybe it was a grandparent, or a teacher, or a colleague. Someone older, patient and wise, who understood you when you were young and searching, helped you see the world as a …",
+    "rating": "4.21",
+    "votes": 1245639,
+    "pages": 0
   },
   {
     "rank": "50",
     "title": "Braiding Sweetgrass: Indigenous Wisdom, Scientific Knowledge, and the Teachings of Plants",
     "authors": "Robin Wall Kimmerer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1366775928l/17465709._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/17465709-braiding-sweetgrass"
+    "source_url": "https://www.goodreads.com/book/show/17465709-braiding-sweetgrass",
+    "blurb": "",
+    "rating": "4.29",
+    "votes": 17,
+    "pages": null
   }
 ]

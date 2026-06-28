@@ -4,349 +4,549 @@
     "title": "The Hunger Games",
     "authors": "Suzanne Collins",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722975l/2767052._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games"
+    "source_url": "https://www.goodreads.com/book/show/2767052-the-hunger-games",
+    "blurb": "This book does not contain any of The Hunger Games or any writing by Suzanne Collins. It consists of public domain articles written about The Hunger Games found on Wikipedia an…",
+    "rating": "4.24",
+    "votes": 212,
+    "pages": 64
   },
   {
     "rank": "2",
     "title": "Catching Fire",
     "authors": "Suzanne Collins",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722941l/6148028._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/6148028-catching-fire"
+    "source_url": "https://www.goodreads.com/book/show/6148028-catching-fire",
+    "blurb": "In \"Catching Fire,\" Katniss Everdeen and Peeta Mellark have survived the Hunger Games, but they now must face stronger challengers as rebellion breaks out across Panem. This i…",
+    "rating": "4.45",
+    "votes": 415,
+    "pages": 40
   },
   {
     "rank": "3",
     "title": "Mockingjay",
     "authors": "Suzanne Collins",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1586722918l/7260188._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/7260188-mockingjay"
+    "source_url": "https://www.goodreads.com/book/show/7260188-mockingjay",
+    "blurb": "Warning: This is an independent companion to Mockingjay (Hunger Games Trilogy, Book 3) , meant to enhance your experience of the novel. If you have not yet bought Mockingjay , m…",
+    "rating": "3.43",
+    "votes": 271,
+    "pages": 49
   },
   {
     "rank": "4",
     "title": "The Fault in Our Stars",
     "authors": "John  Green",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1436142804l/25856606._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars"
+    "source_url": "https://www.goodreads.com/book/show/25856606-the-fault-in-our-stars",
+    "blurb": "THIS IS NOT THE NOVEL BY JOHN GREEN. Award winning YA author John Green presents a new twist to a classic tale of star-crossed lovers and tragic fate in his fourth novel, The F…",
+    "rating": "4.13",
+    "votes": 1533,
+    "pages": 50
   },
   {
     "rank": "5",
     "title": "Divergent",
     "authors": "Veronica Roth",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618526890l/13335037._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/13335037-divergent"
+    "source_url": "https://www.goodreads.com/book/show/13335037-divergent",
+    "blurb": "The second book in Veronica Roth's Divergent trilogy follows Tris Prior as she copes with a failing society and her own emotional trauma. Insurgent takes place in a futuristic…",
+    "rating": "4.09",
+    "votes": 260,
+    "pages": 42
   },
   {
     "rank": "6",
     "title": "Twilight",
     "authors": "Stephenie Meyer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1700522826l/41865._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/41865.Twilight"
+    "source_url": "https://www.goodreads.com/book/show/41865.Twilight",
+    "blurb": "Eclipse (07) by Meyer, Stephenie [Hardcover (2007)]",
+    "rating": "3.74",
+    "votes": 2024282,
+    "pages": 0
   },
   {
     "rank": "7",
     "title": "Harry Potter and the Philosopher's Stone",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598823299l/42844155._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone"
+    "source_url": "https://www.goodreads.com/book/show/42844155-harry-potter-and-the-philosopher-s-stone",
+    "blurb": "\"Turning the envelope over, his hand trembling, Harry saw a purple wax seal bearing a coat of arms; a lion, an eagle, a badger and a snake surrounding a large letter 'H'.\" Harr…",
+    "rating": "4.47",
+    "votes": 11671130,
+    "pages": 0
   },
   {
     "rank": "8",
     "title": "Harry Potter and the Goblet of Fire",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627044952l/58613424._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire"
+    "source_url": "https://www.goodreads.com/book/show/58613424-harry-potter-and-the-goblet-of-fire",
+    "blurb": "Short descriptions of events that occur in each chapter. The Harry Potter and the Goblet of Fire Chapter Outlines highlight major plot events and detail the important relation…",
+    "rating": "4.35",
+    "votes": 52,
+    "pages": 17
   },
   {
     "rank": "9",
     "title": "Harry Potter and the Prisoner of Azkaban",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630547330l/5._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban"
+    "source_url": "https://www.goodreads.com/book/show/5.Harry_Potter_and_the_Prisoner_of_Azkaban",
+    "blurb": "The quick student workbooks are designed to get students thinking critically about the text they read and providing a guided study format to facilitate in improved learning an…",
+    "rating": "4.52",
+    "votes": 40,
+    "pages": 98
   },
   {
     "rank": "10",
     "title": "Harry Potter and the Chamber of Secrets",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1474169725l/15881._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets"
+    "source_url": "https://www.goodreads.com/book/show/15881.Harry_Potter_and_the_Chamber_of_Secrets",
+    "blurb": "Harry Potter is a wizard. He is in his second year at Hogwarts School of Witchcraft and Wizardry. Little does he know that this year will be just as eventful as the last...",
+    "rating": "4.43",
+    "votes": 4613692,
+    "pages": 0
   },
   {
     "rank": "11",
     "title": "Harry Potter and the Deathly Hallows",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627042661l/58613224._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58613224-harry-potter-and-the-deathly-hallows"
+    "source_url": "https://www.goodreads.com/book/show/58613224-harry-potter-and-the-deathly-hallows",
+    "blurb": "Harry Potter and the Deathly Hallows is the seventh and last in the Harry Potter series. This novel follows Harry Potter and his two closest friends, Ron Weasley and Hermione …",
+    "rating": "4.35",
+    "votes": 487,
+    "pages": 64
   },
   {
     "rank": "12",
     "title": "Harry Potter and the Order of the Phoenix",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627045351l/58613451._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix"
+    "source_url": "https://www.goodreads.com/book/show/58613451-harry-potter-and-the-order-of-the-phoenix",
+    "blurb": "Please note that the content of this book primarily consists of articles available from Wikipedia or other free sources online. Harry Potter and the Order of the Phoenix is a …",
+    "rating": "4.64",
+    "votes": 100,
+    "pages": 168
   },
   {
     "rank": "13",
     "title": "Harry Potter and the Half-Blood Prince",
     "authors": "J.K. Rowling",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1627043894l/58613345._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58613345-harry-potter-and-the-half-blood-prince"
+    "source_url": "https://www.goodreads.com/book/show/58613345-harry-potter-and-the-half-blood-prince",
+    "blurb": "Harry Potter and the Half-Blood Prince Study Guide consists of approx. 59 pages of summaries and analysis on Harry Potter and the Half-Blood Prince by J.K. Rowling. This study…",
+    "rating": "4.52",
+    "votes": 33,
+    "pages": 50
   },
   {
     "rank": "14",
     "title": "New Moon",
     "authors": "Stephenie Meyer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630592760l/49041._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/49041.New_Moon"
+    "source_url": "https://www.goodreads.com/book/show/49041.New_Moon",
+    "blurb": "This study guide consists of approx. 76 pages of chapter summaries, quotes, character analysis, themes, and more – everything you need to sharpen your knowledge of New Moon. T…",
+    "rating": "3.67",
+    "votes": 33,
+    "pages": 0
   },
   {
     "rank": "15",
     "title": "Insurgent",
     "authors": "Veronica Roth",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618525340l/11735983._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/11735983-insurgent"
+    "source_url": "https://www.goodreads.com/book/show/11735983-insurgent",
+    "blurb": "A dystopian trilogy, the Divergent series begins when Tris and \"Four\" (Tobias) turn 16. They do not fit into only one of five possible faction choices, so they are labeled Div…",
+    "rating": "4.37",
+    "votes": 67,
+    "pages": 74
   },
   {
     "rank": "16",
     "title": "Eclipse",
     "authors": "Stephenie Meyer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361038355l/428263._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/428263.Eclipse"
+    "source_url": "https://www.goodreads.com/book/show/428263.Eclipse",
+    "blurb": "\"BELLA?\" Edward's soft voice came from behind me. I turned to see him spring lightly up the porch steps, his hair windblown from running. He pulled me into his arms at once, ju…",
+    "rating": "3.74",
+    "votes": 2024282,
+    "pages": 629
   },
   {
     "rank": "17",
     "title": "City of Bones",
     "authors": "Cassandra Clare",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730315l/256683._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/256683.City_of_Bones"
+    "source_url": "https://www.goodreads.com/book/show/256683.City_of_Bones",
+    "blurb": "When fifteen-year-old Clary Fray heads out to the Pandemonium Club in New York City, she hardly expects to witness a murder—much less a murder committed by three teenagers cov…",
+    "rating": "4.06",
+    "votes": 2200720,
+    "pages": 485
   },
   {
     "rank": "18",
     "title": "Breaking Dawn",
     "authors": "Stephenie Meyer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1361039438l/1162543._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/1162543.Breaking_Dawn"
+    "source_url": "https://www.goodreads.com/book/show/1162543.Breaking_Dawn",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 71
   },
   {
     "rank": "19",
     "title": "The Perks of Being a Wallflower",
     "authors": "Stephen Chbosky",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1650033115l/22628._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower"
+    "source_url": "https://www.goodreads.com/book/show/22628.The_Perks_of_Being_a_Wallflower",
+    "blurb": "A concise new guide to Stephen Chbosky's The Perks of Being a Wallflower . Included are a biography of Chbosky, a detailed book summary and commentary, a look at all the litera…",
+    "rating": "3.95",
+    "votes": 57,
+    "pages": 38
   },
   {
     "rank": "20",
     "title": "Looking for Alaska",
     "authors": "John  Green",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1652042180l/99561._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/99561.Looking_for_Alaska"
+    "source_url": "https://www.goodreads.com/book/show/99561.Looking_for_Alaska",
+    "blurb": "Before. Miles “Pudge” Halter is done with his safe life at home. His whole life has been one big non-event, and his obsession with famous last words has only made him crave “t…",
+    "rating": "3.96",
+    "votes": 1774028,
+    "pages": 221
   },
   {
     "rank": "21",
     "title": "Eleanor & Park",
     "authors": "Rainbow Rowell",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1341952742l/15745753._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/15745753-eleanor-park"
+    "source_url": "https://www.goodreads.com/book/show/15745753-eleanor-park",
+    "blurb": "This study guide includes the following Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.10",
+    "votes": 10,
+    "pages": 68
   },
   {
     "rank": "22",
     "title": "The Giver",
     "authors": "Lois Lowry",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1342493368l/3636._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/3636.The_Giver"
+    "source_url": "https://www.goodreads.com/book/show/3636.The_Giver",
+    "blurb": "Ten lessons have students write journals, letters, and persuasive essays; study the novel's emphasis on precise language; participate in cooperative learning activities; and c…",
+    "rating": "3.83",
+    "votes": 96,
+    "pages": 68
   },
   {
     "rank": "23",
     "title": "Cinder",
     "authors": "Marissa Meyer",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1507557775l/36381037._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/36381037-cinder"
+    "source_url": "https://www.goodreads.com/book/show/36381037-cinder",
+    "blurb": "This study guide includes the following Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "3.87",
+    "votes": 15,
+    "pages": 53
   },
   {
     "rank": "24",
     "title": "The Lightning Thief",
     "authors": "Rick Riordan",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1684776677l/123675190._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/123675190-the-lightning-thief"
+    "source_url": "https://www.goodreads.com/book/show/123675190-the-lightning-thief",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.60",
+    "votes": 35,
+    "pages": 57
   },
   {
     "rank": "25",
     "title": "Allegiant",
     "authors": "Veronica Roth",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1395582745l/18710190._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/18710190-allegiant"
+    "source_url": "https://www.goodreads.com/book/show/18710190-allegiant",
+    "blurb": "A dystopian trilogy, the Divergent series begins when Tris and \"Four\" (Tobias) turn 16. They do not fit into only one of five possible faction choices, so they are labeled Div…",
+    "rating": "4.37",
+    "votes": 67,
+    "pages": 74
   },
   {
     "rank": "26",
     "title": "The Maze Runner",
     "authors": "James Dashner",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1375596592l/6186357._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/6186357-the-maze-runner"
+    "source_url": "https://www.goodreads.com/book/show/6186357-the-maze-runner",
+    "blurb": "The Scorch (The Maze Runner, Book 2) by James Dashner | Summary & Analysis This is a Summary & Analysis. Dashner’s piece is a young adult novel and direct sequel to 2009’s The …",
+    "rating": "4.47",
+    "votes": 350,
+    "pages": 52
   },
   {
     "rank": "27",
     "title": "Paper Towns",
     "authors": "John  Green",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1349013610l/6442769._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/6442769-paper-towns"
+    "source_url": "https://www.goodreads.com/book/show/6442769-paper-towns",
+    "blurb": "Can’t get enough of John Green’s Paper Towns ? Dive a little deeper into his world, discover hidden treasures, and hang out with Q and the gang just a little longer with this …",
+    "rating": "3.72",
+    "votes": 190,
+    "pages": 50
   },
   {
     "rank": "28",
     "title": "The Book Thief",
     "authors": "Markus Zusak",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1522157426l/19063._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/19063.The_Book_Thief"
+    "source_url": "https://www.goodreads.com/book/show/19063.The_Book_Thief",
+    "blurb": "Use Novel-Ties ® study guides as your total guided reading program. Reproducible pages in chapter-by-chapter format provide you with the right questions to ask, the important …",
+    "rating": "4.37",
+    "votes": 379,
+    "pages": 40
   },
   {
     "rank": "29",
     "title": "Shadow and Bone",
     "authors": "Leigh Bardugo",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1519072763l/37834723._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/37834723-shadow-and-bone"
+    "source_url": "https://www.goodreads.com/book/show/37834723-shadow-and-bone",
+    "blurb": "In a lavish world where darkness reigns and science collides with superstition, Alina Starkov has the power to save her country…but it comes with a price in The Grisha Trilogy…",
+    "rating": "4.27",
+    "votes": 13729,
+    "pages": 1248
   },
   {
     "rank": "30",
     "title": "Six of Crows",
     "authors": "Leigh Bardugo",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651710803l/23437156._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/23437156-six-of-crows"
+    "source_url": "https://www.goodreads.com/book/show/23437156-six-of-crows",
+    "blurb": "Contains 9781627792127 & 9781627792134 . Six dangerous outcasts. One impossible heist. The gripping Six of Crows and Crooked Kingdom duology, by #1 New York Times -bestselling au…",
+    "rating": "4.64",
+    "votes": 7603,
+    "pages": 1040
   },
   {
     "rank": "31",
     "title": "The Hate U Give",
     "authors": "Angie Thomas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1636851138l/58651625._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/58651625-the-hate-u-give"
+    "source_url": "https://www.goodreads.com/book/show/58651625-the-hate-u-give",
+    "blurb": "Unlock the more straightforward side of The Hate U Give with this concise and insightful summary and analysis! This engaging summary presents an analysis of The Hate U Give by …",
+    "rating": "4.44",
+    "votes": 9,
+    "pages": 25
   },
   {
     "rank": "32",
     "title": "City of Ashes",
     "authors": "Cassandra Clare",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1432730356l/1582996._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/1582996.City_of_Ashes"
+    "source_url": "https://www.goodreads.com/book/show/1582996.City_of_Ashes",
+    "blurb": "Also see: Alternate Cover Editions for this ISBN [ACE] ACE #1 Clary Fray just wishes that her life would go back to normal. But what's normal when you're a demon-slaying S…",
+    "rating": "4.10",
+    "votes": 1006260,
+    "pages": 453
   },
   {
     "rank": "33",
     "title": "Thirteen Reasons Why",
     "authors": "Jay Asher",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1555345043l/29844228._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/29844228-thirteen-reasons-why"
+    "source_url": "https://www.goodreads.com/book/show/29844228-thirteen-reasons-why",
+    "blurb": "This study guide includes the following Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "3.80",
+    "votes": 20,
+    "pages": 52
   },
   {
     "rank": "34",
     "title": "The Selection",
     "authors": "Kiera Cass",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1322103400l/10507293._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/10507293-the-selection"
+    "source_url": "https://www.goodreads.com/book/show/10507293-the-selection",
+    "blurb": "For thirty-five girls, the Selection is the chance of a lifetime. The opportunity to escape the life laid out for them since birth. To be swept up in a world of glittering gow…",
+    "rating": "4.07",
+    "votes": 1799185,
+    "pages": 336
   },
   {
     "rank": "35",
     "title": "Miss Peregrine's Home for Peculiar Children",
     "authors": "Ransom Riggs",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1623449170l/9460487._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children"
+    "source_url": "https://www.goodreads.com/book/show/9460487-miss-peregrine-s-home-for-peculiar-children",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "3.82",
+    "votes": 119,
+    "pages": 65
   },
   {
     "rank": "36",
     "title": "Fangirl",
     "authors": "Rainbow Rowell",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1355886270l/16068905._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/16068905-fangirl"
+    "source_url": "https://www.goodreads.com/book/show/16068905-fangirl",
+    "blurb": "This study guide includes the following Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.17",
+    "votes": 23,
+    "pages": 84
   },
   {
     "rank": "37",
     "title": "Throne of Glass",
     "authors": "Sarah J. Maas",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566495l/76703559._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/76703559-throne-of-glass"
+    "source_url": "https://www.goodreads.com/book/show/76703559-throne-of-glass",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.10",
+    "votes": 87,
+    "pages": 39
   },
   {
     "rank": "38",
     "title": "We Were Liars",
     "authors": "E. Lockhart",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1402749479l/16143347._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/16143347-we-were-liars"
+    "source_url": "https://www.goodreads.com/book/show/16143347-we-were-liars",
+    "blurb": "This study guide includes the following sections: Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "3.67",
+    "votes": 3,
+    "pages": 87
   },
   {
     "rank": "39",
     "title": "City of Glass",
     "authors": "Cassandra Clare",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1369452339l/3777732._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/3777732-city-of-glass"
+    "source_url": "https://www.goodreads.com/book/show/3777732-city-of-glass",
+    "blurb": "This study guide includes the following Plot Summary, Chapter Summaries & Analysis, Characters, Objects/Places, Themes, Style, Quotes, and Topics for Discussion.",
+    "rating": "4.00",
+    "votes": 3,
+    "pages": 90
   },
   {
     "rank": "40",
     "title": "The Cruel Prince",
     "authors": "Holly Black",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1574535986l/26032825._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/26032825-the-cruel-prince"
+    "source_url": "https://www.goodreads.com/book/show/26032825-the-cruel-prince",
+    "blurb": "A high-quality summary of Holly Black´s book The Cruel Prince including chapter details and analysis of the main themes of the original book. About the original When a mystery …",
+    "rating": "4.50",
+    "votes": 2,
+    "pages": 41
   },
   {
     "rank": "41",
     "title": "Red Queen",
     "authors": "Victoria Aveyard",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1449778912l/22328546._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/22328546-red-queen"
+    "source_url": "https://www.goodreads.com/book/show/22328546-red-queen",
+    "blurb": "Glass Sword: (Red Queen) by Victoria Aveyard | Summary & Analysis Victoria Aveyard’s latest installment is the follow-up to her breakthrough novel, Red Queen. In a post-apoca…",
+    "rating": "4.25",
+    "votes": 8,
+    "pages": 52
   },
   {
     "rank": "42",
     "title": "Speak",
     "authors": "Laurie Halse Anderson",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1529044298l/39280444._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/39280444-speak"
+    "source_url": "https://www.goodreads.com/book/show/39280444-speak",
+    "blurb": "Speak by Laurie Halse Anderson | Conversation Starters A Brief Look EVERY GOOD BOOK CONTAINS A WORLD FAR DEEPER than the surface of its pages. The characters and their world co…",
+    "rating": "4.00",
+    "votes": 11,
+    "pages": null
   },
   {
     "rank": "43",
     "title": "The Outsiders",
     "authors": "S.E. Hinton",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689626520l/192566704._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/192566704-the-outsiders"
+    "source_url": "https://www.goodreads.com/book/show/192566704-the-outsiders",
+    "blurb": "As a busy teacher, you don't have time to waste reinventing the wheel. You want to get down to the business of teaching. Finally, you can address the content standards while y…",
+    "rating": "4.44",
+    "votes": 32,
+    "pages": 40
   },
   {
     "rank": "44",
     "title": "If I Stay",
     "authors": "Gayle Forman",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1630573973l/4374400._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/4374400-if-i-stay"
+    "source_url": "https://www.goodreads.com/book/show/4374400-if-i-stay",
+    "blurb": "With InstaSummary, you can get the summary of a book in 15 minutes. We read every chapter, summarize and analyze it for your convenience. This is an InstaSummary of If I Stay b…",
+    "rating": "3.71",
+    "votes": 14,
+    "pages": 15
   },
   {
     "rank": "45",
     "title": "Clockwork Angel",
     "authors": "Cassandra Clare",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1693490271l/7171637._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/7171637-clockwork-angel"
+    "source_url": "https://www.goodreads.com/book/show/7171637-clockwork-angel",
+    "blurb": "In a time when Shadowhunters are barely winning the fight against the forces of darkness, one battle will change the course of history forever. Welcome to the Infernal Devices…",
+    "rating": "4.30",
+    "votes": 885710,
+    "pages": 479
   },
   {
     "rank": "46",
     "title": "Aristotle and Dante Discover the Secrets of the Universe",
     "authors": "Benjamin Alire Sáenz",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1328320260l/12000020._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe"
+    "source_url": "https://www.goodreads.com/book/show/12000020-aristotle-and-dante-discover-the-secrets-of-the-universe",
+    "blurb": "Analyzing literature can be hard — we make it easy! This in-depth study guide offers summaries & analyses for all 105 chapters of Aristotle and Dante Discover the Secrets of t…",
+    "rating": 0.0,
+    "votes": 0,
+    "pages": 58
   },
   {
     "rank": "47",
     "title": "The Raven Boys",
     "authors": "Maggie Stiefvater",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1573508485l/17675462._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/17675462-the-raven-boys"
+    "source_url": "https://www.goodreads.com/book/show/17675462-the-raven-boys",
+    "blurb": "The fourth and final installment in the spellbinding series from the irrepressible, #1 New York Times bestselling author Maggie Stiefvater.All her life, Blue has been warned t…",
+    "rating": "4.25",
+    "votes": 162760,
+    "pages": 0
   },
   {
     "rank": "48",
     "title": "Uglies",
     "authors": "Scott Westerfeld",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1654202671l/24770._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/24770.Uglies"
+    "source_url": "https://www.goodreads.com/book/show/24770.Uglies",
+    "blurb": "Offers the first three volumes in the popular series featuring the surgical transformation of teenager Tally Youngblood and her friends.",
+    "rating": "4.07",
+    "votes": 15420,
+    "pages": 1216
   },
   {
     "rank": "49",
     "title": "The Golden Compass",
     "authors": "Philip Pullman",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1505766203l/119322._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/119322.The_Golden_Compass"
+    "source_url": "https://www.goodreads.com/book/show/119322.The_Golden_Compass",
+    "blurb": "The Golden Compass, The Subtle Knife, and The Amber Spyglass are available together in one volume perfect for any fan or newcomer to this modern fantasy classic series. These t…",
+    "rating": "4.29",
+    "votes": 169742,
+    "pages": 52
   },
   {
     "rank": "50",
     "title": "Matched",
     "authors": "Ally Condie",
     "cover_url": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1367706191l/7735333._SY200_.jpg",
-    "source_url": "https://www.goodreads.com/book/show/7735333-matched"
+    "source_url": "https://www.goodreads.com/book/show/7735333-matched",
+    "blurb": "This digital collection includes all three critically acclaimed, award-winning novels from Ally Condie's Matched Trilogy, including Matched , Crossed , and the breathtaking conc…",
+    "rating": "4.08",
+    "votes": 4073,
+    "pages": 1322
   }
 ]
