@@ -349,7 +349,7 @@ def _gr_autocomplete(session, title, author='', book_id=None):
             time.sleep(_ac_min_interval - elapsed)
         _ac_last_call = time.time()
 
-        query = quote((title + ' ' + author).strip().encode('utf-8'))
+        query = quote(title.strip().encode('utf-8'))
         url = GR_AC_URL + query
         r = session.get(url, timeout=15)
         r.raise_for_status()
@@ -358,17 +358,39 @@ def _gr_autocomplete(session, title, author='', book_id=None):
             return None
 
         # Find the best matching result:
-        # 1. If we have a book_id, try to find an exact match
-        # 2. Otherwise, fall back to the first result
+        # 1. Try exact book_id match first
+        # 2. If no match, try work_id match (same book, different edition)
+        # 3. Fall back to first result only if title closely matches
         hit = None
         if book_id:
             for result in results:
                 if result.get('bookId') == str(book_id):
                     hit = result
                     break
-        if not hit:
-            hit = results[0]
 
+        # Try workId match if bookId didn't match
+        if not hit:
+            # Get workId from first result as reference
+            ref_work_id = results[0].get('workId') if results else None
+            if ref_work_id:
+                for result in results[1:]:
+                    if result.get('workId') == ref_work_id:
+                        # Same work, check if this result is the actual book (not summary/study guide)
+                        title_lower = result.get('title', '').lower()
+                        if 'summary' not in title_lower and 'study guide' not in title_lower and 'analysis' not in title_lower:
+                            hit = result
+                            break
+
+        # Last resort: use first result that isn't a summary/guide
+        if not hit:
+            for result in results:
+                title_lower = result.get('title', '').lower()
+                if 'summary' not in title_lower and 'study guide' not in title_lower and 'analysis' not in title_lower:
+                    hit = result
+                    break
+            # If all are summaries, use first result
+            if not hit:
+                hit = results[0]
         desc_obj = hit.get('description') or {}
         blurb_html = desc_obj.get('html', '') if isinstance(desc_obj, dict) else ''
         blurb = re.sub(r'<[^>]+>', ' ', blurb_html)
