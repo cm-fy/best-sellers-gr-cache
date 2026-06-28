@@ -126,6 +126,17 @@ def _decode_html(text):
         return text or ''
 
 
+def _extract_book_id(url):
+    """Extract the numeric book ID from a Goodreads book URL.
+
+    Examples:
+        /book/show/23692271-sapiens → 23692271
+        https://www.goodreads.com/book/show/23692271-sapiens → 23692271
+    """
+    m = re.search(r'/book/show/(\d+)', url)
+    return m.group(1) if m else None
+
+
 def _parse_table_rows(html, session=None):
     """Parse the classic Goodreads table layout (bookTitle class in <tr> rows)."""
     books = []
@@ -166,13 +177,20 @@ def _parse_table_rows(html, session=None):
         }
 
         # Fetch additional metadata from autocomplete API
+        # Use book_id to ensure we get the correct book's blurb, not a summary/guide
         if session:
-            ac_data = _gr_autocomplete(session, title, authors_str if authors_str != '\u2014' else '')
+            book_id = _extract_book_id(src_url)
+            ac_data = _gr_autocomplete(session, title,
+                                        authors_str if authors_str != '\u2014' else '',
+                                        book_id=book_id)
             if ac_data:
                 book['blurb'] = ac_data.get('blurb', '')
                 book['rating'] = ac_data.get('rating')
                 book['votes'] = ac_data.get('rating_count')
                 book['pages'] = ac_data.get('num_pages')
+                # Use author from autocomplete if HTML parsing failed
+                if authors_str == '\u2014' and ac_data.get('author_name'):
+                    book['authors'] = ac_data['author_name']
 
         books.append(book)
     return books
@@ -216,13 +234,20 @@ def _parse_ranked_headings(html, session=None):
         }
 
         # Fetch additional metadata from autocomplete API
+        # Use book_id to ensure we get the correct book's blurb, not a summary/guide
         if session:
-            ac_data = _gr_autocomplete(session, title, authors_str if authors_str != '\u2014' else '')
+            book_id = _extract_book_id(src_url)
+            ac_data = _gr_autocomplete(session, title,
+                                        authors_str if authors_str != '\u2014' else '',
+                                        book_id=book_id)
             if ac_data:
                 book_entry['blurb'] = ac_data.get('blurb', '')
                 book_entry['rating'] = ac_data.get('rating')
                 book_entry['votes'] = ac_data.get('rating_count')
                 book_entry['pages'] = ac_data.get('num_pages')
+                # Use author from autocomplete if HTML parsing failed
+                if authors_str == '\u2014' and ac_data.get('author_name'):
+                    book_entry['authors'] = ac_data['author_name']
 
         books.append(book_entry)
         if len(books) >= 50:
@@ -280,13 +305,20 @@ def _parse_shelf_cards(html, session=None):
         }
 
         # Fetch additional metadata from autocomplete API
+        # Use book_id to ensure we get the correct book's blurb, not a summary/guide
         if session:
-            ac_data = _gr_autocomplete(session, title, authors_str if authors_str != '\u2014' else '')
+            book_id = _extract_book_id(src_url)
+            ac_data = _gr_autocomplete(session, title,
+                                        authors_str if authors_str != '\u2014' else '',
+                                        book_id=book_id)
             if ac_data:
                 book_entry['blurb'] = ac_data.get('blurb', '')
                 book_entry['rating'] = ac_data.get('rating')
                 book_entry['votes'] = ac_data.get('rating_count')
                 book_entry['pages'] = ac_data.get('num_pages')
+                # Use author from autocomplete if HTML parsing failed
+                if authors_str == '\u2014' and ac_data.get('author_name'):
+                    book_entry['authors'] = ac_data['author_name']
 
         books.append(book_entry)
         if len(books) >= 50:
@@ -299,10 +331,14 @@ def _parse_shelf_cards(html, session=None):
 _ac_last_call = 0
 _ac_min_interval = 0.5  # seconds between calls
 
-def _gr_autocomplete(session, title, author=''):
+def _gr_autocomplete(session, title, author='', book_id=None):
     """Fetch additional book metadata from Goodreads autocomplete API.
 
-    Returns dict with: blurb, rating, rating_count, num_pages, book_id
+    Returns dict with: blurb, rating, rating_count, num_pages, book_id, author_name
+
+    If book_id is provided, searches for a matching entry in results instead of
+    just taking the first result. This prevents matching summary books or
+    different editions.
     """
     global _ac_last_call
     try:
@@ -320,17 +356,35 @@ def _gr_autocomplete(session, title, author=''):
         results = r.json()
         if not results:
             return None
-        hit = results[0]
+
+        # Find the best matching result:
+        # 1. If we have a book_id, try to find an exact match
+        # 2. Otherwise, fall back to the first result
+        hit = None
+        if book_id:
+            for result in results:
+                if result.get('bookId') == str(book_id):
+                    hit = result
+                    break
+        if not hit:
+            hit = results[0]
+
         desc_obj = hit.get('description') or {}
         blurb_html = desc_obj.get('html', '') if isinstance(desc_obj, dict) else ''
         blurb = re.sub(r'<[^>]+>', ' ', blurb_html)
         blurb = _decode_html(re.sub(r'\s+', ' ', blurb).strip())
+
+        # Extract author name from the autocomplete result
+        author_obj = hit.get('author') or {}
+        author_name = author_obj.get('name', '') if isinstance(author_obj, dict) else ''
+
         return {
             'blurb': blurb[:400] + ('…' if len(blurb) > 400 else ''),
             'rating': hit.get('avgRating'),
             'rating_count': hit.get('ratingsCount'),
             'num_pages': hit.get('numPages'),
             'book_id': hit.get('bookId', ''),
+            'author_name': author_name,
         }
     except Exception as e:
         print(f'    Autocomplete error for "{title}": {e}')
