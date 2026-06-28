@@ -22,8 +22,9 @@ import json
 import os
 import re
 import sys
+import time
 from datetime import datetime
-from urllib.parse import urljoin
+from urllib.parse import urljoin, quote
 
 import requests
 from bs4 import BeautifulSoup
@@ -46,6 +47,9 @@ HEADERS = {
     'Accept-Encoding': 'gzip, deflate',
     'Connection': 'keep-alive',
 }
+
+# Goodreads autocomplete API for fetching additional book metadata
+GR_AC_URL = 'https://www.goodreads.com/book/auto_complete?format=json&q='
 
 # Goodreads lists to scrape — (slug, label, url)
 # Callable URLs (gr_month, gr_year) are computed dynamically below.
@@ -122,7 +126,7 @@ def _decode_html(text):
         return text or ''
 
 
-def _parse_table_rows(html):
+def _parse_table_rows(html, session=None):
     """Parse the classic Goodreads table layout (bookTitle class in <tr> rows)."""
     books = []
     rows = re.findall(r'<tr\b[^>]*>(.*?)</tr>', html, re.DOTALL | re.I)
@@ -147,21 +151,34 @@ def _parse_table_rows(html):
         authors = re.findall(
             r'<a[^>]+class="authorName"[^>]*>\s*(?:<span[^>]*>)?([^<]+?)(?:</span>)?\s*</a>',
             row, re.I)
+        authors_str = ', '.join(a.strip() for a in authors if a.strip()) or '\u2014'
         cover_url = ''
         cm = re.search(r'<img[^>]+src="(https?://[^"]+)"', row, re.I)
         if cm:
             cover_url = re.sub(r'\._S[XY]\d+_', '._SY200_', cm.group(1))
-        books.append({
+
+        book = {
             'rank':       str(len(books) + 1),
             'title':      title,
-            'authors':    ', '.join(a.strip() for a in authors if a.strip()) or '\u2014',
+            'authors':    authors_str,
             'cover_url':  cover_url,
             'source_url': src_url,
-        })
+        }
+
+        # Fetch additional metadata from autocomplete API
+        if session:
+            ac_data = _gr_autocomplete(session, title, authors_str if authors_str != '\u2014' else '')
+            if ac_data:
+                book['blurb'] = ac_data.get('blurb', '')
+                book['rating'] = ac_data.get('rating')
+                book['votes'] = ac_data.get('rating_count')
+                book['pages'] = ac_data.get('num_pages')
+
+        books.append(book)
     return books
 
 
-def _parse_ranked_headings(html):
+def _parse_ranked_headings(html, session=None):
     """Parse the #1, #2, ... heading layout (e.g. Best Books Ever)."""
     books = []
     for m in re.finditer(r'<h2[^>]*>\s*#(\d+)\s*</h2>', html, re.DOTALL | re.I):
@@ -184,23 +201,36 @@ def _parse_ranked_headings(html):
             author = re.sub(r'\s+Goodreads Author\s*$', '', _decode_html(author).strip())
             if author and author not in authors:
                 authors.append(author)
+        authors_str = ', '.join(authors) or '\u2014'
         cover_url = ''
         cm = re.search(r'<img[^>]+src="(https?://[^"]+)"', row, re.I)
         if cm:
             cover_url = re.sub(r'\._S[XY]\d+_', '._SY200_', cm.group(1))
-        books.append({
+
+        book_entry = {
             'rank':       m.group(1),
             'title':      title,
-            'authors':    ', '.join(authors) or '\u2014',
+            'authors':    authors_str,
             'cover_url':  cover_url,
             'source_url': src_url,
-        })
+        }
+
+        # Fetch additional metadata from autocomplete API
+        if session:
+            ac_data = _gr_autocomplete(session, title, authors_str if authors_str != '\u2014' else '')
+            if ac_data:
+                book_entry['blurb'] = ac_data.get('blurb', '')
+                book_entry['rating'] = ac_data.get('rating')
+                book_entry['votes'] = ac_data.get('rating_count')
+                book_entry['pages'] = ac_data.get('num_pages')
+
+        books.append(book_entry)
         if len(books) >= 50:
             break
     return books
 
 
-def _parse_shelf_cards(html):
+def _parse_shelf_cards(html, session=None):
     """Parse shelf/list pages that use card-style divs (modern Goodreads layout).
 
     Handles both the older 'left' class divs and newer card layouts.
@@ -239,33 +269,92 @@ def _parse_shelf_cards(html):
                 src = img.get('src', '')
                 cover_url = re.sub(r'\._S[XY]\d+_', '._SY200_', src)
 
-        books.append({
+        authors_str = ', '.join(authors) or '\u2014'
+
+        book_entry = {
             'rank':       str(len(books) + 1),
             'title':      title,
-            'authors':    ', '.join(authors) or '\u2014',
+            'authors':    authors_str,
             'cover_url':  cover_url,
             'source_url': src_url,
-        })
+        }
+
+        # Fetch additional metadata from autocomplete API
+        if session:
+            ac_data = _gr_autocomplete(session, title, authors_str if authors_str != '\u2014' else '')
+            if ac_data:
+                book_entry['blurb'] = ac_data.get('blurb', '')
+                book_entry['rating'] = ac_data.get('rating')
+                book_entry['votes'] = ac_data.get('rating_count')
+                book_entry['pages'] = ac_data.get('num_pages')
+
+        books.append(book_entry)
         if len(books) >= 50:
             break
 
     return books
 
 
-def parse_goodreads(html):
-    """Parse Goodreads HTML using the same multi-strategy approach as the plugin."""
+# Rate limiting for autocomplete API calls
+_ac_last_call = 0
+_ac_min_interval = 0.5  # seconds between calls
+
+def _gr_autocomplete(session, title, author=''):
+    """Fetch additional book metadata from Goodreads autocomplete API.
+
+    Returns dict with: blurb, rating, rating_count, num_pages, book_id
+    """
+    global _ac_last_call
+    try:
+        # Rate limiting
+        now = time.time()
+        elapsed = now - _ac_last_call
+        if elapsed < _ac_min_interval:
+            time.sleep(_ac_min_interval - elapsed)
+        _ac_last_call = time.time()
+
+        query = quote((title + ' ' + author).strip().encode('utf-8'))
+        url = GR_AC_URL + query
+        r = session.get(url, timeout=15)
+        r.raise_for_status()
+        results = r.json()
+        if not results:
+            return None
+        hit = results[0]
+        desc_obj = hit.get('description') or {}
+        blurb_html = desc_obj.get('html', '') if isinstance(desc_obj, dict) else ''
+        blurb = re.sub(r'<[^>]+>', ' ', blurb_html)
+        blurb = _decode_html(re.sub(r'\s+', ' ', blurb).strip())
+        return {
+            'blurb': blurb[:400] + ('…' if len(blurb) > 400 else ''),
+            'rating': hit.get('avgRating'),
+            'rating_count': hit.get('ratingsCount'),
+            'num_pages': hit.get('numPages'),
+            'book_id': hit.get('bookId', ''),
+        }
+    except Exception as e:
+        print(f'    Autocomplete error for "{title}": {e}')
+        return None
+
+
+def parse_goodreads(html, session=None):
+    """Parse Goodreads HTML using the same multi-strategy approach as the plugin.
+
+    If session is provided, fetches additional metadata (blurb, rating, votes, pages)
+    from the autocomplete API for each book.
+    """
     # Strategy 1: table rows with bookTitle class
-    result = _parse_table_rows(html)
+    result = _parse_table_rows(html, session)
     if result:
         return result
 
     # Strategy 2: ranked headings (#1, #2, ...)
-    result = _parse_ranked_headings(html)
+    result = _parse_ranked_headings(html, session)
     if result:
         return result
 
     # Strategy 3: card/shelf layout (BeautifulSoup)
-    result = _parse_shelf_cards(html)
+    result = _parse_shelf_cards(html, session)
     if result:
         return result
 
@@ -302,7 +391,7 @@ def main():
                 # Write empty list so plugin knows it was attempted
                 _write(slug, [])
                 continue
-            books = parse_goodreads(html)
+            books = parse_goodreads(html, session)
             _write(slug, books)
             print(f'  {len(books)} books parsed')
             meta['lists'].append({
@@ -341,7 +430,7 @@ def main():
                 })
                 _write(slug, [])
                 continue
-            books = parse_goodreads(html)
+            books = parse_goodreads(html, session)
             _write(slug, books)
             print(f'  {len(books)} books parsed')
             meta['lists'].append({
