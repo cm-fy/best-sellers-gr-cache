@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-08-31T08:24:14.159240Z",
+  "fetched_at": "2026-09-07T07:09:41.816288Z",
   "year": 2026,
-  "month": 8,
+  "month": 9,
   "lists": [
     {
       "slug": "most_read",
@@ -27,7 +27,7 @@
     {
       "slug": "popular_month",
       "label": "Popular This Month",
-      "url": "https://www.goodreads.com/book/popular_by_date/2026/8",
+      "url": "https://www.goodreads.com/book/popular_by_date/2026/9",
       "book_count": 15,
       "status": "ok"
     },
