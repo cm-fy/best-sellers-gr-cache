@@ -74,6 +74,55 @@ STATIC_LISTS = [
     ('hugo_award',    'Hugo Award',           'https://www.goodreads.com/award/show/9-hugo-award'),
 ]
 
+# ── Award lists ─────────────────────────────────────────────────────────────
+# Goodreads /award/show/<id> pages are plain "bookTitle" list tables, so the
+# same parser handles them.  IDs below were verified by scanning the live
+# award index (see Best-Sellers/scratch/award_id_scan.py).  The slug in the URL
+# is cosmetic — Goodreads routes purely on the numeric ID — so we build URLs
+# from the ID and a human-readable slug for the cached filename.
+#
+# (slug, label, goodreads_award_id).  Output file: gr/award_<slug>.json
+AWARD_LISTS = [
+    # -- International / non-English ------------------------------------------
+    ('litt_policiere',      'Grand Prix de Littérature Policière (France)', 195),
+    ('premio_nadal',        'Premio Nadal (Spain)',                         545),
+    ('premio_herralde',     'Premio Herralde de Novela (Spain)',            537),
+    ('romulo_gallegos',     'Premio Rómulo Gallegos (Venezuela)',           538),
+    ('kurd_lasswitz',       'Kurd-Laßwitz-Preis (Germany, SF)',             210),
+    ('buxtehuder_bulle',    'Buxtehuder Bulle (Germany, YA)',               295),
+    ('internat_literaturpreis', 'Internationaler Literaturpreis (Germany)', 495),
+    ('nederlandse_boek',    'Publieksprijs Nederlandse Boek (Netherlands)', 457),
+    ('golshiri',            'Houshang Golshiri Award (Iran)',               733),
+    ('frank_oconnor',       'Frank O’Connor Short Story Award (Ireland)',   707),
+    # -- UK & Commonwealth ----------------------------------------------------
+    ('booker_prize',        'Booker Prize',                                  13),
+    ('womens_prize',        'Women’s Prize for Fiction (Orange)',            90),
+    ('costa_whitbread',     'Costa / Whitbread Book Award',                 111),
+    ('james_tait_black',    'James Tait Black Memorial Prize',               94),
+    ('somerset_maugham',    'Somerset Maugham Award',                       278),
+    ('guardian_first_book', 'Guardian First Book Award',                     92),
+    ('guardian_fiction',    'Guardian Fiction Award',                        89),
+    ('llewellyn_rhys',      'John Llewellyn Rhys Prize',                    246),
+    ('wh_smith_literary',   'WH Smith Literary Award',                      480),
+    ('kate_greenaway',      'Kate Greenaway Medal',                         690),
+    ('winifred_holtby',     'Winifred Holtby Memorial Prize',              704),
+    ('warwick_prize',       'Warwick Prize for Writing',                     87),
+    ('arthur_c_clarke',     'Arthur C. Clarke Award (UK, SF)',               76),
+    ('bsfa',                'BSFA Award (UK, SF)',                          243),
+    ('gemmell_legend',      'David Gemmell Legend Award (UK, fantasy)',     550),
+    ('cwa_silver_dagger',   'CWA Silver Dagger (UK, crime)',                535),
+    ('stephen_leacock',     'Stephen Leacock Medal (Canada, humour)',      416),
+    ('sunburst',            'Sunburst Award (Canada, SF/F)',                475),
+    ('geffen',              'Geffen Award (Israel, SF/F)',                  106),
+    # -- Anti-awards & oddities ----------------------------------------------
+    ('bad_sex_fiction',     'Bad Sex in Fiction Award',                   12341),
+    ('coogler',             'J. Gordon Coogler Award (worst book)',          40),
+]
+
+
+def _award_url(award_id):
+    return 'https://www.goodreads.com/award/show/{}'.format(award_id)
+
 DYNAMIC_LISTS = [
     ('popular_month', 'Popular This Month',
      f'https://www.goodreads.com/book/popular_by_date/{NOW.year}/{NOW.month}'),
@@ -188,6 +237,7 @@ def _parse_table_rows(html, session=None):
                 book['rating'] = ac_data.get('rating')
                 book['votes'] = ac_data.get('rating_count')
                 book['pages'] = ac_data.get('num_pages')
+                book['format'] = ac_data.get('format', '')
                 # Use author from autocomplete if HTML parsing failed
                 if authors_str == '\u2014' and ac_data.get('author_name'):
                     book['authors'] = ac_data['author_name']
@@ -245,6 +295,7 @@ def _parse_ranked_headings(html, session=None):
                 book_entry['rating'] = ac_data.get('rating')
                 book_entry['votes'] = ac_data.get('rating_count')
                 book_entry['pages'] = ac_data.get('num_pages')
+                book_entry['format'] = ac_data.get('format', '')
                 # Use author from autocomplete if HTML parsing failed
                 if authors_str == '\u2014' and ac_data.get('author_name'):
                     book_entry['authors'] = ac_data['author_name']
@@ -316,6 +367,7 @@ def _parse_shelf_cards(html, session=None):
                 book_entry['rating'] = ac_data.get('rating')
                 book_entry['votes'] = ac_data.get('rating_count')
                 book_entry['pages'] = ac_data.get('num_pages')
+                book_entry['format'] = ac_data.get('format', '')
                 # Use author from autocomplete if HTML parsing failed
                 if authors_str == '\u2014' and ac_data.get('author_name'):
                     book_entry['authors'] = ac_data['author_name']
@@ -331,15 +383,338 @@ def _parse_shelf_cards(html, session=None):
 _ac_last_call = 0
 _ac_min_interval = 0.5  # seconds between calls
 
-def _gr_autocomplete(session, title, author='', book_id=None):
-    """Fetch additional book metadata from Goodreads autocomplete API.
+# ── Derivative-work detection ─────────────────────────────────────────────────
+# Phrases that indicate a result is NOT the original book but a summary, study
+# guide, digest, companion, "articles about", sidekick, review, analysis, etc.
+_DERIVATIVE_TITLE_PHRASES = (
+    'summary', 'study guide', 'study companion', 'companion to',
+    'sidekick', 'analysis', 'digest', 'quick student workbook',
+    'teacher guide', 'teaching guide', 'lesson plans',
+    'review and analysis', 'summary and analysis', 'summary & analysis',
+    'book review', 'review summary', 'bookmarked',
+    'articles on', 'articles about', 'wikipedia',
+    'independent companion', 'independent publication',
+    'not written by', 'this is not', 'disclaimer',
+    'sparknotes', 'cliff notes', 'cliffsnotes', 'bookrags',
+    'by summary', 'a summary of', 'summary of',
+    'concise new guide', 'concise and insightful',
+    'unlock the more straightforward side',
+    'finish in one sitting',
+    'grab this', 'want to read but don',
+    'book analysis', 'key summary breakdown',
+    '30-minute study guide', 'booknotes', 'expert book reviews',
+    'the big read', 'resources to integrate',
+    'detailed summary', 'quark notes', 'abookaday',
+    'instanalysis', 'bright summaries', 'one sitting publications',
+)
 
-    Returns dict with: blurb, rating, rating_count, num_pages, book_id, author_name
+_DERIVATIVE_AUTHORS = (
+    'hephaestus books', 'bookrags', 'bookbuddy', 'bookmarked',
+    'sparknotes', 'cliffs notes', 'cliffsnotes',
+    'riyan zia', 'susan brown summary', 'daily books',
+    'summary station', 'summary world', 'reads summaries',
+    'instaread', 'worth books', 'swift reads',
+    'bright summaries', 'abookaday', 'instanalysis',
+    'expert book reviews', 'booknotes', 'quark notes',
+    'one sitting publications', 'katherine r. miller',
+    'harold hanson', 'anne twomey', 'marsha james',
+)
 
-    If book_id is provided, searches for a matching entry in results instead of
-    just taking the first result. This prevents matching summary books or
-    different editions.
+
+def _is_derivative_work(hit):
+    """Return True if an autocomplete result is a summary/study guide/digest
+    rather than the original book."""
+    if not isinstance(hit, dict):
+        return False
+    title = (hit.get('title') or '').lower()
+    for phrase in _DERIVATIVE_TITLE_PHRASES:
+        if phrase in title:
+            return True
+    author_name = ''
+    author_obj = hit.get('author')
+    if isinstance(author_obj, dict):
+        author_name = (author_obj.get('name') or '').lower()
+    elif isinstance(author_obj, str):
+        author_name = author_obj.lower()
+    if author_name:
+        for der in _DERIVATIVE_AUTHORS:
+            if der in author_name:
+                return True
+    desc_obj = hit.get('description') or {}
+    blurb_html = desc_obj.get('html', '') if isinstance(desc_obj, dict) else ''
+    if blurb_html:
+        blurb_lower = re.sub(r'<[^>]+>', ' ', blurb_html).lower()
+        for phrase in ('this book does not contain',
+                       'this is not written by',
+                       'this is an independent',
+                       'this study guide',
+                       'consists of public domain articles'):
+            if phrase in blurb_lower:
+                return True
+    return False
+
+
+def _gr_normalize(text):
+    """Normalize text for comparison (casefold, strip punctuation)."""
+    import unicodedata
+    text = unicodedata.normalize('NFKD', text or '')
+    text = ''.join(ch for ch in text if not unicodedata.combining(ch))
+    text = text.casefold()
+    text = re.sub(r'[^\w\s]', ' ', text, flags=re.U)
+    return re.sub(r'\s+', ' ', text).strip()
+
+
+def _gr_title_similarity(list_title, result_title):
+    """Score how well a result title matches the list title (0.0 - 1.0)."""
+    lt = _gr_normalize(list_title)
+    rt = _gr_normalize(result_title)
+    if not lt or not rt:
+        return 0.0
+    if lt == rt:
+        return 1.0
+    lt_words = [w for w in lt.split() if w]
+    rt_words = [w for w in rt.split() if w]
+    if not lt_words or not rt_words:
+        return 0.0
+    lt_set, rt_set = set(lt_words), set(rt_words)
+    common = lt_set.intersection(rt_set)
+    if not common:
+        return 0.0
+    containment = len(common) / len(lt_set)
+    extra = max(0, len(rt_set) - len(lt_set)) / max(len(rt_set), 1)
+    score = containment * (1.0 - 0.3 * extra)
+    if rt.startswith(lt) or lt.startswith(rt):
+        score = min(1.0, score + 0.15)
+    return max(0.0, min(1.0, score))
+
+
+def _gr_author_keys(authors):
+    """Extract normalized author match keys."""
+    if isinstance(authors, (list, tuple)):
+        parts = [str(a) for a in authors]
+    else:
+        parts = re.split(r'\s*(?:,|;|\band\b|&|\+)\s*', authors or '', flags=re.I)
+    keys = []
+    for part in parts:
+        cleaned = re.sub(r'^\s*by\s+', '', part, flags=re.I)
+        key = _gr_normalize(cleaned)
+        if not key or key == _gr_normalize('\u2014'):
+            continue
+        if key not in keys:
+            keys.append(key)
+        try:
+            last = key.split()[-1]
+        except Exception:
+            last = ''
+        if last and last not in keys:
+            keys.append(last)
+    return keys
+
+
+def _gr_hit_author(hit):
+    """Extract author name string from an autocomplete hit."""
+    ao = hit.get('author')
+    if isinstance(ao, dict):
+        return ao.get('name', '')
+    if isinstance(ao, str):
+        return ao
+    return ''
+
+
+def _gr_pick_best_hit(results, title, author='', book_id=None):
+    """Pick the best autocomplete result, avoiding derivative works.
+
+    Tiers:
+      1. Exact bookId match (definitive).
+      2. Best title-similarity among non-derivative, author-matching results.
+      3. Best title-similarity among non-derivative results.
+      4. First non-derivative result.
+      5. None if all derivative + have book_id; else results[0] (backward compat).
     """
+    if not results:
+        return None
+
+    # Tier 1: exact bookId match
+    if book_id:
+        bid = str(book_id)
+        for r in results:
+            if str(r.get('bookId', '')) == bid:
+                return r
+
+    have_author = bool(author and author.strip() and author.strip() != '\u2014')
+    auth_keys = set()
+    if have_author:
+        for k in _gr_author_keys(author):
+            if k and k != _gr_normalize('\u2014'):
+                auth_keys.add(k)
+
+    scored = []
+    for r in results:
+        if _is_derivative_work(r):
+            continue
+        sim = _gr_title_similarity(title, r.get('title', ''))
+        r_auth = _gr_hit_author(r)
+        r_auth_keys = set(_gr_author_keys(r_auth)) if r_auth else set()
+        author_match = bool(auth_keys and r_auth_keys and auth_keys.intersection(r_auth_keys))
+        scored.append((sim, author_match, r))
+
+    if scored:
+        author_matched = [s for s in scored if s[1]]
+        if author_matched:
+            author_matched.sort(key=lambda s: s[0], reverse=True)
+            return author_matched[0][2]
+        scored.sort(key=lambda s: s[0], reverse=True)
+        return scored[0][2]
+
+    # Tier 4: first non-derivative result
+    for r in results:
+        if not _is_derivative_work(r):
+            return r
+
+    # Tier 5: all derivative
+    if book_id:
+        return None
+    return results[0]
+
+
+def _gr_fetch_book_page(session, book_id):
+    """Fetch the actual Goodreads book page and extract authoritative metadata.
+
+    This is the definitive source — no matching ambiguity, no derivative works,
+    no wrong series numbers.  The book page embeds a __NEXT_DATA__ JSON blob
+    containing an Apollo cache with Book: and Work: objects.
+
+    Returns a dict with blurb, rating, rating_count, num_pages, book_id,
+    author_name, format, asin, publisher, title_complete — or None.
+    """
+    if not book_id:
+        return None
+    try:
+        url = f'https://www.goodreads.com/book/show/{book_id}'
+        r = session.get(url, timeout=20)
+        r.raise_for_status()
+        html = r.text
+        jm = re.search(r'<script[^>]*id="__NEXT_DATA__"[^>]*>(.*?)</script>',
+                       html, re.DOTALL | re.I)
+        if not jm:
+            return None
+        data = json.loads(jm.group(1))
+        apollo = data.get('props', {}).get('pageProps', {}).get('apolloState', {})
+        if not apollo:
+            return None
+
+        # Find the full Book: object (there may be stubs for other editions)
+        book_obj = None
+        for key in apollo:
+            if key.startswith('Book:'):
+                candidate = apollo[key]
+                if not isinstance(candidate, dict):
+                    continue
+                if candidate.get('description') or candidate.get('title'):
+                    book_obj = candidate
+                    break
+        if not book_obj:
+            for key in apollo:
+                if key.startswith('Book:'):
+                    book_obj = apollo[key]
+                    break
+        if not book_obj:
+            return None
+
+        # Find the Work: object (for stats)
+        work_obj = None
+        work_ref = book_obj.get('work', {})
+        if isinstance(work_ref, dict) and '__ref' in work_ref:
+            work_obj = apollo.get(work_ref['__ref'])
+        if not work_obj:
+            for key in apollo:
+                if key.startswith('Work:'):
+                    work_obj = apollo[key]
+                    break
+
+        # Blurb
+        blurb = ''
+        desc = book_obj.get('description')
+        if isinstance(desc, str):
+            blurb = re.sub(r'<[^>]+>', ' ', desc)
+            blurb = _decode_html(re.sub(r'\s+', ' ', blurb).strip())
+        elif isinstance(desc, dict):
+            blurb_html = desc.get('html', '') or desc.get('text', '')
+            blurb = re.sub(r'<[^>]+>', ' ', blurb_html)
+            blurb = _decode_html(re.sub(r'\s+', ' ', blurb).strip())
+
+        # Details
+        details = book_obj.get('details', {})
+        if not isinstance(details, dict):
+            details = {}
+        book_format = details.get('format', '') or ''
+        num_pages = details.get('numPages') or 0
+        asin = details.get('asin', '') or ''
+        publisher = details.get('publisher', '') or ''
+
+        # Rating from Work stats
+        rating = None
+        rating_count = None
+        if work_obj:
+            stats = work_obj.get('stats', {})
+            if isinstance(stats, dict):
+                rating = stats.get('averageRating')
+                rating_count = stats.get('ratingsCount')
+
+        # Cover URL
+        cover_url = book_obj.get('imageUrl', '') or ''
+        if cover_url:
+            cover_url = re.sub(r'\._S[XY]\d+_', '._SY200_', cover_url)
+
+        # Title
+        title = book_obj.get('titleComplete') or book_obj.get('title', '') or ''
+
+        # Author
+        author_name = ''
+        contrib = book_obj.get('primaryContributorEdge', {})
+        if isinstance(contrib, dict):
+            node = contrib.get('node', {})
+            if isinstance(node, dict) and '__ref' in node:
+                author_obj = apollo.get(node['__ref'], {})
+                if isinstance(author_obj, dict):
+                    author_name = author_obj.get('name', '') or ''
+
+        return {
+            'blurb':           blurb[:400] + ('\u2026' if len(blurb) > 400 else ''),
+            'rating':          rating,
+            'rating_count':    rating_count,
+            'num_pages':       num_pages or None,
+            'book_id':         str(book_obj.get('legacyId', book_id)),
+            'author_name':     author_name,
+            'format':          book_format,
+            'asin':            asin,
+            'publisher':       publisher,
+            'title_complete':  title,
+            'cover_url':       cover_url,
+            'blurb_source':    'goodreads_book_page',
+        }
+    except Exception as e:
+        print(f'    Book page error for {book_id}: {e}')
+        return None
+
+
+def _gr_autocomplete(session, title, author='', book_id=None):
+    """Fetch additional book metadata from Goodreads.
+
+    When book_id is available, fetches the actual book page (authoritative —
+    no matching ambiguity, no derivative works).  Falls back to the autocomplete
+    API when no book_id or when the page fetch fails.
+
+    Returns dict with: blurb, rating, rating_count, num_pages, book_id,
+    author_name, format, blurb_source — or None.
+    """
+    # ── Tier 0: fetch the actual book page (authoritative) ───────────────
+    if book_id:
+        page_data = _gr_fetch_book_page(session, book_id)
+        if page_data and page_data.get('blurb'):
+            return page_data
+
+    # ── Fallback: autocomplete API ───────────────────────────────────────
     global _ac_last_call
     try:
         # Rate limiting
@@ -357,40 +732,13 @@ def _gr_autocomplete(session, title, author='', book_id=None):
         if not results:
             return None
 
-        # Find the best matching result:
-        # 1. Try exact book_id match first
-        # 2. If no match, try work_id match (same book, different edition)
-        # 3. Fall back to first result only if title closely matches
-        hit = None
-        if book_id:
-            for result in results:
-                if result.get('bookId') == str(book_id):
-                    hit = result
-                    break
-
-        # Try workId match if bookId didn't match
+        hit = _gr_pick_best_hit(results, title, author, book_id)
         if not hit:
-            # Get workId from first result as reference
-            ref_work_id = results[0].get('workId') if results else None
-            if ref_work_id:
-                for result in results[1:]:
-                    if result.get('workId') == ref_work_id:
-                        # Same work, check if this result is the actual book (not summary/study guide)
-                        title_lower = result.get('title', '').lower()
-                        if 'summary' not in title_lower and 'study guide' not in title_lower and 'analysis' not in title_lower:
-                            hit = result
-                            break
+            # All results were derivative works and we have a known book_id —
+            # return None so the cache entry keeps its HTML-parsed data rather
+            # than being polluted with a summary/study guide's wrong metadata.
+            return None
 
-        # Last resort: use first result that isn't a summary/guide
-        if not hit:
-            for result in results:
-                title_lower = result.get('title', '').lower()
-                if 'summary' not in title_lower and 'study guide' not in title_lower and 'analysis' not in title_lower:
-                    hit = result
-                    break
-            # If all are summaries, use first result
-            if not hit:
-                hit = results[0]
         desc_obj = hit.get('description') or {}
         blurb_html = desc_obj.get('html', '') if isinstance(desc_obj, dict) else ''
         blurb = re.sub(r'<[^>]+>', ' ', blurb_html)
@@ -401,12 +749,14 @@ def _gr_autocomplete(session, title, author='', book_id=None):
         author_name = author_obj.get('name', '') if isinstance(author_obj, dict) else ''
 
         return {
-            'blurb': blurb[:400] + ('…' if len(blurb) > 400 else ''),
-            'rating': hit.get('avgRating'),
+            'blurb':        blurb[:400] + ('\u2026' if len(blurb) > 400 else ''),
+            'rating':       hit.get('avgRating'),
             'rating_count': hit.get('ratingsCount'),
-            'num_pages': hit.get('numPages'),
-            'book_id': hit.get('bookId', ''),
-            'author_name': author_name,
+            'num_pages':    hit.get('numPages'),
+            'book_id':      hit.get('bookId', ''),
+            'author_name':  author_name,
+            'format':       '',
+            'blurb_source': 'goodreads_autocomplete',
         }
     except Exception as e:
         print(f'    Autocomplete error for "{title}": {e}')
@@ -450,7 +800,10 @@ def main():
         'lists': [],
     }
 
-    all_lists = STATIC_LISTS + DYNAMIC_LISTS
+    all_lists = STATIC_LISTS + DYNAMIC_LISTS + [
+        ('award_' + slug, label, _award_url(award_id))
+        for slug, label, award_id in AWARD_LISTS
+    ]
     for slug, label, url in all_lists:
         print(f'Fetching {label}: {url}')
         try:
