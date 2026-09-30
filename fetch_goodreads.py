@@ -114,9 +114,27 @@ AWARD_LISTS = [
     ('stephen_leacock',     'Stephen Leacock Medal (Canada, humour)',      416),
     ('sunburst',            'Sunburst Award (Canada, SF/F)',                475),
     ('geffen',              'Geffen Award (Israel, SF/F)',                  106),
+    # -- North America --------------------------------------------------------
+    ('pulitzer',            'Pulitzer Prize',                                16),
+    ('national_book',       'National Book Award',                           33),
+    # -- Non-Fiction & Science ------------------------------------------------
+    ('royal_society_science', 'Royal Society Science Book Prize',            11),
+    ('goldsmith',           'Goldsmith Book Prize',                         755),
+    # -- Speculative Fiction (additions) -------------------------------------
+    ('nebula',              'Nebula Award (US, SF/F)',                       23),
+    ('world_fantasy',       'World Fantasy Award',                          100),
+    ('bram_stoker',         'Bram Stoker Award (horror)',                     7),
+    ('locus',               'Locus Award (SF/F)',                            46),
+    # -- Crime & Mystery ------------------------------------------------------
+    ('anthony',             'Anthony Award (US, crime)',                    145),
+    ('barry',               'Barry Award (US, crime)',                       54),
+    ('hammett',             'Hammett Prize (North America, crime)',         365),
+    ('shamus',              'Shamus Award (US, PI fiction)',                585),
     # -- Anti-awards & oddities ----------------------------------------------
     ('bad_sex_fiction',     'Bad Sex in Fiction Award',                   12341),
     ('coogler',             'J. Gordon Coogler Award (worst book)',          40),
+    ('thurber_prize',       'Thurber Prize for American Humor',           32007),
+    ('not_the_booker',      'Guardian Not the Booker Prize',              15615),
 ]
 
 
