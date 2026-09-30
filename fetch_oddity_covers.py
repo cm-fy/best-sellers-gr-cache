@@ -16,7 +16,7 @@ import time
 import urllib.parse
 import urllib.request
 
-SLUGS = ['diagram_prize']
+SLUGS = ['diagram_prize', 'wodehouse', 'prix_page_111']
 PAGES_BASE = 'https://cm-fy.github.io/best-sellers-gr-cache'
 UA = {'User-Agent': 'Mozilla/5.0 (Best-Sellers cover fetcher)'}
 GENERIC_AUTHORS = ('', '\u2014', 'Various authors')

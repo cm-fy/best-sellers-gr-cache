@@ -32,13 +32,24 @@ WIKI_AWARDS = [
     ('diagram_prize', 'Diagram Prize for Oddest Title of the Year',
      'Diagram Prize',
      'https://en.wikipedia.org/wiki/Diagram_Prize_for_Oddest_Title_of_the_Year'),
+    ('wodehouse', 'Bollinger Everyman Wodehouse Prize',
+     'Bollinger Everyman Wodehouse Prize',
+     'https://en.wikipedia.org/wiki/Bollinger_Everyman_Wodehouse_Prize'),
+    ('prix_page_111', 'Prix de la page 111 (France)',
+     'Prix de la page 111',
+     'https://fr.wikipedia.org/wiki/Prix_de_la_page_111'),
 ]
 
+# Prix de la page 111 lives on the French Wikipedia; everything else on English.
+_WIKI_API_FOR = {
+    'prix_page_111': 'https://fr.wikipedia.org/w/api.php',
+}
 
-def _fetch_wikitext(session, title):
+
+def _fetch_wikitext(session, title, api=API):
     params = {'action': 'parse', 'page': title, 'prop': 'wikitext',
               'format': 'json', 'redirects': 1}
-    r = session.get(API, params=params, timeout=25,
+    r = session.get(api, params=params, timeout=25,
                     headers={'User-Agent': WIKI_UA})
     r.raise_for_status()
     data = r.json()
@@ -114,8 +125,163 @@ def _parse_diagram(wikitext):
     return books
 
 
+def _sortname_to_name(cell):
+    """Turn a {{sortname|last=X|first=Y}} / {{sortname|First|Last}} cell into a
+    plain "First Last" string, then strip any remaining wiki markup."""
+    m = re.search(r'\{\{\s*sortname\s*\|([^}]*)\}\}', cell, re.I)
+    if m:
+        first = last = ''
+        positional = []
+        for part in m.group(1).split('|'):
+            part = part.strip()
+            if part.lower().startswith('first'):
+                first = part.split('=', 1)[1].strip()
+            elif part.lower().startswith('last'):
+                last = part.split('=', 1)[1].strip()
+            elif part.lower().startswith('dab'):
+                continue
+            elif '=' not in part:
+                positional.append(part)
+        if first or last:
+            name = (first + ' ' + last).strip()
+        else:
+            name = ' '.join(positional[:2]).strip()
+        # Some rows chain a second author after the template ("& [[Foo|Bar]]").
+        rest = cell[m.end():]
+        rest = _strip_wiki(rest)
+        if rest:
+            name = (name + ' ' + rest).strip()
+        return _strip_wiki(name)
+    return _strip_wiki(cell)
+
+
+def _clean_title_cell(cell):
+    """Extract a book title from a wikitext table cell, unwrapping {{sort}}.
+
+    The display value may itself contain a wikilink with a pipe
+    (``{{sort|1=Rotters' Club|2=[[The Rotters' Club (novel)|The Rotters' Club]]}}``),
+    so we cannot naively split the template body on ``|``. We take everything
+    after ``2=`` (the display form is always the last named parameter)."""
+    sm = re.search(r'\{\{\s*sort\s*\|(.*?)\}\}', cell, re.I | re.S)
+    if sm:
+        inner = sm.group(1)
+        if '2=' in inner:
+            disp = inner.split('2=', 1)[1].strip()
+        elif '1=' in inner:
+            disp = inner.split('1=', 1)[1].strip()
+        else:
+            # {{sort|key|display}} positional: display is the last segment, but
+            # keep any bracketed link intact by splitting only on top-level pipes.
+            disp = re.split(r'\|(?![^\[]*\])', inner)[-1].strip()
+        cell = disp or cell
+    return _strip_wiki(cell)
+
+
+def _parse_wodehouse(wikitext):
+    """Parse the Bollinger Everyman Wodehouse Prize winners table.
+
+    The table lists every finalist with a Result column; we keep only the
+    'Winner' rows. Year is carried in a header cell (possibly rowspanned), so
+    it persists across the shortlisted rows until the next year header."""
+    idx = wikitext.find('==Winners')
+    if idx < 0:
+        idx = wikitext.find('== Winners')
+    start = wikitext.find('{|', idx if idx >= 0 else 0)
+    if start < 0:
+        return []
+    end = wikitext.find('|}', start)
+    table = wikitext[start:end if end > 0 else len(wikitext)]
+
+    books = []
+    current_year = ''
+    rows = re.split(r'\n\|-', table)
+    for row in rows:
+        # Year header cell: "! rowspan=5 |[[2000 in literature|2000]]" or "![[2001...".
+        ym = re.search(r'!\s*(?:rowspan="?\d+"?\s*\|)?\s*\[\[(\d{4})\b', row)
+        if ym:
+            current_year = ym.group(1)
+        if not re.search(r'\bWinner\b', row):
+            continue
+        # Data cells begin lines with "|" (skip "|-", "|+", and header "!").
+        cells = []
+        for line in row.splitlines():
+            s = line.strip()
+            if s.startswith('|') and not s.startswith('|-') and not s.startswith('|+'):
+                cells.append(s[1:].strip())
+        if len(cells) < 2:
+            continue
+        author = _sortname_to_name(cells[0])
+        title = _clean_title_cell(cells[1])
+        publisher = _strip_wiki(cells[2]) if len(cells) > 2 else ''
+        if not title:
+            continue
+        books.append({
+            'rank': str(len(books) + 1),
+            'title': title,
+            'authors': author or '\u2014',
+            'cover_url': '',
+            'source_url': 'https://en.wikipedia.org/wiki/Bollinger_Everyman_Wodehouse_Prize',
+            'blurb': 'Wodehouse Prize winner ({}){}'.format(
+                current_year, ' — ' + publisher if publisher else ''),
+        })
+    return books
+
+
+def _parse_prix_page_111(wikitext):
+    """Parse the Prix de la page 111 winners list (French Wikipedia).
+
+    Winners are bullet lines under "== Liste des lauréats ==" shaped like:
+        * [[2024 en littérature|2024]] : page 111 de ''Titre'' d'[[Auteur]] (Éditeur)
+    """
+    idx = wikitext.find('Liste des lauréats')
+    body = wikitext[idx:] if idx >= 0 else wikitext
+    books = []
+    for line in body.splitlines():
+        s = line.strip()
+        # Only top-level winner bullets (skip "**" special-mention sub-bullets).
+        if not s.startswith('*') or s.startswith('**'):
+            continue
+        ym = re.search(r'\[\[(\d{4})\b', s)
+        if not ym:
+            continue
+        year = ym.group(1)
+        # Drop the "page 111 de " / "page 111 d'" prefix first, so the French
+        # elided apostrophe in "d'" cannot merge with the title's '' markers
+        # (e.g. "d'''Achab''" would otherwise capture a stray leading quote).
+        pm0 = re.search(r"page\s*111\s+d(?:e\b|['\u2019])\s*", s, re.I)
+        rest = s[pm0.end():] if pm0 else s
+        # Title is the first ''italicised'' work in the remainder.
+        tm = re.search(r"''(.+?)''", rest)
+        if not tm:
+            continue
+        title = _strip_wiki(tm.group(1))
+        # Author sits between the title and the "(Publisher)": "de X" / "d'X".
+        after = rest[tm.end():]
+        am = re.search(r"\bd[e\u2019\']\s*(.+?)\s*\(", after, re.S)
+        author = _strip_wiki(am.group(1)) if am else ''
+        pm = re.search(r'\(([^)]+)\)', after)
+        publisher = _strip_wiki(pm.group(1)) if pm else ''
+        if not title:
+            continue
+        books.append({
+            'rank': str(len(books) + 1),
+            'title': title,
+            'authors': author or '\u2014',
+            'cover_url': '',
+            'source_url': 'https://fr.wikipedia.org/wiki/Prix_de_la_page_111',
+            'blurb': 'Prix de la page 111 ({}){}'.format(
+                year, ' — ' + publisher if publisher else ''),
+        })
+    books.reverse()  # newest winner first
+    for i, b in enumerate(books, 1):
+        b['rank'] = str(i)
+    return books
+
+
 PARSERS = {
     'diagram_prize': _parse_diagram,
+    'wodehouse': _parse_wodehouse,
+    'prix_page_111': _parse_prix_page_111,
 }
 
 
@@ -132,7 +298,7 @@ def main():
     for slug, label, title, _url in WIKI_AWARDS:
         print('Fetching {} (Wikipedia:{})'.format(label, title))
         try:
-            wt = _fetch_wikitext(session, title)
+            wt = _fetch_wikitext(session, title, _WIKI_API_FOR.get(slug, API))
             parser = PARSERS.get(slug)
             books = parser(wt) if parser else []
             path = _write(slug, books)
