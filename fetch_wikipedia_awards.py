@@ -38,6 +38,10 @@ WIKI_AWARDS = [
     ('prix_page_111', 'Prix de la page 111 (France)',
      'Prix de la page 111',
      'https://fr.wikipedia.org/wiki/Prix_de_la_page_111'),
+    # Current-edition pages (year-specific), not historical winners.
+    ('booker_2026', 'Booker Prize 2026 (longlist & shortlist)',
+     '2026 Booker Prize',
+     'https://en.wikipedia.org/wiki/2026_Booker_Prize'),
 ]
 
 # Prix de la page 111 lives on the French Wikipedia; everything else on English.
@@ -278,10 +282,97 @@ def _parse_prix_page_111(wikitext):
     return books
 
 
+def _cell_text(line):
+    """Turn a wikitext table-cell line into plain text.
+
+    Handles attribute prefixes such as
+    ``| data-sort-value="Aridjis, Chloe" | [[Chloe Aridjis]]`` by stripping
+    the attribute block (which contains a pipe that is NOT a cell separator).
+    """
+    if not line.startswith('|'):
+        line = '|' + line
+    body = line[1:]
+    m = re.match(r'\s*data-sort-value="[^"]*"\s*\|', body)
+    if m:
+        body = body[m.end():]
+    return _strip_wiki(body)
+
+
+def _parse_booker_2026(wikitext):
+    """Parse the 2026 Booker Prize nominees table
+    (Author | Title | Country | Publisher).
+
+    Shortlisted rows carry ``|-style="background: lightgrey"`` and winner
+    rows ``background: gold`` (none yet for 2026 — winner due 9 Nov 2026).
+    Shortlisted books rank first, then the remaining longlist, each keeping
+    the article's alphabetical order.
+    """
+    idx = wikitext.find('==Nominees')
+    start = wikitext.find('{|', idx if idx >= 0 else 0)
+    if start < 0:
+        return []
+    end = wikitext.find('|}', start)
+    table = wikitext[start:end if end > 0 else len(wikitext)]
+
+    shortlist, longlist = [], []
+    for row in re.split(r'\n\|-', table):
+        if row.lstrip().startswith('!') or row.strip() == '{|':
+            continue
+        is_short = 'background: lightgrey' in row.splitlines()[0] if row.splitlines() else False
+        is_gold = 'background: gold' in row.splitlines()[0] if row.splitlines() else False
+        cells = []
+        for line in row.splitlines():
+            s = line.strip()
+            if s.startswith('|') and not s.startswith('|-') and not s.startswith('|+'):
+                cells.append(_cell_text(s))
+        if len(cells) < 4 or not cells[0]:
+            continue
+        author, title, country, publisher = (cells + ['', '', '', ''])[:4]
+        if not title:
+            continue
+        entry = {
+            'title': title,
+            'authors': author,
+            'cover_url': '',
+            'source_url': 'https://en.wikipedia.org/wiki/2026_Booker_Prize',
+            'blurb': '2026 Booker Prize \u2014 {} ({}{})'.format(
+                'Winner' if is_gold else ('Shortlisted' if is_short else 'Longlisted'),
+                publisher, ', ' + country if country else ''),
+        }
+        (shortlist if (is_short or is_gold) else longlist).append(entry)
+
+    books = shortlist + longlist
+    for i, b in enumerate(books, 1):
+        b['rank'] = str(i)
+    return books
+
+
+PAGES_BASE = 'https://cm-fy.github.io/best-sellers-gr-cache'
+
+
+def _reattach_covers(slug, books):
+    """Re-link hosted covers after a re-parse so re-runs are non-destructive.
+
+    The parsers emit empty cover_url values; any cover already hosted under
+    gr/covers/<slug>/<rank>.jpg is re-linked by rank.
+    """
+    cover_dir = os.path.join(OUTPUT_DIR, 'covers', slug)
+    if not os.path.isdir(cover_dir):
+        return
+    for b in books:
+        rank = str(b.get('rank') or '').strip()
+        if not rank:
+            continue
+        if os.path.exists(os.path.join(cover_dir, rank + '.jpg')):
+            b['cover_url'] = '{}/gr/covers/{}/{}.jpg'.format(PAGES_BASE, slug, rank)
+    return books
+
+
 PARSERS = {
     'diagram_prize': _parse_diagram,
     'wodehouse': _parse_wodehouse,
     'prix_page_111': _parse_prix_page_111,
+    'booker_2026': _parse_booker_2026,
 }
 
 
@@ -301,6 +392,7 @@ def main():
             wt = _fetch_wikitext(session, title, _WIKI_API_FOR.get(slug, API))
             parser = PARSERS.get(slug)
             books = parser(wt) if parser else []
+            _reattach_covers(slug, books)
             path = _write(slug, books)
             print('  {} books -> {}'.format(len(books), path))
         except Exception as e:  # noqa: BLE001
