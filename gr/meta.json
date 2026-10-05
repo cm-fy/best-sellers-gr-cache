@@ -1,7 +1,7 @@
 {
-  "fetched_at": "2026-09-28T08:27:16.898706Z",
+  "fetched_at": "2026-10-05T08:41:06.192826Z",
   "year": 2026,
-  "month": 9,
+  "month": 10,
   "lists": [
     {
       "slug": "most_read",
@@ -27,7 +27,7 @@
     {
       "slug": "popular_month",
       "label": "Popular This Month",
-      "url": "https://www.goodreads.com/book/popular_by_date/2026/9",
+      "url": "https://www.goodreads.com/book/popular_by_date/2026/10",
       "book_count": 15,
       "status": "ok"
     },
@@ -36,6 +36,321 @@
       "label": "Popular This Year",
       "url": "https://www.goodreads.com/book/popular_by_date/2026/",
       "book_count": 15,
+      "status": "ok"
+    },
+    {
+      "slug": "award_litt_policiere",
+      "label": "Grand Prix de Littérature Policière (France)",
+      "url": "https://www.goodreads.com/award/show/195",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_premio_nadal",
+      "label": "Premio Nadal (Spain)",
+      "url": "https://www.goodreads.com/award/show/545",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_premio_herralde",
+      "label": "Premio Herralde de Novela (Spain)",
+      "url": "https://www.goodreads.com/award/show/537",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_romulo_gallegos",
+      "label": "Premio Rómulo Gallegos (Venezuela)",
+      "url": "https://www.goodreads.com/award/show/538",
+      "book_count": 21,
+      "status": "ok"
+    },
+    {
+      "slug": "award_kurd_lasswitz",
+      "label": "Kurd-Laßwitz-Preis (Germany, SF)",
+      "url": "https://www.goodreads.com/award/show/210",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_buxtehuder_bulle",
+      "label": "Buxtehuder Bulle (Germany, YA)",
+      "url": "https://www.goodreads.com/award/show/295",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_internat_literaturpreis",
+      "label": "Internationaler Literaturpreis (Germany)",
+      "url": "https://www.goodreads.com/award/show/495",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_nederlandse_boek",
+      "label": "Publieksprijs Nederlandse Boek (Netherlands)",
+      "url": "https://www.goodreads.com/award/show/457",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_golshiri",
+      "label": "Houshang Golshiri Award (Iran)",
+      "url": "https://www.goodreads.com/award/show/733",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_frank_oconnor",
+      "label": "Frank O’Connor Short Story Award (Ireland)",
+      "url": "https://www.goodreads.com/award/show/707",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_booker_prize",
+      "label": "Booker Prize",
+      "url": "https://www.goodreads.com/award/show/13",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_womens_prize",
+      "label": "Women’s Prize for Fiction (Orange)",
+      "url": "https://www.goodreads.com/award/show/90",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_costa_whitbread",
+      "label": "Costa / Whitbread Book Award",
+      "url": "https://www.goodreads.com/award/show/111",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_james_tait_black",
+      "label": "James Tait Black Memorial Prize",
+      "url": "https://www.goodreads.com/award/show/94",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_somerset_maugham",
+      "label": "Somerset Maugham Award",
+      "url": "https://www.goodreads.com/award/show/278",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_guardian_first_book",
+      "label": "Guardian First Book Award",
+      "url": "https://www.goodreads.com/award/show/92",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_guardian_fiction",
+      "label": "Guardian Fiction Award",
+      "url": "https://www.goodreads.com/award/show/89",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_llewellyn_rhys",
+      "label": "John Llewellyn Rhys Prize",
+      "url": "https://www.goodreads.com/award/show/246",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_wh_smith_literary",
+      "label": "WH Smith Literary Award",
+      "url": "https://www.goodreads.com/award/show/480",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_kate_greenaway",
+      "label": "Kate Greenaway Medal",
+      "url": "https://www.goodreads.com/award/show/690",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_winifred_holtby",
+      "label": "Winifred Holtby Memorial Prize",
+      "url": "https://www.goodreads.com/award/show/704",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_warwick_prize",
+      "label": "Warwick Prize for Writing",
+      "url": "https://www.goodreads.com/award/show/87",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_arthur_c_clarke",
+      "label": "Arthur C. Clarke Award (UK, SF)",
+      "url": "https://www.goodreads.com/award/show/76",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_bsfa",
+      "label": "BSFA Award (UK, SF)",
+      "url": "https://www.goodreads.com/award/show/243",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_gemmell_legend",
+      "label": "David Gemmell Legend Award (UK, fantasy)",
+      "url": "https://www.goodreads.com/award/show/550",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_cwa_silver_dagger",
+      "label": "CWA Silver Dagger (UK, crime)",
+      "url": "https://www.goodreads.com/award/show/535",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_stephen_leacock",
+      "label": "Stephen Leacock Medal (Canada, humour)",
+      "url": "https://www.goodreads.com/award/show/416",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_sunburst",
+      "label": "Sunburst Award (Canada, SF/F)",
+      "url": "https://www.goodreads.com/award/show/475",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_geffen",
+      "label": "Geffen Award (Israel, SF/F)",
+      "url": "https://www.goodreads.com/award/show/106",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_pulitzer",
+      "label": "Pulitzer Prize",
+      "url": "https://www.goodreads.com/award/show/16",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_national_book",
+      "label": "National Book Award",
+      "url": "https://www.goodreads.com/award/show/33",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_royal_society_science",
+      "label": "Royal Society Science Book Prize",
+      "url": "https://www.goodreads.com/award/show/11",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_goldsmith",
+      "label": "Goldsmith Book Prize",
+      "url": "https://www.goodreads.com/award/show/755",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_nebula",
+      "label": "Nebula Award (US, SF/F)",
+      "url": "https://www.goodreads.com/award/show/23",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_world_fantasy",
+      "label": "World Fantasy Award",
+      "url": "https://www.goodreads.com/award/show/100",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_bram_stoker",
+      "label": "Bram Stoker Award (horror)",
+      "url": "https://www.goodreads.com/award/show/7",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_locus",
+      "label": "Locus Award (SF/F)",
+      "url": "https://www.goodreads.com/award/show/46",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_anthony",
+      "label": "Anthony Award (US, crime)",
+      "url": "https://www.goodreads.com/award/show/145",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_barry",
+      "label": "Barry Award (US, crime)",
+      "url": "https://www.goodreads.com/award/show/54",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_hammett",
+      "label": "Hammett Prize (North America, crime)",
+      "url": "https://www.goodreads.com/award/show/365",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_shamus",
+      "label": "Shamus Award (US, PI fiction)",
+      "url": "https://www.goodreads.com/award/show/585",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_bad_sex_fiction",
+      "label": "Bad Sex in Fiction Award",
+      "url": "https://www.goodreads.com/award/show/12341",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_coogler",
+      "label": "J. Gordon Coogler Award (worst book)",
+      "url": "https://www.goodreads.com/award/show/40",
+      "book_count": 8,
+      "status": "ok"
+    },
+    {
+      "slug": "award_thurber_prize",
+      "label": "Thurber Prize for American Humor",
+      "url": "https://www.goodreads.com/award/show/32007",
+      "book_count": 30,
+      "status": "ok"
+    },
+    {
+      "slug": "award_not_the_booker",
+      "label": "Guardian Not the Booker Prize",
+      "url": "https://www.goodreads.com/award/show/15615",
+      "book_count": 16,
       "status": "ok"
     },
     {
